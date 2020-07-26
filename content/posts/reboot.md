@@ -1,13 +1,24 @@
 ---
-title: "Reboot"
-date: 2020-07-14T19:54:15+01:00
-tags: [meta, web,]
-draft: false
-summary: "Here's a little story about the struggle between the internet as an archive and a web that wants to forget. The internet is a library, yes. But there are people wandering between the stacks. While the source material may need to be eternal, the thoughts, notes, scribbles and conversations that happen around them may sometimes best be forgotten."
-tldr: "I deleted my old blog and made a new one. This is the new one."
----
+title: Reboot
+date: 2020-07-14T19:54:15.000+01:00
+tags:
+- meta
+- web
+summary: Here's a little story about the struggle between the internet as an archive
+  and a web that wants to forget. The internet is a library, yes. But there are people
+  wandering between the stacks. While the source material may need to be eternal,
+  the thoughts, notes, scribbles and conversations that happen around them may sometimes
+  best be forgotten.
+tldr: I deleted my old blog and made a new one. This is the new one.
 
+---
+Welcome to the latest version of the online experiment. One good thing about publishing in mostly obscurity is that you can wipe out previous work and most people won't even notice. For the new experiment, we've moved off of [Wordpress](https://wordpress.org) and into flat-site maker [Hugo](https://gohugo.io).
+
+<<<<<<< HEAD
 Welcome to the latest version of the online experiment. One good thing about publishing in mostly obscurity is that you can wipe out previous work and most people won't even notice. For the new experiment, we've moved off of [Wordpress](https://wordpress.org) and into flat-site maker [Hugo](https://gohugo.io). I view the personal website as a kind of sand mandala. Every now and again it's good to just wipe it out and start fresh. There were never any magnificent prose here, so it's no big loss to the world's collected knowledge. Had there been anything of note, it should have found its way into a book before this happened if it wanted to survive.
+=======
+I view the personal website as a kind of sand mandala. Every now and again it's good to just wipe it out and start fresh. There were never any magnificent prose here, so it's no big loss to the world's collected knowledge. Had there been anything of note, it should have found its way into a book before this happened if it wanted to survive.
+>>>>>>> origin/master
 
 I'm a fan of the volatile, ephemeral web; the one with the disappearing messages, the encrypted channels with expiring keys, the amnesiac systems that approximate the sensation of real time, live exchanges and provide the closest examples of actual private rooms. Not for anything secret or sinister. For entropy. For normality.
 
