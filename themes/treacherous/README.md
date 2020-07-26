@@ -1,4 +1,7 @@
 # Treacherous - Hugo theme
+
+![I love the vintage movie posters](images/ci-cc72.jpeg "Counter-Espionage")
+
 Treacherous is an ever so slightly hacked fork of the Archie Hugo theme, which remains a minimal and clean theme for hugo with a markdown-ish UI. If you want to base your work off a theme, use that one. You'll be happier.
 
 The Archie theme is, in turn, forked from the [Ezhil Theme](https://github.com/vividvilla/ezhil), which is alsoo pretty clean. My aim was to go for a more brutalist approach, here.
