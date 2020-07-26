@@ -1,3 +1,46 @@
-baseURL = "http://example.org/"
+baseURL = "https://treacherous.tech/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "treacherous.tech"
+theme="treacherous"
+copyright = "   © Yours truly"
+pygmentsstyle = "native"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+publishDir = "docs"
+
+
+[params]
+	mode="auto"
+	featherIconsCDN=true
+	subtitle = "Be wary of technology's many promises. It keeps them all."
+
+[[params.social]]
+name = "GitHub"
+icon = "github"
+url = "https://github.com/drew3000"
+
+[[params.social]]
+name = "Twitter"
+icon = "twitter"
+url = "https://twitter.com/andrewfordlyons/"
+
+[[params.social]]
+name = "Linkedin"
+icon = "linkedin"
+url = "https://www.linkedin.com/in/andrew-ford-lyons-9524051a5/"
+
+
+[[menu.main]]
+name = "bL0g"
+url = "/posts"
+weight = 2
+
+[[menu.main]]
+name = "yours.truly"
+url = "/about"
+weight = 1
+
+[[menu.main]]
+name = "t0pic@l"
+url = "/tags"
+weight = 3
