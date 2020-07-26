@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://treacherous.tech/</loc>
+    <lastmod>2020-07-14T19:54:15+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://treacherous.tech/tags/meta/</loc>
+    <lastmod>2020-07-14T19:54:15+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://treacherous.tech/posts/</loc>
+    <lastmod>2020-07-14T19:54:15+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://treacherous.tech/posts/reboot/</loc>
+    <lastmod>2020-07-14T19:54:15+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://treacherous.tech/tags/</loc>
+    <lastmod>2020-07-14T19:54:15+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://treacherous.tech/tags/web/</loc>
+    <lastmod>2020-07-14T19:54:15+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://treacherous.tech/about/</loc>
+    <lastmod>2019-02-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://treacherous.tech/categories/</loc>
+  </url>
+  
+</urlset>
