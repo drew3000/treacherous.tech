@@ -3,7 +3,7 @@ title: "Stop painting rainbows"
 date: 2020-08-08T22:42:32+01:00
 tags: [happy to be wrong,]
 draft: false
-summary: "There's a tendency in among talks and really solid books outlining real systemic problems to tack on a sort of 'now, here's the good news' final chapter or post-script. Mostly, these undermine all the points that preceded it."
+summary: "There's a tendency in talks and really solid books outlining real systemic problems to tack on a sort of 'now, here's the good news' final chapter or post-script. Mostly, these undermine all the points that preceded it."
 tldr: "Sometimes there is no upside."
 
 ---
@@ -16,4 +16,4 @@ Take face recognition software, a massive game changer in the surveillance marke
 
 When the question of "what should we do?" was put to Zuboff, a ban was also her recommendation. It would be wise. It won't happen. People respond viscerally to some tech. [Remember Google Glass](https://www.wired.com/story/google-glass-reasonable-expectation-of-privacy/)? No one wanted it in their face. One of my favorite Seattle dives of the day [made national headlines](https://www.forbes.com/sites/matthickey/2013/11/26/seattle-diner-booting-customers-for-wearing-google-glass/#5074828767e7) for kicking people out for wearing them. It was a moment of surveillance push-back, though mostly symbolic because you could see it in the form of fairly annoying looking headware. But even by then it was a lost cause. Everyone in that same bar has a rectangular device that gathers and shares far more data across multiple networks than any pair of Google specs could do. And we like these ones because they're useful and entertaining and we have the feeling of control over them. Will we ban these as well? C'mon.
 
-Those accurately, precisely, identifying problems shouldn't be on the hook to provide the happy ending. That's group work. It's like painting a rainbow on the side of a building. It's colourful, but it's not a rainbow. It's fake. If you want one of those, you need to organise light to pass through some cascading water drops with people observing it from the right angle. If you want any change from a current situation, you need to create the conditions in which it naturally occurs.
+Those accurately, precisely, identifying problems shouldn't be on the hook to provide the happy ending. That's group work. It's like painting a rainbow on the side of a building. It's colourful, but it's not a rainbow. It's fake. If you want one of those, you need to organise light to pass through some cascadings water drops with people observing it from the right angle. If you want any change from a current situation, you need to create the conditions in which it naturally occurs.
