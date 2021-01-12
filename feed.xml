@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>treacherous.tech</title>
+    <link href="https://treacherous.tech/feed.xml" rel="self" />
+    <link href="https://treacherous.tech" />
+    <updated>1970-01-01T01:00:00+01:00</updated>
+    <author>
+        <name>Yours Truly</name>
+    </author>
+    <id>https://treacherous.tech</id>
+
+    <entry>
+        <title>New year; new blog</title>
+        <author>
+            <name>Yours Truly</name>
+        </author>
+        <link href="https://treacherous.tech/new-year-new-blog.html"/>
+        <id>https://treacherous.tech/new-year-new-blog.html</id>
+            <category term="meta"/>
+
+        <updated>2021-01-12T00:58:42+00:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://treacherous.tech/media/posts/1/tumblr_p5hrv8fPab1skkfpco2_1280.jpg" alt="" />
+                    Hello friend, Happy 2021 (to come) and thanks for keeping up with the ever evolving progression of this experiment. 2020 was the dumpster fire that gave more flame than than anyone could have expected, or would have asked for.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://treacherous.tech/media/posts/1/tumblr_p5hrv8fPab1skkfpco2_1280.jpg" alt="" />
+                <p>Hello friend,</p>
+<p>Happy 2021 (to come) and thanks for keeping up with the ever evolving progression of this experiment. 2020 was the dumpster fire that gave more flame than than anyone could have expected, or would have asked for. Toward the end of 2019, I'd ditched Wordpress for Hugo and created all of 3 blog posts.</p>
+<p>This year, I'm starting with <a href="#INTERNAL_LINK#/post/null" target="_blank" rel="noopener noreferrer">Publii</a>, which is an open source app that generates flat-sites. It's part of my continuing search for website management tools that keep the back end away from the front end by default, are light on the server, and easy on the user.<a href="https://getpublii.com/" title="publii" target="_blank" rel="noopener noreferrer"></a></p>
+<p>So like each time I do this, I start out minimal, and wipe what came before. I believe in the permeable web, the volatile one. The web that forgets. The non-centralised, federated services one. Sure, we need that archiving internet, the one with tracking and accountability for our governments, leaders (be they political, corporate, religious or social) and all these caches, backups and searchable systems that keep the receipts. For a lot of the rest of us, though, we need one that is more like a sand mandala. Something that gives us the privacy, security, and most importantly, the space to experiment and either maintain, iterate or wipe: no harm; no foul.</p>
+<p>Unfortunately, the inverse is more commonly the case. Kids say dumb things on Instagram and it chases them into the starts of their careers. Videos meant for one set of eyes get immortalised for all eyes for all time. Humans aren't designed for the web we have. It's not sense in blaming the user. It makes as much sense as blaming jellyfish for beaching themselves on the outgoing tide. The situation moves faster than our survival instincts. We should still be sitting somewhere in a savannah staring into the middle distance with an expression that implies more significant thought than what's really going on. Parts of our brains have developed a world that other parts of our brains can'd deal with. So cut yourself some slack. You aren't even supposed to be here today. None of us are.</p>
+<p>We're still calling it Treacherous Tech, because the theme still suits the overall point. The promises come with catches. There are stings attached in all the ToS, the monetisation efforts and ever expanding threat surface was inflict on ourselves in order to have dopamine rushes from people clicking <span style="color: #e03e2d;">♥️</span> on our selfies. Technology keeps its promises, so be sure you know what it's promising.</p>
+<p>I already prefer the editing interface of publii. It's a little buggy and unfinished in parts. I like that it's local, I like that it's an app. It feels more like a word processor than a CMS. I like that the drafts are mine, here on this machine, before I publish them on some server somewhere, even in draft mode. I like that I don't need to launch the terminal and manually chug through git processes just to make each blog post. It's got a slightly wonky interface and I don't think all the buttons are labeled that well, and I think it could benefit from some usability love, but early days.</p>
+<p>I'm using the default theme this CMS comes with, and don't expect much on that front. I don't care much how it looks. It's just a thing to write into. A bit more FOSS and self-hosted than Medium. A bit less faff than a Wordpress or Drupal or Hugo or Jekill.</p>
+<p>It's a new year, and I'm taking the easy route. There's enough going on with a pandemic, a Brexit, some chump in the White House who can't take a hint. Another year or so in doors. Go easy on yourself, too.</p>
+<p>Happy new year,</p>
+<p>Yours truly.</p>
+            ]]>
+        </content>
+    </entry>
+</feed>
