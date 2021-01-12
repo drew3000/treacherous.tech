@@ -1,4 +1,0 @@
-+++
-author = "Yours truly"
-+++
-
