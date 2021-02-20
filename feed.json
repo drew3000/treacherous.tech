@@ -13,8 +13,8 @@
             "id": "https://treacherous.tech/bypassing-online-censorship.html",
             "url": "https://treacherous.tech/bypassing-online-censorship.html",
             "title": "A little resource on bypassing online censorship",
-            "summary": " Started a small resource page for people on how to deal with different kinds of censorship, that I'm calling The Detour. It's currently got some information around technology that can help during an Internet Shutdown, since that's been&hellip;",
-            "content_html": "\n  <p>\n    Started a small resource page for people on how to deal with different kinds of censorship, that I'm calling <a href=\"https://listed.to/@the_detour\" target=\"_blank\">The Detour</a>. It's currently got some information around technology that can help during an Internet Shutdown, since that's been some focus of conversation over the last week following the military coup in Myanmar, and the shutdown that happened there. But internet shutdowns are on the rise, so wanted to start with some posts on that.\n  </p>\n\n  <p>\n    I'll be moving on to include some resources on other kinds of internet censorship and how to work around it. The goal overall is to keep it end-user focused, though may add a post on the bigger, more involved projects.\n  </p>\n\n  <p>\n    I'm a <a href=\"https://standardnotes.org/\" target=\"_blank\">Standard Notes</a> user, and recently noticed that it has a simple blogging function that publishes on&nbsp;<a href=\"https://listed.to/\" target=\"_blank\">Listed.to</a>. This is a great way for simple, offline writing and editing and then pushing the results you're happy with to a live site. I'm very interested in these methods of no-database, secure workflow publishing models. There's very little need to touch the internet until you're ready to publish something, as opposed to typical the typical set up you'd see in Wordpress, Drupal, Django or others that lump the front-end and administration parts of your website in one, easily attackable location by default. It's not an incredibly sophisticated publishing tool, but really easy for anyone to start, and the model is incredibly attractive if you wanted to extend it to a small team who could submit, review edit and publish using Standard Notes already existing encrypted sharing functions. It's much better than leaving unfinished drafts on a public website, or having to keep persistent connections to a web server while doing the research, writing and editing.\n  </p>\n\n  <p>\n    \n  </p>",
+            "summary": " Started a small resource page for people on how to deal with internet shutdowns that I'm calling The Detour.&nbsp; Shutdowns been in the news over the last week following the military coup in Myanmar, and the shutdown that&hellip;",
+            "content_html": "\n  <p>\n    Started a small resource page for people on how to deal with internet shutdowns that I'm calling <a href=\"https://listed.to/@the_detour\" target=\"_blank\">The Detour</a>.&nbsp;\n  </p>\n\n  <p>\n    Shutdowns been in the news over the last week following the military coup in Myanmar, and the shutdown that happened there, and threats of it happening again in Iran. internet shutdowns are on the rise, and have long been a tool by regimes to stop organising happening internally or news getting out.&nbsp; <a href=\"https://www.hrw.org/world-report/2020/country-chapters/global-5\" target=\"_blank\">internet Shutdowns are on the rise</a>. We've already seen it happen in 2021. [In 2019]. In 2020 there were <a href=\"https://www.hrw.org/world-report/2020/country-chapters/global-5\" target=\"_blank\">83 documented shutdowns</a> in the world. A bit down from the <a href=\"https://www.accessnow.org/cms/assets/uploads/2020/02/KeepItOn-2019-report-1.pdf\" target=\"_blank\">213 shutdowns that happened in in 2019</a>, but still on the upward trajectory. There were 33 in 2018 and 25 the year before that.\n  </p>\n\n  <p>\n    I'll be moving on to include some resources on other kinds of internet censorship and how to work around it. The goal overall is to keep it end-user focused, though may add a post on the bigger, more involved projects. The other goal is to experiment with a pretty easy and sturdy way of publishing on the web.\n  </p>\n\n    <h3 id=\"what-the-detour-is-made-with\">\n      What 'The Detour' is made with...\n    </h3>\n\n  <p>\n    As I've noted in earlier posts on this blog, I'm interested in simple, sturdy and secure ways to publish online. Sites that don't need databases or login credentials. Site's with minimal code bases to maintain. I'm publishing this site using Publii and Github pages. The work happens through an app on my computer and then spits pages at a site hosted on Github. So The Detour is an experiment along these lines.\n  </p>\n\n  <p>\n    I'm a <a href=\"https://standardnotes.org/\" target=\"_blank\">Standard Notes</a> user. It's an extendable, open source text editor that's good for taking quick notes, editing, and storing information. It's open source, and can sync across devices and back-up in the cloud of your choice with strong encryption. I&nbsp;recently noticed that it has a simple blogging function that publishes on&nbsp;<a href=\"https://listed.to/\" target=\"_blank\">Listed.to</a>.&nbsp;\n  </p>\n\n  <p>\n    It's not an incredibly sophisticated publishing tool, but really easy for anyone to start, and the model is incredibly attractive if you wanted to extend it to a small team who could submit, review edit and publish using Standard Notes already existing encrypted sharing functions. It's much better than leaving unfinished drafts on a public website, or having to keep persistent connections to a web server while doing the research, writing and editing.\n  </p>\n\n  <p>\n    \n  </p>",
             "image": "https://treacherous.tech/media/posts/6/detour.png",
             "author": {
                 "name": "Yours Truly"
@@ -22,8 +22,8 @@
             "tags": [
                    "circumvention"
             ],
-            "date_published": "2021-02-14T01:56:20+00:00",
-            "date_modified": "2021-02-14T01:56:20+00:00"
+            "date_published": "2021-02-20T01:28:23+00:00",
+            "date_modified": "2021-02-20T01:28:23+00:00"
         },
         {
             "id": "https://treacherous.tech/time-to-read.html",
@@ -38,8 +38,8 @@
             "tags": [
                    "life "
             ],
-            "date_published": "2021-02-14T01:56:20+00:00",
-            "date_modified": "2021-02-14T01:56:20+00:00"
+            "date_published": "2021-02-20T01:28:23+00:00",
+            "date_modified": "2021-02-20T01:28:23+00:00"
         },
         {
             "id": "https://treacherous.tech/the-regime-that-the-internet-created.html",
@@ -54,8 +54,8 @@
             "tags": [
                    "politics"
             ],
-            "date_published": "2021-02-14T01:56:20+00:00",
-            "date_modified": "2021-02-14T01:56:20+00:00"
+            "date_published": "2021-02-20T01:28:23+00:00",
+            "date_modified": "2021-02-20T01:28:23+00:00"
         },
         {
             "id": "https://treacherous.tech/new-year-new-blog.html",
@@ -70,8 +70,8 @@
             "tags": [
                    "meta"
             ],
-            "date_published": "2021-02-14T01:56:20+00:00",
-            "date_modified": "2021-02-14T01:56:20+00:00"
+            "date_published": "2021-02-20T01:28:23+00:00",
+            "date_modified": "2021-02-20T01:28:23+00:00"
         }
     ]
 }
