@@ -10,6 +10,22 @@
     },
     "items": [
         {
+            "id": "https://treacherous.tech/this-is-how-they-tell-me-the-world-ends.html",
+            "url": "https://treacherous.tech/this-is-how-they-tell-me-the-world-ends.html",
+            "title": "Reading: &#x27;This is How They Tell Me The World Ends&#x27;",
+            "summary": " I'm only early pages into \"This is How They Tell Me the World Ends\", a readable tour through the quickly escalating cyber war between states and sometimes non-state groups, by New York Times journalist Nicole Perlroth, and will&hellip;",
+            "content_html": "\n  <p>\n    I'm only early pages into \"<a href=\"https://www.goodreads.com/book/show/49247043-this-is-how-they-tell-me-the-world-ends\" target=\"_blank\">This is How They Tell Me the World Ends</a>\", a readable tour through the quickly escalating cyber war between states and sometimes non-state groups, by New York Times journalist Nicole Perlroth, and will update this post later with a full review. But highly recommend it if you want to read along with me.\n  </p>\n\n  <p>\n    What it's got going for it: It's readable and fast paced and Perlroth has a good narrative voice and also makes for a good central character navigating from one technology nightmare to the next for the NYT. She's good at avoiding the technical jargon where it's not needed and explaining it where it's unavoidable. I think her short-cuts to educating readers on what are sometimes really complicated topics will be like fingernails on a chalkboard to experts in cyber security fields, but this book isn't aimed at that audience, and so far her descriptions are at least hitting the dartboard if not always the bullseye.\n  </p>\n\n  <p>\n    There's <a href=\"http://addxorrol.blogspot.com/2021/02/book-review-this-is-how-they-tell-me.html\" target=\"_blank\">a very in-depth review of the book here</a>, but don't let it put you off if you're generally interested in how the U.S., Russia, China along with other countries and a growing cast of non-state groups are taking aim at power grids, telecommunications services and anything that keeps a nation running, all of it, more or less, managed over the same internet you're using to read these words.\n  </p>\n\n    <h3 id=\"the-good-bits-so-far\">\n      The good bits so far\n    </h3>\n\n  <ul>\n    <li>It's got a good voice, tone and pace. Perlroth makes for a good character to hold the chapters together, and it's kind of useful for the reader that she's not coming from anything related to a cyber security background.</li><li>There's a lot of inside baseball about the New York Times and how it operates on these kinds of stories, and how it plays well, or doesn't play well, with others. the book starts off with her involvement in reporting on the Snowden leaks of NSA programs, and there's no shortage of snark about The Guardian.</li><li>To be honest, if the book can make a general audience more interested in these kinds of issues, then I think that's a good thing overall.</li>\n  </ul>\n\n    <h3 id=\"the-rough-bits\">\n      The rough bits\n    </h3>\n\n  <ul>\n    <li>I'd agree with the above linked review on a few things: Their's a really strong bias toward America being a bit too clean. I'd add that there's also too much of a bias that the NYT can do no wrong. She cites Glenn Greenwald and Edward Snowden's disgust with the Guardian for collaborating with the Times on the NSA files, noting Snowden still didn't trust the Times because it had sat on another story for nearly a year about NSA mass surveillance of phones. But she dismisses this as no reason to not trust the Times now. Why? That would be a perfect reason to not trust it. (Greenwald should have still acted like an ass, though, in holding back files, which essentially is pretty hypocritical given the reason why he did it).</li><li>There is too much of a focus on 0-day exploits. These are bugs in a system that no one new existed. Hackers finding these have immediate and often damaging access. These do exist and are problematic, but they're also not the most common problem. The most common problem is that a lot of systems managing important, life-impacting infrastructure, is built on flawed, poorly designed systems and often these systems aren't even updated to have the security patches that exist. Often hackers don't need 0-days, just time to find the holes that are known. Just two out of too many examples to list:</li><ul><li><a href=\"https://en.wikipedia.org/wiki/WannaCry_ransomware_attack\" target=\"_blank\">The cyber attack on the NHS </a>didn't need a 0-day exploit, just old versions of Windows and an easily tricked member of staff.</li><li><a href=\"https://krebsonsecurity.com/2021/02/whats-most-interesting-about-the-florida-water-system-hack-that-we-heard-about-it-at-all/\" target=\"_blank\">The Florida water systems hack</a>&nbsp;didn't need a 0-day exploit. The hacker found an insecure web page with settings that allowed them to change acidity levels in the water treatment to lethal levels (thankfully someone was paying attention when it happened).</li></ul>\n  </ul>\n\n  <p>\n    It's interesting that the book has a<a href=\"https://bookshop.org/books/this-is-how-they-tell-me-the-world-ends-the-cyberweapons-arms-race/9781635576054\" target=\"_blank\">lready been optioned for film or television treatment</a>. Good for her, I say, take the money and run. I'm a bit concerned that it will turn out to be something like \"Homeland\" but for the cybers, and so, you know, awful. But thus far the book is a readable, guided tour through the complex systems that are growing more fragile and hard to control and yet more responsible for not wiping a lot of us out in one go. Enjoy.\n  </p>",
+            "image": "https://treacherous.tech/media/posts/7/this-is-how.jpg",
+            "author": {
+                "name": "Yours Truly"
+            },
+            "tags": [
+                   "books"
+            ],
+            "date_published": "2021-02-25T21:18:43+00:00",
+            "date_modified": "2021-02-25T21:18:43+00:00"
+        },
+        {
             "id": "https://treacherous.tech/bypassing-online-censorship.html",
             "url": "https://treacherous.tech/bypassing-online-censorship.html",
             "title": "A little resource on bypassing online censorship",
@@ -22,8 +38,8 @@
             "tags": [
                    "circumvention"
             ],
-            "date_published": "2021-02-20T01:28:23+00:00",
-            "date_modified": "2021-02-20T01:28:23+00:00"
+            "date_published": "2021-02-25T21:18:43+00:00",
+            "date_modified": "2021-02-25T21:18:43+00:00"
         },
         {
             "id": "https://treacherous.tech/time-to-read.html",
@@ -38,8 +54,8 @@
             "tags": [
                    "life "
             ],
-            "date_published": "2021-02-20T01:28:23+00:00",
-            "date_modified": "2021-02-20T01:28:23+00:00"
+            "date_published": "2021-02-25T21:18:43+00:00",
+            "date_modified": "2021-02-25T21:18:43+00:00"
         },
         {
             "id": "https://treacherous.tech/the-regime-that-the-internet-created.html",
@@ -54,8 +70,8 @@
             "tags": [
                    "politics"
             ],
-            "date_published": "2021-02-20T01:28:23+00:00",
-            "date_modified": "2021-02-20T01:28:23+00:00"
+            "date_published": "2021-02-25T21:18:43+00:00",
+            "date_modified": "2021-02-25T21:18:43+00:00"
         },
         {
             "id": "https://treacherous.tech/new-year-new-blog.html",
@@ -70,8 +86,8 @@
             "tags": [
                    "meta"
             ],
-            "date_published": "2021-02-20T01:28:23+00:00",
-            "date_modified": "2021-02-20T01:28:23+00:00"
+            "date_published": "2021-02-25T21:18:43+00:00",
+            "date_modified": "2021-02-25T21:18:43+00:00"
         }
     ]
 }
