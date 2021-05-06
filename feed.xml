@@ -18,7 +18,7 @@
         <id>https://treacherous.tech/this-is-how-they-tell-me-the-world-ends.html</id>
             <category term="books"/>
 
-        <updated>2021-04-21T22:26:55+01:00</updated>
+        <updated>2021-05-06T21:56:21+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://treacherous.tech/media/posts/7/this-is-how.jpg" alt="Coffee and book" />
@@ -38,7 +38,17 @@
   </p>
 
   <p>
-    I decided to read the book actually after catching some critical reviews by people more on the engineering side of technology. One thing they had in common aside from being male was they hadn't actually gotten that far through it. I wonder if even finished. It's fast paced and at time reads a bit like a spy thriller though with occasional reminders that it's all happening, and by the way, the controls that run all of our water, electricity, telecommunications and more are online and not that terribly secure.&nbsp;There's a lot of inside baseball in the early chapters about the New York Times and how it operates on these kinds of stories, and how it plays well, or doesn't play well, with others. the book starts off with her involvement in reporting on the Snowden leaks of NSA programs, and there's no shortage of snark about The Guardian. But that soon gives way to a world tour of various hacker communities, brokers of the unpatched holes in your mobile's operating system, and national security experts whose names you may not see in the papers very much because they're actually doing the work.&nbsp;To be honest, if the book can make a general audience more interested in these kinds of issues, then I think that's a good thing overall.
+    I decided to read the book actually after catching some critical reviews by people more on the engineering side of technology. One thing they had in common aside from being male was they hadn't actually gotten that far through it. I wonder if even finished. It's fast paced and at time reads a bit like a spy thriller though with occasional reminders that it's all happening, and by the way, the controls that run all of our water, electricity, telecommunications and more are online and not that terribly secure.&nbsp;
+  </p>
+<hr class="separator separator--dots" />
+
+  <p>
+    <strong></strong><strong>Update:</strong> If you do want to read a detailed and well-written dive into the book's technical faults, <a href="https://foreignpolicy.com/2021/05/03/cybersecurity-ignorance-is-dangerous/" target="_blank">Tarah Wheeler has written this in Foreign Policy magazine</a>.
+  </p>
+<hr class="separator separator--dots" />
+
+  <p>
+    There's a lot of inside baseball in the early chapters about the New York Times and how it operates on these kinds of stories, and how it plays well, or doesn't play well, with others. the book starts off with her involvement in reporting on the Snowden leaks of NSA programs, and there's no shortage of snark about The Guardian. But that soon gives way to a world tour of various hacker communities, brokers of the unpatched holes in your mobile's operating system, and national security experts whose names you may not see in the papers very much because they're actually doing the work.&nbsp;To be honest, if the book can make a general audience more interested in these kinds of issues, then I think that's a good thing overall.
   </p>
 
   <p>
@@ -54,11 +64,11 @@
   </p>
 
   <p>
-    But it's kind of a trap. The book leaves the reader some good hints (turn on two-factor authentication, use strong passwords and a password manager, you). However you're left with the understanding of this other angle of the complexity trap in which we find ourselves stuck. If you want to scale systems that growing numbers of people want if not need (clean water, regular power, food and the transportation systems that move it, the ability to call one another) then you're going to centralise and develop control systems that enable all that to reach people. The place where all that sits is more-or-less the place where this blog sits: online. You can take it back off again. All this combined digital infrastructure that runs civilisation exists where it does for a reason. It works there for the job we want it to do.
+    But it's a complexity trap. If you want to scale systems that growing numbers of people need (clean water, telecommunications, power grid management, etc.) then the place to do that is online. And once there, can't take it back off again. All this combined digital infrastructure that runs civilisation exists where it does for a reason: that's where It works. And that's where it's going to be attacked. Attackers can be wrong ever day, and keep trying. Defence can't be wrong any day.
   </p>
 
   <p>
-    The book focuses a lot on the 0day market. These are exploits that the makers of software don't know exist (and have had zero days to fix, get it?). It's an expensive market as these are harder to find than the loads of exploits that just exist because so many systems we rely on use outdated operating systems or built with old or unsupported code. The book gets into both of these, plus the human side of things, such as how social networks can game human perceptions for political ends. But the 0day industry is maybe the most symbolic of the whole trade. Bug hunters can either get paid thousands to turn them over to the companies running them, or tens if not hundreds of thousands to sell them on to brokers that will sell them to governments for millions. Companies can't compete with that. I don't think some even really want to.
+    The book focuses a lot on the 0day market. These are exploits that the makers of software don't know exist (and have had zero days to fix, get it?). It's an expensive market as these are harder to find than the loads of exploits that just exist because so many systems we rely on use outdated operating systems or built with old or unsupported code. The book gets into both of these kind of vulnerabilities, plus the human side of things, such as how social networks can game human perceptions for political ends. But the 0day industry is maybe the most symbolic of the whole trade. Bug hunters can either get paid thousands to turn them over to the companies that can fix them, or tens if not hundreds of thousands to sell them on to brokers that will sell them to governments for millions. Companies can't compete with that. I don't think some even really want to.
   </p>
 
   <p>
@@ -76,7 +86,7 @@
         <id>https://treacherous.tech/bypassing-online-censorship.html</id>
             <category term="circumvention"/>
 
-        <updated>2021-04-21T22:26:55+01:00</updated>
+        <updated>2021-05-06T21:56:21+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://treacherous.tech/media/posts/6/detour.png" alt="" />
@@ -130,7 +140,7 @@
         <id>https://treacherous.tech/time-to-read.html</id>
             <category term="life "/>
 
-        <updated>2021-04-21T22:26:55+01:00</updated>
+        <updated>2021-05-06T21:56:21+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://treacherous.tech/media/posts/5/time-to-read.jpg" alt="" />
@@ -160,7 +170,7 @@
         <id>https://treacherous.tech/the-regime-that-the-internet-created.html</id>
             <category term="politics"/>
 
-        <updated>2021-04-21T22:26:55+01:00</updated>
+        <updated>2021-05-06T21:56:21+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://treacherous.tech/media/posts/4/atlantic-abomination.jpg" alt="Atlantic Abomination" />
@@ -202,7 +212,7 @@
         <id>https://treacherous.tech/new-year-new-blog.html</id>
             <category term="meta"/>
 
-        <updated>2021-04-21T22:26:55+01:00</updated>
+        <updated>2021-05-06T21:56:21+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://treacherous.tech/media/posts/1/tumblr_p5hrv8fPab1skkfpco2_1280.jpg" alt="" />
