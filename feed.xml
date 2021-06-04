@@ -17,7 +17,7 @@
         <link href="https://treacherous.tech/mirroring-a-site-on-a-onion-address.html"/>
         <id>https://treacherous.tech/mirroring-a-site-on-a-onion-address.html</id>
 
-        <updated>2021-06-04T21:41:02+01:00</updated>
+        <updated>2021-06-04T23:06:25+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://treacherous.tech/media/posts/8/Onion_garden-2.jpg" alt="https://commons.wikimedia.org/wiki/File:Onion_garden.jpg" />
@@ -285,11 +285,23 @@
   </p>
 
   <p>
+    <strong>Laundry list:</strong>
+  </p>
+
+  <ul>
+    <li>I forgot to add a www version of the .onion address in the Harica SSl cert. You can make as many addresses as you want in the Harica dashboard fro your certificates. Could be useful for wildcards or running long lists of hidden service mirrors.</li><li>I understand (and agree with) the argument for driving people toward https on Tor hidden service sites, but think I'd it should be easier not to do this as an option until there's a Let's Encrypt option or something like it. I need to play more with EOTK to figure this out.&nbsp;</li><li>I think this entire process is scriptable, possibly in python. I'd like to run a cli that made this even more automated, and possibly removed some of the human gaffes from the process. Again, it would require a Let's Encrypt SSL solution to really work in one go.</li><li>Cloudflare could wrap this entire service into a back-end and render it as a switch in the user dashboard. This would then allow it to more easily white-list Tor traffic instead of treating it as suspect.</li>
+  </ul>
+
+  <p>
     For my <i>actual</i> project, I'd like to see how I can batch as much of this into a single script as possible as I'd potentially like to create .onions for 100+ mirrors in a manageable way with some other requirements not worth going into here. While I recommend and appreciate Harica, for my project to scale sustainably, I'd need Let's Encrypt or some kind of variant of it to support .onions.
   </p>
 
   <p>
     Anyway, hope it helped. Many thanks to Harica's helpdesk person and Alec Muffett for their kind assists. Anything in this post that may be incorrect or problematic is mine.
+  </p>
+
+  <p>
+    
   </p>
 
   <p>
@@ -307,7 +319,7 @@
         <id>https://treacherous.tech/this-is-how-they-tell-me-the-world-ends.html</id>
             <category term="books"/>
 
-        <updated>2021-06-04T21:41:02+01:00</updated>
+        <updated>2021-06-04T23:06:25+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://treacherous.tech/media/posts/7/this-is-how.jpg" alt="Coffee and book" />
@@ -375,7 +387,7 @@
         <id>https://treacherous.tech/bypassing-online-censorship.html</id>
             <category term="circumvention"/>
 
-        <updated>2021-06-04T21:41:02+01:00</updated>
+        <updated>2021-06-04T23:06:25+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://treacherous.tech/media/posts/6/detour.png" alt="" />
@@ -429,7 +441,7 @@
         <id>https://treacherous.tech/time-to-read.html</id>
             <category term="life "/>
 
-        <updated>2021-06-04T21:41:02+01:00</updated>
+        <updated>2021-06-04T23:06:25+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://treacherous.tech/media/posts/5/time-to-read.jpg" alt="" />
@@ -459,7 +471,7 @@
         <id>https://treacherous.tech/the-regime-that-the-internet-created.html</id>
             <category term="politics"/>
 
-        <updated>2021-06-04T21:41:02+01:00</updated>
+        <updated>2021-06-04T23:06:25+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://treacherous.tech/media/posts/4/atlantic-abomination.jpg" alt="Atlantic Abomination" />
@@ -501,7 +513,7 @@
         <id>https://treacherous.tech/new-year-new-blog.html</id>
             <category term="meta"/>
 
-        <updated>2021-06-04T21:41:02+01:00</updated>
+        <updated>2021-06-04T23:06:25+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://treacherous.tech/media/posts/1/tumblr_p5hrv8fPab1skkfpco2_1280.jpg" alt="" />
