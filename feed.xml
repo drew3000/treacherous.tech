@@ -18,7 +18,7 @@
         <id>https://treacherous.tech/hosting-a-secure-contact-form.html</id>
             <category term="yolo tech"/>
 
-        <updated>2021-06-26T00:42:02+01:00</updated>
+        <updated>2021-06-26T00:53:36+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://treacherous.tech/media/posts/9/cover.png" alt="raspberry Pi 4b" />
@@ -90,7 +90,7 @@
   </p>
 
   <p>
-    <b>Changing the username as well as the password:<br></b>After you set up the SD card with the Ubuntu software, you may not want your username to be "ubuntu."&nbsp;<a href="https://wiki.ubuntu.com/ARM/RaspberryPi#First_boot_.28Username.2FPassword.29" target="_blank">To change this</a> you need to go into the files on your now-formatted SD card and edit a cloud-init configuration text file. Edit the "user-data" file on the "system-boot" partition. <br>
+    <b>Changing the username as well as the password:<br></b>After you set up the SD card with the Ubuntu software, you may not want your username to be "ubuntu."&nbsp;<a href="https://wiki.ubuntu.com/ARM/RaspberryPi#First_boot_.28Username.2FPassword.29" target="_blank">To change this</a> you need to go into your now-formatted SD card, and edit the user-data file on the system-boot partition. <br>
   </p>
 
   <p>
@@ -149,7 +149,7 @@
         <link href="https://treacherous.tech/mirroring-a-site-on-a-onion-address.html"/>
         <id>https://treacherous.tech/mirroring-a-site-on-a-onion-address.html</id>
 
-        <updated>2021-06-26T00:42:02+01:00</updated>
+        <updated>2021-06-26T00:53:36+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://treacherous.tech/media/posts/8/Onion_garden-2.jpg" alt="https://commons.wikimedia.org/wiki/File:Onion_garden.jpg" />
@@ -451,7 +451,7 @@
         <id>https://treacherous.tech/this-is-how-they-tell-me-the-world-ends.html</id>
             <category term="books"/>
 
-        <updated>2021-06-26T00:42:02+01:00</updated>
+        <updated>2021-06-26T00:53:36+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://treacherous.tech/media/posts/7/this-is-how.jpg" alt="Coffee and book" />
@@ -519,7 +519,7 @@
         <id>https://treacherous.tech/bypassing-online-censorship.html</id>
             <category term="circumvention"/>
 
-        <updated>2021-06-26T00:42:02+01:00</updated>
+        <updated>2021-06-26T00:53:36+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://treacherous.tech/media/posts/6/detour.png" alt="" />
@@ -573,7 +573,7 @@
         <id>https://treacherous.tech/time-to-read.html</id>
             <category term="life "/>
 
-        <updated>2021-06-26T00:42:02+01:00</updated>
+        <updated>2021-06-26T00:53:36+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://treacherous.tech/media/posts/5/time-to-read.jpg" alt="" />
@@ -603,7 +603,7 @@
         <id>https://treacherous.tech/the-regime-that-the-internet-created.html</id>
             <category term="politics"/>
 
-        <updated>2021-06-26T00:42:02+01:00</updated>
+        <updated>2021-06-26T00:53:36+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://treacherous.tech/media/posts/4/atlantic-abomination.jpg" alt="Atlantic Abomination" />
@@ -645,7 +645,7 @@
         <id>https://treacherous.tech/new-year-new-blog.html</id>
             <category term="meta"/>
 
-        <updated>2021-06-26T00:42:02+01:00</updated>
+        <updated>2021-06-26T00:53:36+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://treacherous.tech/media/posts/1/tumblr_p5hrv8fPab1skkfpco2_1280.jpg" alt="" />
