@@ -10,78 +10,6 @@
     <id>https://treacherous.tech</id>
 
     <entry>
-        <title>Setting up the YOLO workstation</title>
-        <author>
-            <name>Yours Truly</name>
-        </author>
-        <link href="https://treacherous.tech/yolo.html"/>
-        <id>https://treacherous.tech/yolo.html</id>
-            <category term="yolo tech"/>
-
-        <updated>2021-06-28T22:37:45+01:00</updated>
-            <summary>
-                <![CDATA[
-                     This one is just a brief segue to our series of posts on setting up a secure journalism work station. We're calling these posts&nbsp;YOLO tech. YOLO = "You Only Live Once." Applied to technology, not humans, obvs. Consider&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                
-  <p>
-    This one is just a brief segue to our series of posts on setting up a secure journalism work station. We're calling these posts&nbsp;<a href="https://treacherous.tech/yolo-tech/">YOLO tech</a>. YOLO = "You Only Live Once." Applied to technology, not humans, obvs. Consider a "burner phone. Popular amongst drug dealers or spies, the use case for them is that you turn them on once to make one phone call and then they're done. A YOLO device has a longer life span than that, but you go into using them knowing they're ultimately doomed, and that's okay. They can take the hits for the team. I didn't coin this. <a href="https://twitter.com/ElleArmageddon/status/1151547823680184320" target="_blank">Here's who did</a>. I'm just running with it.
-  </p>
-
-  <p>
-    The purpose of a YOLO device is to be exposed to more risks, and connect to people and/or data you might not want on your permanent devices. At some point, they'll need to be replaced, and doing so won't be that painful. After a few uses, you may want to wipe them if not just destroy them to not worry about any recoverable data. If they get hacked, it's not as damaging as it would be if it happened to your more permanent machines. A YOLO tool only last as long as it's needed. If it becomes compromised, it doesn't take down everything else. Cut it loose and drop a new one in to replace it. Got it? Good.
-  </p>
-
-    <h3 id="some-traits-of-a-yolo-workstationnbspbr">
-      Some traits of a YOLO Workstation...&nbsp;<br>
-    </h3>
-
-  <p>
-    <strong>Keep things cheap(ish).</strong> Yes, it's a relative concept, but the point is to not invest more than you can reasonably stand to lose. This way, it won't sting your walled (too much) if it gets trashed. All tech, the longer it's exposed to the public as a way for said public to reach you, should get less trustworthy the longer you use it. A mobile could be recycled through a few phone numbers, but eventually other aspects of it become identifiable. Same with servers or other hardware you use for file sharing, or sending or receiving text or having voice or video calls. You may want to wipe them after a single project, depending on what's involved. That habit could get expensive pretty fast.
-  </p>
-
-  <p>
-    <strong>Keep things simple.</strong> Ideally, each device should have a single purpose (or as few as possible). The best tools do one thing well, and if you lose it, you haven't lost your entire toolset. This is one of the counter-intuitive elements of the YOLO workstation. We generally have been trained to expect our devices to be multi-functional Swiss Army Knives. Smartphones are essentially multi-tools with the ability to have a phone call being just one piece of functionality. Now we want doorbells to not just ring when someone pushes a button, but to capture video of the person outside, help us with the shopping, act as an anti-burglary device, and so on. A YOLO device has one use case. It's there to talk with sources. Or it's there to receive a file. Another one may be there to review those files. Something else exists just to store them. None are tied to one another. If one climber falls, there's no rope to drag the others down.
-  </p>
-
-  <p>
-    <b>Keep things minimal.</b> This is different than the above rule. It may sound like I'm asking you to fill a desk full of gadgets. The opposite is the case. The more things you have, the more you need to monitor and maintain. Each device needs to work for its existence. What's it doing for you? If it doesn't fill a function you need right now, don't set it up.
-  </p>
-
-  <p>
-    <strong>Keep things usable (as much as that exists).</strong> xxx
-  </p>
-
-  <p>
-    <strong>Keep things understandable.</strong> xxx
-  </p>
-
-  <p>
-    <strong>Keep things local(ish).</strong> xxx
-  </p>
-
-  <p>
-    <strong>Keep (most) things empty.</strong> xxx
-  </p>
-
-  <p>
-    <b>Keep (some) things backed up.</b> xxx
-  </p>
-
-  <p>
-    <strong>Encrypt all the things (that can be).</strong> xxx
-  </p>
-
-  <p>
-    
-  </p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
         <title>Onions and raspberries and file sharing</title>
         <author>
             <name>Yours Truly</name>
@@ -90,7 +18,7 @@
         <id>https://treacherous.tech/hosting-a-secure-contact-form.html</id>
             <category term="yolo tech"/>
 
-        <updated>2021-06-28T22:37:45+01:00</updated>
+        <updated>2021-07-02T23:19:48+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://treacherous.tech/media/posts/9/cover.png" alt="raspberry Pi 4b" />
@@ -222,7 +150,7 @@
         <id>https://treacherous.tech/mirroring-a-site-on-a-onion-address.html</id>
             <category term="yolo tech"/>
 
-        <updated>2021-06-28T22:37:45+01:00</updated>
+        <updated>2021-07-02T23:19:48+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://treacherous.tech/media/posts/8/Onion_garden-2.jpg" alt="https://commons.wikimedia.org/wiki/File:Onion_garden.jpg" />
@@ -524,7 +452,7 @@
         <id>https://treacherous.tech/this-is-how-they-tell-me-the-world-ends.html</id>
             <category term="books"/>
 
-        <updated>2021-06-28T22:37:45+01:00</updated>
+        <updated>2021-07-02T23:19:48+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://treacherous.tech/media/posts/7/this-is-how.jpg" alt="Coffee and book" />
@@ -592,7 +520,7 @@
         <id>https://treacherous.tech/bypassing-online-censorship.html</id>
             <category term="circumvention"/>
 
-        <updated>2021-06-28T22:37:45+01:00</updated>
+        <updated>2021-07-02T23:19:48+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://treacherous.tech/media/posts/6/detour.png" alt="" />
@@ -646,7 +574,7 @@
         <id>https://treacherous.tech/time-to-read.html</id>
             <category term="life "/>
 
-        <updated>2021-06-28T22:37:45+01:00</updated>
+        <updated>2021-07-02T23:19:48+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://treacherous.tech/media/posts/5/time-to-read.jpg" alt="" />
@@ -676,7 +604,7 @@
         <id>https://treacherous.tech/the-regime-that-the-internet-created.html</id>
             <category term="politics"/>
 
-        <updated>2021-06-28T22:37:45+01:00</updated>
+        <updated>2021-07-02T23:19:48+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://treacherous.tech/media/posts/4/atlantic-abomination.jpg" alt="Atlantic Abomination" />
@@ -718,7 +646,7 @@
         <id>https://treacherous.tech/new-year-new-blog.html</id>
             <category term="meta"/>
 
-        <updated>2021-06-28T22:37:45+01:00</updated>
+        <updated>2021-07-02T23:19:48+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://treacherous.tech/media/posts/1/tumblr_p5hrv8fPab1skkfpco2_1280.jpg" alt="" />
