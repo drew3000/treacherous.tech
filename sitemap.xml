@@ -71,4 +71,12 @@
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
+<url>
+<loc>https://treacherous.tech/yolo.html</loc>
+<lastmod>2021-07-04T00:32:49+01:00</lastmod>
+<image:image>
+<image:loc>https://treacherous.tech/media/posts/10/privacy-sold-here.jpg</image:loc>
+<image:title><![CDATA[Privacy Sold Here]]></image:title>
+</image:image>
+</url>
 </urlset>

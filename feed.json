@@ -10,6 +10,22 @@
     },
     "items": [
         {
+            "id": "https://treacherous.tech/yolo.html",
+            "url": "https://treacherous.tech/yolo.html",
+            "title": "Some notes on setting up a YOLO work station",
+            "summary": " This post is just a brief segue in our series on setting up a relatively secure journalism work station. We're calling these posts&nbsp;YOLO tech. YOLO = \"You Only Live Once.\" Applied to technology, not humans, obvs. Consider the&hellip;",
+            "content_html": "\n  <p>\n    This post is just a brief segue in our series on setting up a relatively secure journalism work station. We're calling these posts&nbsp;<a href=\"https://treacherous.tech/yolo-tech/\">YOLO tech</a>. YOLO = \"You Only Live Once.\" Applied to technology, not humans, obvs. Consider the \"burner phone. Popular amongst drug dealers or spies, the use case for them is that you turn them on once to make one phone call and then they're done. A YOLO device has a longer life span than that, but you go into using them knowing they're ultimately doomed, and that's okay. They can take the hits for the team. I didn't coin this. <a href=\"https://twitter.com/ElleArmageddon/status/1151547823680184320\" target=\"_blank\">Here's who did</a>. I'm just running with it.\n  </p>\n\n  <p>\n    The purpose of a YOLO device is to be exposed to more risks, and connect to people and/or data you might not want on your permanent devices. At some point, they'll need to be replaced, and doing so won't be that painful. After a few uses, you may want to wipe them if not just destroy them to not worry about any recoverable data. If they get hacked, it's not as damaging as it would be if it happened to your more permanent machines. A YOLO tool only last as long as it's needed. If it becomes compromised, it doesn't take down everything else. Cut it loose and drop a new one in to replace it. Got it? Good.\n  </p>\n\n    <h3 id=\"some-traits-of-a-good-yolo-workstationnbspbr\">\n      Some traits of a good YOLO Workstation...&nbsp;<br>\n    </h3>\n\n  <p>\n    <strong>Keep things cheap(ish).</strong> Yes, it's a relative concept, but the point is to not invest more than you can reasonably stand to lose. This way, it won't sting your walled (too much) if it gets trashed. All tech, the longer it's exposed to the public as a way for said public to reach you, should get less trustworthy the longer you use it. A mobile could be recycled through a few phone numbers, but eventually, he more files you access and open on it, the likelihood one of them was off increases. Same with servers or other hardware you use for file sharing, or sending or receiving text or having voice or video calls. You may want to wipe or sub them out after a single project, depending on what's involved. That habit could get expensive pretty fast.\n  </p>\n\n  <p>\n    <strong>Keep things simple.</strong> Ideally, each device should have a single purpose (or as few as possible). The best tools do one thing well, and if you lose it, you haven't lost your entire toolset. This is one of the counter-intuitive elements of the YOLO workstation. We generally have been trained to expect our devices to be multi-functional Swiss Army Knives. Smartphones are essentially multi-tools with the ability to have a phone call being just one piece of functionality. Now we want doorbells to not just ring when someone pushes a button, but to capture video of the person outside, help us with the shopping, act as an anti-burglary device, and so on. A YOLO device has one use case. It's there to talk with sources. Or it's there to receive a file. Another one may be there to review those files. Something else exists just to store them. None are tied to one another. If one climber falls, there's no rope to drag the others down.\n  </p>\n\n  <p>\n    <b>Keep things minimal.</b> This is different than the above rule. It may sound like I'm asking you to fill a desk full of gadgets. The opposite is the case. Marie Kondo your secure workspace. The more things you have, the more you need to monitor and maintain. Trust me, none of it sparks joy. Each device needs to work for its existence. What's it doing for you? If it doesn't fill a function you need right now, don't set it up.\n  </p>\n\n  <p>\n    <strong>Keep things usable (as much as that exists).</strong> There are great secure apps out there. On most, the usability is so-so to bad. PGP email encryption, for example: Hard to do well and right. You may want to have it available in case a source wants to use it, but you might not want to offer it as a regular point of contact. Steer your contacts towards the communication options you know how to manage. Go for secure apps with some usability and minimal to no personally identifiable information: <a href=\"https://signal.org/\" target=\"_blank\">Signal</a>,&nbsp;<a href=\"https://wire.com/en/\" target=\"_blank\">Wire</a>, <a href=\"https://keybase.io/\" target=\"_blank\">Keybase</a>&nbsp;<a href=\"https://briarproject.org/\" target=\"_blank\">Briar</a>, <a href=\"https://matrix.org/\" target=\"_blank\">Matrix</a>, <a href=\"https://getsession.org/\" target=\"_blank\">Session</a>.&nbsp;\n  </p>\n\n  <p>\n    <strong>Keep things understandable.</strong> Know how your tech works, at least conceptually. We're already running some things through Tor in this series. Understand why that is. What's it doing for you? Why do you want it? Lots of apps deliver communications in different ways. Signal needs a phone number. Wire doesn't. Matrix is federated. Briar is peer-to-peer. Aside from the crypto library, Wickr isn't open source, and now owned by Amazon. Telegram is popular, but also not open source, and sometime not encrypted. Which apps do you want to include, and why are you choosing them. Know their use cases, purposes and limits. You're a journalist; research stuff.\n  </p>\n\n  <p>\n    <strong>Keep things local(ish).</strong> Local means it's on your YOLO device instead of \"the cloud\" (other people's computers). I wouldn't say to never use online storage for anything, because we're beyond that reality, and sometimes it's really useful. But have a strong bias for local, offline storage. As soon as something's not needed online, remove it.\n  </p>\n\n  <p>\n    <strong>Keep (most) things empty.</strong> Don't let data build up on any of your YOLO devices that connect to the internet (or any network). Backup and delete. Any online accounts connected to them should be empty as often as possible. Store anything you want to keep offline. As soon as anything isn't needed, delete it.\n  </p>\n\n  <p>\n    <b>Keep (some) things backed up.</b>&nbsp;Replacing devices can be a joyless, time consuming task. Use a password manager. I recommend <a href=\"https://keepassxc.org/\" target=\"_blank\">KeePassXC</a>. Keep anything related to settings for your YOLO tech on an encrypted hard drive. Same with your important files. Back them up on a secured, offline storage. YOLO communications tech isn't for storage. Messages and data is transient. Remember, we don't entirely trust them.\n  </p>\n\n  <p>\n    <strong>Encrypt all the things (that can be).</strong>&nbsp;That is kind of the rule, by itself. If there's an option to encrypt a hard drive, use it. Encrypt the mobile during set up. Encrypt USB sticks used to hold or transfer any files. All the comms software should be end-to-end encrypted. Devices connecting to the internet run through Tor or at least a VPN. For file encryption, have <a href=\"https://veracrypt.fr/\" target=\"_blank\">Veracrypt</a>&nbsp;or <a href=\"https://cryptomator.org/\" target=\"_blank\">Cryptomator</a> which then helps keep things secure when you need the cloud.\n  </p>\n\n  <p>\n    \n  </p>",
+            "image": "https://treacherous.tech/media/posts/10/privacy-sold-here.jpg",
+            "author": {
+                "name": "Yours Truly"
+            },
+            "tags": [
+                   "yolo tech"
+            ],
+            "date_published": "2021-07-04T00:32:56+01:00",
+            "date_modified": "2021-07-04T00:32:56+01:00"
+        },
+        {
             "id": "https://treacherous.tech/hosting-a-secure-contact-form.html",
             "url": "https://treacherous.tech/hosting-a-secure-contact-form.html",
             "title": "Onions and raspberries and file sharing",
@@ -22,8 +38,8 @@
             "tags": [
                    "yolo tech"
             ],
-            "date_published": "2021-07-02T23:19:48+01:00",
-            "date_modified": "2021-07-02T23:19:48+01:00"
+            "date_published": "2021-07-04T00:32:56+01:00",
+            "date_modified": "2021-07-04T00:32:56+01:00"
         },
         {
             "id": "https://treacherous.tech/mirroring-a-site-on-a-onion-address.html",
@@ -38,8 +54,8 @@
             "tags": [
                    "yolo tech"
             ],
-            "date_published": "2021-07-02T23:19:48+01:00",
-            "date_modified": "2021-07-02T23:19:48+01:00"
+            "date_published": "2021-07-04T00:32:56+01:00",
+            "date_modified": "2021-07-04T00:32:56+01:00"
         },
         {
             "id": "https://treacherous.tech/this-is-how-they-tell-me-the-world-ends.html",
@@ -54,8 +70,8 @@
             "tags": [
                    "books"
             ],
-            "date_published": "2021-07-02T23:19:48+01:00",
-            "date_modified": "2021-07-02T23:19:48+01:00"
+            "date_published": "2021-07-04T00:32:56+01:00",
+            "date_modified": "2021-07-04T00:32:56+01:00"
         },
         {
             "id": "https://treacherous.tech/bypassing-online-censorship.html",
@@ -70,8 +86,8 @@
             "tags": [
                    "circumvention"
             ],
-            "date_published": "2021-07-02T23:19:48+01:00",
-            "date_modified": "2021-07-02T23:19:48+01:00"
+            "date_published": "2021-07-04T00:32:56+01:00",
+            "date_modified": "2021-07-04T00:32:56+01:00"
         },
         {
             "id": "https://treacherous.tech/time-to-read.html",
@@ -86,8 +102,8 @@
             "tags": [
                    "life "
             ],
-            "date_published": "2021-07-02T23:19:48+01:00",
-            "date_modified": "2021-07-02T23:19:48+01:00"
+            "date_published": "2021-07-04T00:32:56+01:00",
+            "date_modified": "2021-07-04T00:32:56+01:00"
         },
         {
             "id": "https://treacherous.tech/the-regime-that-the-internet-created.html",
@@ -102,8 +118,8 @@
             "tags": [
                    "politics"
             ],
-            "date_published": "2021-07-02T23:19:48+01:00",
-            "date_modified": "2021-07-02T23:19:48+01:00"
+            "date_published": "2021-07-04T00:32:56+01:00",
+            "date_modified": "2021-07-04T00:32:56+01:00"
         },
         {
             "id": "https://treacherous.tech/new-year-new-blog.html",
@@ -118,8 +134,8 @@
             "tags": [
                    "meta"
             ],
-            "date_published": "2021-07-02T23:19:48+01:00",
-            "date_modified": "2021-07-02T23:19:48+01:00"
+            "date_published": "2021-07-04T00:32:56+01:00",
+            "date_modified": "2021-07-04T00:32:56+01:00"
         }
     ]
 }
