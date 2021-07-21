@@ -10,6 +10,62 @@
     <id>https://treacherous.tech</id>
 
     <entry>
+        <title>Pegasus notes</title>
+        <author>
+            <name>Yours Truly</name>
+        </author>
+        <link href="https://treacherous.tech/pegasus-notes.html"/>
+        <id>https://treacherous.tech/pegasus-notes.html</id>
+            <category term="spyware"/>
+
+        <updated>2021-07-22T00:24:28+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://treacherous.tech/media/posts/12/pegasus.jpg" alt="" />
+                     Pegasus mobile phone hacking software has been the week's big news again, following a leak of a list of 50,000 mobile phone numbers, alleged to be active or potential targets of some of the 50 nation state clients&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://treacherous.tech/media/posts/12/pegasus.jpg" alt="" />
+                
+  <p>
+    Pegasus mobile phone hacking software has been the week's big news again, following a leak of a list of 50,000 mobile phone numbers, alleged to be active or potential targets of some of the 50 nation state clients of its maker, the Israel based NSO Group. Investigated by the&nbsp;Organized Crime and Corruption Reporting Project (OCCRP), some of the mobiles from the list have indeed been found to be infected with Pegasus spyware, and the consortium of organisations investigating the data, including Washington Post, Amnesty International The Guardian, PBS, Haaretz, etc. have been publishing articles all week since the news dropped. Making the list are a number of journalists, human rights activists, civil society leaders, political figures and even a few heads of state.
+  </p>
+
+  <p>
+    The following are just some links and notes that maybe others find interesting and which I can put somewhere that's not my messy Twitter feed. More will likely be added here in the coming days and weeks. Watch this space.
+  </p>
+<hr class="separator separator--dots" />
+
+    <h3 id="some-links">
+      Some links
+    </h3>
+
+  <ul>
+    <li><a href="https://www.occrp.org/en/the-pegasus-project/" target="_blank">OCCRP's 'The Pegasus Project' investigation and archive</a>.</li><li><a href="https://www.theguardian.com/news/series/pegasus-project" target="_blank">The Guardian's collection of Pegasus Project news</a>.</li><li><a href="https://github.com/mvt-project/mvt" target="_blank">The Mobile Verification Toolkit</a>. This was developed by the Amnesty International Security Lab as a forensics tool to look for signs of Pegasus software, and is not intended for those without some technical background.</li><li><a href="https://blog.cryptographyengineering.com/2021/07/20/a-case-against-security-nihilism/" target="_blank">A case against security nihilism</a>, by&nbsp;Matthew Green.&nbsp; Maybe one of the more important links in the list. It's easy to look at all this and think there is no hope. There is hope. <em>They</em> (whoever or whatever "they" is for you) are not all powerful. You are not powerless.&nbsp;</li><li><a href="https://cdn.occrp.org/projects/project-p/#/" target="_blank">Explore the data as OCCRP releases it</a>.</li><li><a href="https://www.amnesty.org/en/latest/research/2021/07/forensic-methodology-report-how-to-catch-nso-groups-pegasus/" target="_blank">Forensic Methodology Report: How to catch NSO Group’s Pegasus</a>, by Amnesty International's Security Lab<br></li>
+  </ul>
+<hr class="separator separator--dots" />
+
+    <h3 id="some-notes-amp-asides">
+      Some notes &amp; asides
+    </h3>
+
+  <p>
+    That NSO Group is an Israeli company is an important fact in the story. Just like it was important that The Internet Research Agency was a Russian troll farm, or Hacking Team was Italian, based in EU. NSO Group is a direct outgrowth of the IDF. The NSO Group's technical support for tyrannical regimes around the globe to target their opponents, critics and observers is directly tied to Israel's continued occupation of Palestine. When people say the occupation is a laboratory, things like Pegasus are the exports. Tested in Gaza and West Bank, deployed by anti-democratic paranoid regimes against their critics.
+  </p>
+
+  <p>
+    NSO Group <a href="https://www.forbes.com/sites/thomasbrewster/2016/08/25/everything-we-know-about-nso-group-the-professional-spies-who-hacked-iphones-with-a-single-text/?sh=656e910b3997" target="_blank">has a symbiotic relationship with Israel's Unit 8200</a>, a signals intelligence wing of the IDF. Talent and tools <a href="https://www.haaretz.com/israel-news/tech-news/idf-vs-nso-8200-battle-israel-cyber-talent-getting-dark-1.9929433">flow both ways</a> in this relationship. <a href="https://twitter.com/iblametom/status/1417872410246885388">The company claims</a> that its spyware is only used for "legitimate criminal and anti-terrorism investigations." The company also claims it has no control how its software is used and no access to its client's data, so one thing or the other or both are false.&nbsp;&nbsp;It sells to governments known for obsessive levels of human rights violations. If you sell guns to on-the-record sociopaths and serial killers, you can't claim ignorance in how they'll be used. <br>
+  </p>
+
+  <p>
+    Knowledge of how the NSO Group's software has been used by regimes to target critics is not new, but the current information about it is more sweeping than ever before. There will be a lot of misinformation and disinformation in the coming days and weeks as countries deny spying, NSO Group denies everything, and hyperbole sometimes takes over instead of fact. Read or watch carefully.
+  </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
         <title>The machine in the middle</title>
         <author>
             <name>Yours Truly</name>
@@ -18,7 +74,7 @@
         <id>https://treacherous.tech/tails.html</id>
             <category term="yolo tech"/>
 
-        <updated>2021-07-22T00:17:09+01:00</updated>
+        <updated>2021-07-22T00:24:28+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://treacherous.tech/media/posts/11/usb.jpg" alt="USB stick closeup" />
@@ -154,7 +210,7 @@
         <id>https://treacherous.tech/yolo.html</id>
             <category term="yolo tech"/>
 
-        <updated>2021-07-22T00:17:09+01:00</updated>
+        <updated>2021-07-22T00:24:28+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://treacherous.tech/media/posts/10/privacy-sold-here.jpg" alt="Privacy Sold Here" />
@@ -228,7 +284,7 @@
         <id>https://treacherous.tech/hosting-a-secure-contact-form.html</id>
             <category term="yolo tech"/>
 
-        <updated>2021-07-22T00:17:09+01:00</updated>
+        <updated>2021-07-22T00:24:28+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://treacherous.tech/media/posts/9/cover.png" alt="raspberry Pi 4b" />
@@ -360,7 +416,7 @@
         <id>https://treacherous.tech/mirroring-a-site-on-a-onion-address.html</id>
             <category term="yolo tech"/>
 
-        <updated>2021-07-22T00:17:09+01:00</updated>
+        <updated>2021-07-22T00:24:28+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://treacherous.tech/media/posts/8/Onion_garden-2.jpg" alt="https://commons.wikimedia.org/wiki/File:Onion_garden.jpg" />
@@ -662,7 +718,7 @@
         <id>https://treacherous.tech/this-is-how-they-tell-me-the-world-ends.html</id>
             <category term="books"/>
 
-        <updated>2021-07-22T00:17:09+01:00</updated>
+        <updated>2021-07-22T00:24:28+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://treacherous.tech/media/posts/7/this-is-how.jpg" alt="Coffee and book" />
@@ -730,7 +786,7 @@
         <id>https://treacherous.tech/bypassing-online-censorship.html</id>
             <category term="circumvention"/>
 
-        <updated>2021-07-22T00:17:09+01:00</updated>
+        <updated>2021-07-22T00:24:28+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://treacherous.tech/media/posts/6/detour.png" alt="" />
@@ -784,7 +840,7 @@
         <id>https://treacherous.tech/time-to-read.html</id>
             <category term="life "/>
 
-        <updated>2021-07-22T00:17:09+01:00</updated>
+        <updated>2021-07-22T00:24:28+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://treacherous.tech/media/posts/5/time-to-read.jpg" alt="" />
@@ -814,7 +870,7 @@
         <id>https://treacherous.tech/the-regime-that-the-internet-created.html</id>
             <category term="politics"/>
 
-        <updated>2021-07-22T00:17:09+01:00</updated>
+        <updated>2021-07-22T00:24:28+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://treacherous.tech/media/posts/4/atlantic-abomination.jpg" alt="Atlantic Abomination" />
@@ -856,7 +912,7 @@
         <id>https://treacherous.tech/new-year-new-blog.html</id>
             <category term="meta"/>
 
-        <updated>2021-07-22T00:17:09+01:00</updated>
+        <updated>2021-07-22T00:24:28+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://treacherous.tech/media/posts/1/tumblr_p5hrv8fPab1skkfpco2_1280.jpg" alt="" />
