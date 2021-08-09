@@ -10,6 +10,21 @@
     },
     "items": [
         {
+            "id": "https://treacherous.tech/apple-csam-scan.html",
+            "url": "https://treacherous.tech/apple-csam-scan.html",
+            "title": "Notes on Apple&#x27;s CSAM scanning announcement",
+            "summary": " (Or: \"Screeching voices from the minority\")&nbsp; Last week (on Thursday, 5 August) Apple announced planned changes to its operating systems and iCloud services that have (re)ignited debates on the limits of security, privacy and safety. In a nutshell:&hellip;",
+            "content_html": "\n    <h2 id=\"or-screeching-voices-from-the-minoritynbsp\">\n      (Or: \"Screeching voices from the minority\")&nbsp;\n    </h2>\n\n  <p>\n    Last week (on Thursday, 5 August) Apple announced planned changes to its operating systems and iCloud services that have (re)ignited debates on the limits of security, privacy and safety. In a nutshell: Apple announced it plans to update all Apple devices with the capability to automatically scan images as they are backed up in iCloud against a database of known child sexual abuse material (CSAM) that is managed by&nbsp;the National Center for Missing &amp; Exploited Children (NCMEC). Apple is also rolling out changes to accounts registered to children, in which iMessage images sent or received will also be scanned (client side, meaning on the device itself, not the server) for sexual material, and Apple would ping the kid's folks when it hits a positive.\n  </p>\n\n  <p>\n    <strong>Before moving on, here's my pithy take</strong><strong>:</strong> this amounts to a backdoor. It bypasses encryption and both device and account security. It introduces a significant shift in Apple's priorities and previously stated business interests away from a brand based on user-centric privacy and security. Instead, we have what could be seen from a marketing point of view as \"family friendly,\" while also finding ways to end arguments it's been having with various interest groups and U.S. federal agencies. It's dangerous at the user level, will do little to actually thwart the problems it aims to solve and globally, it introduces a dangerous precedence.\n  </p>\n\n  <p>\n    As a technologist working with media, human rights and anti-corruption groups globally and as a parent with a keen interest in child safety locally, I've got a good amount of skin in this game. I wouldn't want this level of invasion on devices run by either my kid, my work contacts, or myself. That said, The issue of CSAM is absolutely and indisputably a high priority, and while I have seen many well-reasoned and insightful points made from both sides of this debate, I've also come across more than a few really horrible takes. More on that later. First, here's a smattering of the different arguments put forward by people with deeper thinking on the matter than yours truly...\n  </p>\n\n    <h3 id=\"some-links\">\n      Some links\n    </h3>\n\n  <ul>\n    <li><strong>Apple -&nbsp;<a href=\"https://www.apple.com/child-safety/\" target=\"_blank\">Expanded Protections for Children</a><br></strong>It makes sense to start here as it's to what everything that will follow is responding. In this, we're not getting into the parts on \"Communication safety in Messages\" or \"Expanding guidance in Siri and Search\" which are all, in the end, some reporting tools and safety messaging aimed at minors. The part to&nbsp; look at is on CSAM detection. Skip the marketing text and get down to the \"More Information\" section. Check out the PDF called \"CSAM Detection — Technical Summary\" and the three technical summaries to get Apple's implementation of all this.<br><br></li><li><strong>NCMEC - <a href=\"https://www.missingkids.org/blog/2019/post-update/end-to-end-encryption\" target=\"_blank\">End-to-End Encryption: Ignoring Abuse Won't Stop It</a><br></strong>The National Center for Missing &amp; Exploited Children maintains the CSAM database Apple would use. I did not find (in my only couple-minutes search) an official statement on the current issues around its collaboration with Apple, but the above was written in 2019, is still prominently featured from the organisation's homepage, and reflects its general stance on all these issues. As the other main player in this story, its views should be seen and understood. I don't think anyone on either side of the debate has any issue with its central cause, thinks its trivial or not important, or has any interest in defending or protecting abusers.&nbsp; In fact, many people who are knowledgeably criticising Apple's implementation of this database actively work in safety and protection of numerous at-risk groups.<br><br></li><li><strong>Ben Lovejoy in 9to5mac -&nbsp;<a href=\"https://9to5mac.com/2021/08/05/scanning-for-child-abuse-images/\" target=\"_blank\">Opinion: Four problems with Apple’s reported approach to scanning for child abuse images</a><br></strong>I don't know who Ben is really, or follow this site much but here's a post that lays out a clear overview of many of the main concerns with client-side scanning and this sort of backdoor, or side-door, to your supposedly private and encrypted content on your Apple device. I think of many things I've read, this one is very accessible and gives someone with a casual interest a quick glance of the concerns.<br><br></li><li><strong>Various experts - <a href=\"https://appleprivacyletter.com/\" target=\"_blank\">An Open Letter Against Apple's Privacy-Invasive Content Scanning Technology</a><br></strong>Signed by leading experts in fields of security, safety, privacy, cryptography, researchers and legal experts, this one summarises the concerns raised by organisations such as  Electronic Frontier Foundation,&nbsp; Center for Democracy and Technology,&nbsp; Open Privacy Research Society and others.<br><br></li><li><strong>EFF -&nbsp;<a href=\"https://www.eff.org/deeplinks/2021/08/apples-plan-think-different-about-encryption-opens-backdoor-your-private-life\" target=\"_blank\">Apple's Plan to \"Think Different\" About Encryption Opens a Backdoor to Your Private Life</a><br></strong>Though linked to in the above letter, the&nbsp;Electronic Frontier Foundation's arguments against client-side and (this kind of) iCloud content scanning deserves it's own mention. What is good about this one is its international focus, and the wide ranging implications of this being built into technology for people living under more totalitarian/authoritarian regimes. If you can use hashed datasets to scan for one kind of content, you could use them for many kinds. And if you don't want to do that, maybe rule out operating in large markets around the world. Once opened, the door only swings more widely. To be honest, this is the area in which my day job sits, so the one that gets more of my attention. American's can shout about their constitutional rights and suchlike, fine. I'm interested in users who are depending on the technology they can access being engineered as though they should have those rights, too. If that helps those of us in \"the West\", it's a nice bonus.<br><br></li><li><strong>Alec Muffet - <a href=\"https://alecmuffett.com/article/14860\" target=\"_blank\">So @pwnallthethings decided to try calling out @wcathcart and @WhatsApp as “scanning content” like Apple; here’s why that’s incorrect &amp; misleading</a><br></strong>There's a load of <a href=\"https://en.wikipedia.org/wiki/Whataboutism\" target=\"_blank\">whatabouttery</a>&nbsp;already flying around on this topic, and I'm not going to link to or get into all (or even most) of it, but here's a thoughtful example and a reasoned response, both from people who are respected experts on these issues.&nbsp; And you can find a good exchange on Twitter between the two of them, if that's your thing. People have made similar whataboutism cases about Google, Kaspersky, etc. Many of these actually aren't good comparisons for one reason or another, but even if they were, the \"other companies are doing it\" argument is a pretty bad one. Something about that annoying thing your parents may have asked you regarding all your friends jumping off tall, dangerous things applies here.</li>\n  </ul>\n\n    <h3 id=\"for-what-its-worthnbsp\">\n      For what it's worth&nbsp;\n    </h3>\n\n  <p>\n    My take is that Apple is backing off its promises in the thornier area of privacy and user security, and going more towards family, safety and things that give people warm and squishy feelings. It's own supposedly tightly controlled app store <a href=\"https://www.washingtonpost.com/technology/2021/06/06/apple-app-store-scams-fraud/\" target=\"_blank\">is filthy with scamware</a>.&nbsp;Also, there remains <a href=\"https://www.theguardian.com/news/2021/jul/18/what-is-pegasus-spyware-and-how-does-it-hack-phones\" target=\"_blank\">still unknown exploits in iOS, leveraged by the NSO Group's Pegasus spyware</a>.&nbsp;And if you're a security researcher digging in the wrong way, <a href=\"https://www.theverge.com/2020/1/3/21047275/apple-corellium-dmca-lawsuit-copyright-research-jailbreak-security-copyright\" target=\"_blank\">Apple may just see you in court</a>. In this particular case, in an internal Apple mailing message&nbsp;from&nbsp;NCMEC's executive director of strategic partnerships, critics of allowing constant content monitoring were dismissed as \"<a href=\"https://twitter.com/evacide/status/1423748333001080833/photo/1\" target=\"_blank\">screeching voices of the minority</a>.\" No one who can speak for Apple has objected to this description.\n  </p>\n\n  <p>\n    <strong>Perpetrators will bypass this:</strong> This turn toward the \"nothing to hide; nothing to fear\" crowd is chilling. The CSAM database is a list of cryptographic hashes -- \"fingerprints\" of the original horrendous content. If an image triggers a positive hit, the authorities can be contacted, or someone can be tasked to review content to confirm it's legitimate. And here's where we start going into the complex rabbit warren. If the fingerprints are too precise, the sick bastards who peddle them can easily work around it. They can change the image format, shave off a pixel or two in the width or height, alter the colour or any number of things. In order to work, hashes need to be what's called \"fuzzy,\" or approximate, so something close enough can trigger it.&nbsp;\n  </p>\n\n  <p>\n    <strong>Legitimate, private content will be viewed by more people, thus more users have lost their privacy, and more content is is at risk of misuse:</strong> The more this fingerprinting is made approximate, the more false alarms go off, so the more people and processes will be needed to review them. So these legal, private images are being seen by more people, and the number of people that have to be trusted to not be bad actors or sloppy at their work or a target for an attack grows.\n  </p>\n\n  <p>\n    <strong>New methods of attack: </strong>There's also the problem of an easy attack vector. Anyone can send anyone a WhatsApp message and WhatsApp and iMessage (maybe others) media automatically backs up to iCloud. Anyone can send anyone else an image they never asked for that triggers a positive match. This may seem insane, or at least like an \"edge case\" proposition. I want you to consider people who are not people you know who deal with threats from regimes or corrupt entities you will likely never have to deal with. If I wanted to discredit a political dissident or rival candidate, it's an option. Shut down an anti-corruption case? Dirty up the reputation of a journalist? You betcha.\n  </p>\n\n  <p>\n    <strong>New use cases:</strong> I'm not being original on this one, but once this exists as infrastructure, it has to have new use cases. It's almost a law of physics. If I were a government that had a large iPhone user base, so large that losing that market would be painful, I might have my own database of media file hashes I'd want scanned. Maybe it's memes making fun of leaders, or documents that I don't want the public sharing or seeing. Maybe if you don't run my database in my country, and follow my laws with technology you obviously have that makes it trivial to do so, it gets harder to sell iPhones, or for your in-country offices to not get raided.\n  </p>\n\n    <h3 id=\"meanwhile\">\n      Meanwhile...\n    </h3>\n\n  <p>\n    So, it would be great if Apple worked with the broader security community on these things. It would also be groovy if some who fancied themselves as \"purists\" would lay off the \"Perfection of Panopticon\" act and considered the world as it is.\n  </p>\n\n  <p>\n    Finally, the really unhelpful counter-argument is to do nothing.&nbsp; The \"Why don't parents just pay better attention to their children\" thing&nbsp; doesn't fly, and guess what? We live in a society. Why don't people do all kinds of things that they should? We wouldn't 3rd and 4th wave pandemic lockdowns, insane climate disasters, or regimes violating treaties on the use of chemical weapons.\n  </p>\n\n  <p>\n    Part of the reason Apple is doing what it's doing is that there are segments of public and private sectors, and just the public in general, asking for something to be done. Like it or not, something will be done. Eventually something is always done. My argument would be that investment is better placed in existing, under-funded, under-resourced policing and the use of advanced, warranted and targeted surveillance of these networks of abusers, possibly with the use of taxes these companies should be paying... as a start.\n  </p>",
+            "image": "https://treacherous.tech/media/posts/13/stays-on-your-iphone.jpg",
+            "author": {
+                "name": "Yours Truly"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-08-09T02:50:37+01:00",
+            "date_modified": "2021-08-09T02:50:37+01:00"
+        },
+        {
             "id": "https://treacherous.tech/pegasus-notes.html",
             "url": "https://treacherous.tech/pegasus-notes.html",
             "title": "Pegasus notes",
@@ -22,8 +37,8 @@
             "tags": [
                    "spyware"
             ],
-            "date_published": "2021-07-22T00:24:28+01:00",
-            "date_modified": "2021-07-22T00:24:28+01:00"
+            "date_published": "2021-08-09T02:50:37+01:00",
+            "date_modified": "2021-08-09T02:50:37+01:00"
         },
         {
             "id": "https://treacherous.tech/tails.html",
@@ -38,8 +53,8 @@
             "tags": [
                    "yolo tech"
             ],
-            "date_published": "2021-07-22T00:24:28+01:00",
-            "date_modified": "2021-07-22T00:24:28+01:00"
+            "date_published": "2021-08-09T02:50:37+01:00",
+            "date_modified": "2021-08-09T02:50:37+01:00"
         },
         {
             "id": "https://treacherous.tech/yolo.html",
@@ -54,8 +69,8 @@
             "tags": [
                    "yolo tech"
             ],
-            "date_published": "2021-07-22T00:24:28+01:00",
-            "date_modified": "2021-07-22T00:24:28+01:00"
+            "date_published": "2021-08-09T02:50:37+01:00",
+            "date_modified": "2021-08-09T02:50:37+01:00"
         },
         {
             "id": "https://treacherous.tech/hosting-a-secure-contact-form.html",
@@ -70,8 +85,8 @@
             "tags": [
                    "yolo tech"
             ],
-            "date_published": "2021-07-22T00:24:28+01:00",
-            "date_modified": "2021-07-22T00:24:28+01:00"
+            "date_published": "2021-08-09T02:50:37+01:00",
+            "date_modified": "2021-08-09T02:50:37+01:00"
         },
         {
             "id": "https://treacherous.tech/mirroring-a-site-on-a-onion-address.html",
@@ -86,8 +101,8 @@
             "tags": [
                    "yolo tech"
             ],
-            "date_published": "2021-07-22T00:24:28+01:00",
-            "date_modified": "2021-07-22T00:24:28+01:00"
+            "date_published": "2021-08-09T02:50:37+01:00",
+            "date_modified": "2021-08-09T02:50:37+01:00"
         },
         {
             "id": "https://treacherous.tech/this-is-how-they-tell-me-the-world-ends.html",
@@ -102,8 +117,8 @@
             "tags": [
                    "books"
             ],
-            "date_published": "2021-07-22T00:24:28+01:00",
-            "date_modified": "2021-07-22T00:24:28+01:00"
+            "date_published": "2021-08-09T02:50:37+01:00",
+            "date_modified": "2021-08-09T02:50:37+01:00"
         },
         {
             "id": "https://treacherous.tech/bypassing-online-censorship.html",
@@ -118,8 +133,8 @@
             "tags": [
                    "circumvention"
             ],
-            "date_published": "2021-07-22T00:24:28+01:00",
-            "date_modified": "2021-07-22T00:24:28+01:00"
+            "date_published": "2021-08-09T02:50:37+01:00",
+            "date_modified": "2021-08-09T02:50:37+01:00"
         },
         {
             "id": "https://treacherous.tech/time-to-read.html",
@@ -134,8 +149,8 @@
             "tags": [
                    "life "
             ],
-            "date_published": "2021-07-22T00:24:28+01:00",
-            "date_modified": "2021-07-22T00:24:28+01:00"
+            "date_published": "2021-08-09T02:50:37+01:00",
+            "date_modified": "2021-08-09T02:50:37+01:00"
         },
         {
             "id": "https://treacherous.tech/the-regime-that-the-internet-created.html",
@@ -150,24 +165,8 @@
             "tags": [
                    "politics"
             ],
-            "date_published": "2021-07-22T00:24:28+01:00",
-            "date_modified": "2021-07-22T00:24:28+01:00"
-        },
-        {
-            "id": "https://treacherous.tech/new-year-new-blog.html",
-            "url": "https://treacherous.tech/new-year-new-blog.html",
-            "title": "New year; new blog",
-            "summary": "Hello friend, Happy 2021 and thanks for keeping up with the ever evolving progression of this experiment. 2020 was the dumpster fire that gave more flame than than anyone could have expected, or would have asked for. Toward the&hellip;",
-            "content_html": "<p>Hello friend,</p>\n<p>Happy 2021 and thanks for keeping up with the ever evolving progression of this experiment. 2020 was the dumpster fire that gave more flame than than anyone could have expected, or would have asked for. Toward the end of 2019, I'd ditched <a href=\"https://wordpress.org\" target=\"_blank\" rel=\"noopener noreferrer\">Wordpress</a> for <a href=\"https://gohugo.io/\" target=\"_blank\" rel=\"noopener noreferrer\">Hugo</a> and went on to created all of 3 blog posts. It was an exhausting year. Working on other people's problems was more than enough. I mostly ignored my own. </p>\n<p>This year, I'm starting with <a href=\"#INTERNAL_LINK#/post/null\" target=\"_blank\" rel=\"noopener noreferrer\">Publii</a>, which is an open source app that generates flat-sites. It's part of my continuing search for website publishing systems that securely keep the back end (the place where people create the content) away from the front end (where people show the content), are light on the server, and easy on the user. Wordpress has become bloated and too much of an attack target. The CMS is borderline adware and the \"community\" of developers is becoming more of a flea market of poorly constructed design themes and plugins that are patchy, bloated and hackable.<a href=\"https://getpublii.com/\" title=\"publii\" target=\"_blank\" rel=\"noopener noreferrer\"></a></p>\n<p>Hugo was all right. Create and edit posts in a text file and then with a few commands new content is up on the website. It's easy to secure, can run blazingly fast websites and be hosted nearly anywhere, lowering costs amazingly. Ticked a lot of my static-site requirements. Except one. It isn't for end users, or at least how I define them. An end user is someone who wants to open an app, type their content, hit save or publish and see it on the site. Wordpress does this, just horribly from every other point of view. But it's what people expect. Hugo, <a href=\"https://jekyllrb.com/\" target=\"_blank\" rel=\"noopener noreferrer\">Jekyll</a>, <a href=\"https://scotch.io/tutorials/top-10-static-site-generators-in-2020#toc-1-gatsby\">Gatsby</a> and the like are for people who want to endlessly tinker with code and templates and refine their git workflows. They just move the complexities elsewhere.  So, I'm trying out Publii, which is in an app. It's doing a lot of things those other static site generators are doing, but the user doesn't need to see them or carry out each operation. It also opens with a wysiwyg editor that authors will expect, and somewhat obvious settings and configuration options. There seems to be not much of a developer or designer community to speak of, though.</p>\n<p>So like each time I do this, I start out minimal, and wipe what came before. I believe in the permeable web, the volatile one. The web that forgets. The non-centralised, federated services one. Sure, we need that archiving internet, the one with tracking and accountability for our governments, leaders (be they political, corporate, religious or social) and all these caches, backups and searchable systems that keep the receipts. For a lot of the rest of us, though, we need one that is more like a sand mandala. Something that gives us the privacy, security, and most importantly, the space to experiment and either maintain, iterate or wipe: no harm; no foul.</p>\n<p>Unfortunately, the inverse is more commonly the case. Kids say dumb things on Instagram and it chases them into the starts of their careers. Videos meant for one set of eyes get immortalised for all eyes for all time. Humans aren't designed for the web we have. It's not sense in blaming the user. It makes as much sense as blaming jellyfish for beaching themselves on the outgoing tide. The situation moves faster than our survival instincts. We should still be sitting somewhere in a savannah staring into the middle distance with an expression that implies more significant thought than what's really going on. Parts of our brains have developed a world that other parts of our brains can'd deal with. So cut yourself some slack. You aren't even supposed to be here today. None of us are.</p>\n<p>We're still calling the site Treacherous Tech, because the it still suits the overall point: The promises of a gloriously interconnected world of social media, IoT sex toys and door bells that can spy on the comings and goings in front of your house all come with ToS catches. There are stings attached, monetisation efforts and ever expanding threat surface. We inflict  all this on ourselves in order to have dopamine rushes from people clicking <span style=\"color: #e03e2d;\">♥️</span> on our selfies and to get garlic peelers on the same day we click the order button. Technology keeps its promises, so be sure you know what it's promising.</p>\n<p>But I digress.</p>\n<p>I already prefer the editing interface of publii. It's a little buggy and unfinished in parts. It feels more like a word processor than a CMS. I like that the drafts are mine, here on this local machine, before I publish them on some server somewhere, even in draft mode. I like that I don't need to launch the terminal and manually chug through git processes just to make each blog post. It's got a slightly wonky interface and I don't think all the buttons are labeled that well, and I think it could benefit from some usability love, but early days.</p>\n<p>I'm using the default theme this CMS comes with (there aren't many alternatives), so don't expect much on that front. I don't care much how it looks. It's just a thing to write into. A bit more FOSS and self-hosted than Medium. A bit less faff than a Wordpress or Drupal or Hugo site. I think it needs work, but it is definitely suitable for a single-person blog. It's kind of the slacker option.</p>\n<p>It's a new year, and I'm taking the easy route. There's enough going on with a pandemic, a Brexit, some chump in the White House who can't take a hint. Another year or so in doors. Go easy on yourself, too.</p>\n<p>Happy new year,</p>\n<p>Yours truly.</p>",
-            "image": "https://treacherous.tech/media/posts/1/tumblr_p5hrv8fPab1skkfpco2_1280.jpg",
-            "author": {
-                "name": "Yours Truly"
-            },
-            "tags": [
-                   "meta"
-            ],
-            "date_published": "2021-07-22T00:24:28+01:00",
-            "date_modified": "2021-07-22T00:24:28+01:00"
+            "date_published": "2021-08-09T02:50:37+01:00",
+            "date_modified": "2021-08-09T02:50:37+01:00"
         }
     ]
 }

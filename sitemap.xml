@@ -5,6 +5,14 @@
 <loc>https://treacherous.tech/</loc>
 </url>
 <url>
+<loc>https://treacherous.tech/apple-csam-scan.html</loc>
+<lastmod>2021-08-09T02:50:19+01:00</lastmod>
+<image:image>
+<image:loc>https://treacherous.tech/media/posts/13/stays-on-your-iphone.jpg</image:loc>
+<image:title><![CDATA[iPhone slogan: What Happens on your iPhone stays on your iPhone.]]></image:title>
+</image:image>
+</url>
+<url>
 <loc>https://treacherous.tech/bypassing-online-censorship.html</loc>
 <lastmod>2021-02-20T01:28:09+00:00</lastmod>
 <image:image>
@@ -46,6 +54,9 @@
 </url>
 <url>
 <loc>https://treacherous.tech/page/2/</loc>
+</url>
+<url>
+<loc>https://treacherous.tech/page/3/</loc>
 </url>
 <url>
 <loc>https://treacherous.tech/pegasus-notes.html</loc>
