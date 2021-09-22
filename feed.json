@@ -10,6 +10,22 @@
     },
     "items": [
         {
+            "id": "https://treacherous.tech/test-on-prod.html",
+            "url": "https://treacherous.tech/test-on-prod.html",
+            "title": "Testing on production",
+            "summary": "Hi. I killed my blog the other day. That's not why I haven't been posting so much. I mean, you can look at the date of the last post and realise my lack of blogging isn't down to technical&hellip;",
+            "content_html": "<p>Hi. I killed my blog the other day. That's not why I haven't been posting so much. I mean, you can look at the date of the last post and realise my lack of blogging isn't down to technical difficulties. In other news, someone also unplugged my Raspberry Pi, killing some of my onion services. It was a whole thing, not worth getting into. Anyway, rebuilt it and now just seeing if my local repo is still connecting to my Github Pages via this Publii app so I can go back to ignoring it again for the usual reasons.</p>\n<figure class=\"post__image\" ><img loading=\"lazy\" src=\"https://treacherous.tech/media/posts/15/test-on-prod.jpeg\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://treacherous.tech/media/posts/15/responsive/test-on-prod-xs.jpeg 300w ,https://treacherous.tech/media/posts/15/responsive/test-on-prod-sm.jpeg 480w ,https://treacherous.tech/media/posts/15/responsive/test-on-prod-md.jpeg 768w ,https://treacherous.tech/media/posts/15/responsive/test-on-prod-lg.jpeg 1024w ,https://treacherous.tech/media/posts/15/responsive/test-on-prod-xl.jpeg 1360w ,https://treacherous.tech/media/posts/15/responsive/test-on-prod-2xl.jpeg 1600w\"  alt=\"Yes, we're testing on prod!!! meme shows a suspicious girl standing in front of a house on fire. FLAMES!!!\" width=\"498\" height=\"322\">\n<figcaption >\"Say it with a meme.\" -- Hallmark</figcaption>\n</figure>\n<p><strong>Site recovered in the duration of this track:</strong></p>\n<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"100%\" height=\"80\" src=\"https://open.spotify.com/embed/track/4H3K3jbAgNoDIbVcU6c6kg?theme=0\" allowfullscreen=\"allowfullscreen\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\"></iframe></div> </p>",
+            "image": "https://treacherous.tech/media/posts/15/doc-frankenstein.jpg",
+            "author": {
+                "name": "Yours Truly"
+            },
+            "tags": [
+                   "meta"
+            ],
+            "date_published": "2021-09-22T21:56:59+01:00",
+            "date_modified": "2021-09-22T22:20:28+01:00"
+        },
+        {
             "id": "https://treacherous.tech/apple-csam-scan.html",
             "url": "https://treacherous.tech/apple-csam-scan.html",
             "title": "Notes on Apple&#x27;s CSAM scanning announcement",
@@ -21,8 +37,8 @@
             },
             "tags": [
             ],
-            "date_published": "2021-08-09T02:50:37+01:00",
-            "date_modified": "2021-08-09T02:50:37+01:00"
+            "date_published": "2021-08-06T21:37:46+01:00",
+            "date_modified": "2021-08-09T02:50:19+01:00"
         },
         {
             "id": "https://treacherous.tech/pegasus-notes.html",
@@ -37,8 +53,8 @@
             "tags": [
                    "spyware"
             ],
-            "date_published": "2021-08-09T02:50:37+01:00",
-            "date_modified": "2021-08-09T02:50:37+01:00"
+            "date_published": "2021-07-22T00:24:18+01:00",
+            "date_modified": "2021-07-22T00:24:18+01:00"
         },
         {
             "id": "https://treacherous.tech/tails.html",
@@ -53,8 +69,8 @@
             "tags": [
                    "yolo tech"
             ],
-            "date_published": "2021-08-09T02:50:37+01:00",
-            "date_modified": "2021-08-09T02:50:37+01:00"
+            "date_published": "2021-07-05T09:20:04+01:00",
+            "date_modified": "2021-07-20T22:42:37+01:00"
         },
         {
             "id": "https://treacherous.tech/yolo.html",
@@ -69,8 +85,8 @@
             "tags": [
                    "yolo tech"
             ],
-            "date_published": "2021-08-09T02:50:37+01:00",
-            "date_modified": "2021-08-09T02:50:37+01:00"
+            "date_published": "2021-07-03T08:00:00+01:00",
+            "date_modified": "2021-07-04T00:32:49+01:00"
         },
         {
             "id": "https://treacherous.tech/hosting-a-secure-contact-form.html",
@@ -85,8 +101,8 @@
             "tags": [
                    "yolo tech"
             ],
-            "date_published": "2021-08-09T02:50:37+01:00",
-            "date_modified": "2021-08-09T02:50:37+01:00"
+            "date_published": "2021-06-19T22:19:47+01:00",
+            "date_modified": "2021-06-26T00:53:26+01:00"
         },
         {
             "id": "https://treacherous.tech/mirroring-a-site-on-a-onion-address.html",
@@ -101,8 +117,8 @@
             "tags": [
                    "yolo tech"
             ],
-            "date_published": "2021-08-09T02:50:37+01:00",
-            "date_modified": "2021-08-09T02:50:37+01:00"
+            "date_published": "2021-05-29T22:09:10+01:00",
+            "date_modified": "2021-06-26T21:19:54+01:00"
         },
         {
             "id": "https://treacherous.tech/this-is-how-they-tell-me-the-world-ends.html",
@@ -117,8 +133,8 @@
             "tags": [
                    "books"
             ],
-            "date_published": "2021-08-09T02:50:37+01:00",
-            "date_modified": "2021-08-09T02:50:37+01:00"
+            "date_published": "2021-02-25T20:27:47+00:00",
+            "date_modified": "2021-05-06T21:56:08+01:00"
         },
         {
             "id": "https://treacherous.tech/bypassing-online-censorship.html",
@@ -133,8 +149,8 @@
             "tags": [
                    "circumvention"
             ],
-            "date_published": "2021-08-09T02:50:37+01:00",
-            "date_modified": "2021-08-09T02:50:37+01:00"
+            "date_published": "2021-02-20T01:28:09+00:00",
+            "date_modified": "2021-02-20T01:28:09+00:00"
         },
         {
             "id": "https://treacherous.tech/time-to-read.html",
@@ -149,24 +165,8 @@
             "tags": [
                    "life "
             ],
-            "date_published": "2021-08-09T02:50:37+01:00",
-            "date_modified": "2021-08-09T02:50:37+01:00"
-        },
-        {
-            "id": "https://treacherous.tech/the-regime-that-the-internet-created.html",
-            "url": "https://treacherous.tech/the-regime-that-the-internet-created.html",
-            "title": "The regime that the internet created",
-            "summary": " Howard Dean was the first American political candidate to use the internet as a vehicle to run a campaign. And his team was on to something. In 2002 his team working on the Democratic nomination for the 2004&hellip;",
-            "content_html": "\n  <p>\n    Howard Dean was the first American political candidate to use the internet as a vehicle to run a campaign. And his team was on to something. In 2002 his team working on the Democratic nomination for the 2004 presidential election was pioneering the things that are all now bog-standard: campaign website, online donation pages and blogs. He also realised the purpose behind it all: You convert people into communities, not voters. Votes are a bi-product of generating communities. And people want to believe. Meetup.com was new, and the campaign used it to get people to throw house parties, or find groups to hang out with at the local <em>TGI Fridays</em> or whatever. The whole thing was geared toward meeting, bonding and agreeing with one another. Fun. It didn't work in the end. But it was a first iteration. Every major political campaign since built on the model, and there's now no such thing as a successful campaign that can't find its roots in it.\n  </p>\n\n  <p>\n    You could plot a course from Dean's use of nascent social media to how it had been used to span a beyond-control horde of MAGAheads storming the capitol 18 years later.&nbsp;\n  </p>\n\n  <p>\n    <a href=\"https://en.wikipedia.org/wiki/Christopher_Wylie\" target=\"_blank\">Chris Wiley's</a> book <em>Mindf*ck</em> plots the data scraping consultant's career exploiting demographic data and the social web to micro-target voters based on personas, starting with the Liberal Party in Canada before taking his trade to the Obama campaign and then on to the Liberal Democrats in UK before helping out both the UK referendum to quit the EU and the campaign to elect Donald Trump in the U.S. The supply chain of tactics is clear here, from friendly liberal Canadians to resurgent proto-fascist movements in the span of a decade or less.&nbsp;\n  </p>\n\n  <p>\n    People like to call&nbsp;<a href=\"https://en.wikipedia.org/wiki/Aaron_Swartz\">Aaron Swartz</a> \"The Internet's Own Boy.\" It's a good story. He was instrumental in a lot of things that have made the internet useful, educational, fun and open. At least the parts of the internet that are those things. And he was prosecuted and endlessly hounded for it. We can call the 45th president's single term the internet's own regime. It used the same tools, created communities, leveraged social media data to target messaging, and all together hit a nerve. So when people talk to you about the marvels of the internet age, sure it's pretty cool. We've created awesome ways for people to connect, work and socialise. And not an insignificant number of them can be instigated to use those tools to try to destroy democracy sometimes. This iteration failed.\n  </p>\n\n  <p>\n    \n  </p>",
-            "image": "https://treacherous.tech/media/posts/4/atlantic-abomination.jpg",
-            "author": {
-                "name": "Yours Truly"
-            },
-            "tags": [
-                   "politics"
-            ],
-            "date_published": "2021-08-09T02:50:37+01:00",
-            "date_modified": "2021-08-09T02:50:37+01:00"
+            "date_published": "2021-02-03T23:00:00+00:00",
+            "date_modified": "2021-02-03T23:00:00+00:00"
         }
     ]
 }
