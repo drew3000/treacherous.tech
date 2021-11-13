@@ -3,40 +3,12 @@
     <title>treacherous.tech</title>
     <link href="https://treacherous.tech/feed.xml" rel="self" />
     <link href="https://treacherous.tech" />
-    <updated>2021-09-22T22:20:28+01:00</updated>
+    <updated>1970-01-01T01:00:00+01:00</updated>
     <author>
         <name>Yours Truly</name>
     </author>
     <id>https://treacherous.tech</id>
 
-    <entry>
-        <title>Testing on production</title>
-        <author>
-            <name>Yours Truly</name>
-        </author>
-        <link href="https://treacherous.tech/test-on-prod.html"/>
-        <id>https://treacherous.tech/test-on-prod.html</id>
-            <category term="meta"/>
-
-        <updated>2021-09-22T22:20:28+01:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://treacherous.tech/media/posts/15/doc-frankenstein.jpg" alt="Doctor Frankenstein re-animating his creation" />
-                    Hi. I killed my blog the other day. That's not why I haven't been posting so much. I mean, you can look at the date of the last post and realise my lack of blogging isn't down to technical&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://treacherous.tech/media/posts/15/doc-frankenstein.jpg" alt="Doctor Frankenstein re-animating his creation" />
-                <p>Hi. I killed my blog the other day. That's not why I haven't been posting so much. I mean, you can look at the date of the last post and realise my lack of blogging isn't down to technical difficulties. In other news, someone also unplugged my Raspberry Pi, killing some of my onion services. It was a whole thing, not worth getting into. Anyway, rebuilt it and now just seeing if my local repo is still connecting to my Github Pages via this Publii app so I can go back to ignoring it again for the usual reasons.</p>
-<figure class="post__image" ><img loading="lazy" src="https://treacherous.tech/media/posts/15/test-on-prod.jpeg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://treacherous.tech/media/posts/15/responsive/test-on-prod-xs.jpeg 300w ,https://treacherous.tech/media/posts/15/responsive/test-on-prod-sm.jpeg 480w ,https://treacherous.tech/media/posts/15/responsive/test-on-prod-md.jpeg 768w ,https://treacherous.tech/media/posts/15/responsive/test-on-prod-lg.jpeg 1024w ,https://treacherous.tech/media/posts/15/responsive/test-on-prod-xl.jpeg 1360w ,https://treacherous.tech/media/posts/15/responsive/test-on-prod-2xl.jpeg 1600w"  alt="Yes, we're testing on prod!!! meme shows a suspicious girl standing in front of a house on fire. FLAMES!!!" width="498" height="322">
-<figcaption >"Say it with a meme." -- Hallmark</figcaption>
-</figure>
-<p><strong>Site recovered in the duration of this track:</strong></p>
-<div class="post__iframe"><iframe loading="lazy" width="100%" height="80" src="https://open.spotify.com/embed/track/4H3K3jbAgNoDIbVcU6c6kg?theme=0" allowfullscreen="allowfullscreen" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe></div> </p>
-            ]]>
-        </content>
-    </entry>
     <entry>
         <title>Notes on Apple&#x27;s CSAM scanning announcement</title>
         <author>
@@ -45,7 +17,7 @@
         <link href="https://treacherous.tech/apple-csam-scan.html"/>
         <id>https://treacherous.tech/apple-csam-scan.html</id>
 
-        <updated>2021-08-09T02:50:19+01:00</updated>
+        <updated>2021-11-13T14:50:31+00:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://treacherous.tech/media/posts/13/stays-on-your-iphone.jpg" alt="iPhone slogan: What Happens on your iPhone stays on your iPhone." />
@@ -131,7 +103,7 @@
         <id>https://treacherous.tech/pegasus-notes.html</id>
             <category term="spyware"/>
 
-        <updated>2021-07-22T00:24:18+01:00</updated>
+        <updated>2021-11-13T14:50:31+00:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://treacherous.tech/media/posts/12/pegasus.jpg" alt="" />
@@ -187,7 +159,7 @@
         <id>https://treacherous.tech/tails.html</id>
             <category term="yolo tech"/>
 
-        <updated>2021-07-20T22:42:37+01:00</updated>
+        <updated>2021-11-13T14:50:31+00:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://treacherous.tech/media/posts/11/usb.jpg" alt="USB stick closeup" />
@@ -323,7 +295,7 @@
         <id>https://treacherous.tech/yolo.html</id>
             <category term="yolo tech"/>
 
-        <updated>2021-07-04T00:32:49+01:00</updated>
+        <updated>2021-11-13T14:50:31+00:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://treacherous.tech/media/posts/10/privacy-sold-here.jpg" alt="Privacy Sold Here" />
@@ -397,7 +369,7 @@
         <id>https://treacherous.tech/hosting-a-secure-contact-form.html</id>
             <category term="yolo tech"/>
 
-        <updated>2021-06-26T00:53:26+01:00</updated>
+        <updated>2021-11-13T14:50:31+00:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://treacherous.tech/media/posts/9/cover.png" alt="raspberry Pi 4b" />
@@ -529,7 +501,7 @@
         <id>https://treacherous.tech/mirroring-a-site-on-a-onion-address.html</id>
             <category term="yolo tech"/>
 
-        <updated>2021-06-26T21:19:54+01:00</updated>
+        <updated>2021-11-13T14:50:31+00:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://treacherous.tech/media/posts/8/Onion_garden-2.jpg" alt="https://commons.wikimedia.org/wiki/File:Onion_garden.jpg" />
@@ -831,7 +803,7 @@
         <id>https://treacherous.tech/this-is-how-they-tell-me-the-world-ends.html</id>
             <category term="books"/>
 
-        <updated>2021-05-06T21:56:08+01:00</updated>
+        <updated>2021-11-13T14:50:31+00:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://treacherous.tech/media/posts/7/this-is-how.jpg" alt="Coffee and book" />
@@ -899,7 +871,7 @@
         <id>https://treacherous.tech/bypassing-online-censorship.html</id>
             <category term="circumvention"/>
 
-        <updated>2021-02-20T01:28:09+00:00</updated>
+        <updated>2021-11-13T14:50:31+00:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://treacherous.tech/media/posts/6/detour.png" alt="" />
@@ -953,7 +925,7 @@
         <id>https://treacherous.tech/time-to-read.html</id>
             <category term="life "/>
 
-        <updated>2021-02-03T23:00:00+00:00</updated>
+        <updated>2021-11-13T14:50:31+00:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://treacherous.tech/media/posts/5/time-to-read.jpg" alt="" />
@@ -970,6 +942,48 @@
 
   <p>
     There's room to sit on the train and read now. But no where to go.
+  </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>The regime that the internet created</title>
+        <author>
+            <name>Yours Truly</name>
+        </author>
+        <link href="https://treacherous.tech/the-regime-that-the-internet-created.html"/>
+        <id>https://treacherous.tech/the-regime-that-the-internet-created.html</id>
+            <category term="politics"/>
+
+        <updated>2021-11-13T14:50:31+00:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://treacherous.tech/media/posts/4/atlantic-abomination.jpg" alt="Atlantic Abomination" />
+                     Howard Dean was the first American political candidate to use the internet as a vehicle to run a campaign. And his team was on to something. In 2002 his team working on the Democratic nomination for the 2004&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://treacherous.tech/media/posts/4/atlantic-abomination.jpg" alt="Atlantic Abomination" />
+                
+  <p>
+    Howard Dean was the first American political candidate to use the internet as a vehicle to run a campaign. And his team was on to something. In 2002 his team working on the Democratic nomination for the 2004 presidential election was pioneering the things that are all now bog-standard: campaign website, online donation pages and blogs. He also realised the purpose behind it all: You convert people into communities, not voters. Votes are a bi-product of generating communities. And people want to believe. Meetup.com was new, and the campaign used it to get people to throw house parties, or find groups to hang out with at the local <em>TGI Fridays</em> or whatever. The whole thing was geared toward meeting, bonding and agreeing with one another. Fun. It didn't work in the end. But it was a first iteration. Every major political campaign since built on the model, and there's now no such thing as a successful campaign that can't find its roots in it.
+  </p>
+
+  <p>
+    You could plot a course from Dean's use of nascent social media to how it had been used to span a beyond-control horde of MAGAheads storming the capitol 18 years later.&nbsp;
+  </p>
+
+  <p>
+    <a href="https://en.wikipedia.org/wiki/Christopher_Wylie" target="_blank">Chris Wiley's</a> book <em>Mindf*ck</em> plots the data scraping consultant's career exploiting demographic data and the social web to micro-target voters based on personas, starting with the Liberal Party in Canada before taking his trade to the Obama campaign and then on to the Liberal Democrats in UK before helping out both the UK referendum to quit the EU and the campaign to elect Donald Trump in the U.S. The supply chain of tactics is clear here, from friendly liberal Canadians to resurgent proto-fascist movements in the span of a decade or less.&nbsp;
+  </p>
+
+  <p>
+    People like to call&nbsp;<a href="https://en.wikipedia.org/wiki/Aaron_Swartz">Aaron Swartz</a> "The Internet's Own Boy." It's a good story. He was instrumental in a lot of things that have made the internet useful, educational, fun and open. At least the parts of the internet that are those things. And he was prosecuted and endlessly hounded for it. We can call the 45th president's single term the internet's own regime. It used the same tools, created communities, leveraged social media data to target messaging, and all together hit a nerve. So when people talk to you about the marvels of the internet age, sure it's pretty cool. We've created awesome ways for people to connect, work and socialise. And not an insignificant number of them can be instigated to use those tools to try to destroy democracy sometimes. This iteration failed.
+  </p>
+
+  <p>
+    
   </p>
             ]]>
         </content>
