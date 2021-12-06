@@ -12,7 +12,7 @@
         {
             "id": "https://treacherous.tech/this-site-is-basically-always-a-test-site.html",
             "url": "https://treacherous.tech/this-site-is-basically-always-a-test-site.html",
-            "title": "This site is basically always a test site... now here&#x27;s som AI generated images",
+            "title": "This site is basically always a test site... now here&#x27;s some AI generated images",
             "summary": "I broke the git workflow again. It's pretty easy to do. So I think I fixed it, and I'm testing it out. Here's some AI generated wombo.art made based on some text I typed into it. Did I make&hellip;",
             "content_html": "<p>I broke the git workflow again. It's pretty easy to do. So I think I fixed it, and I'm testing it out. Here's some AI generated <a href=\"https://app.wombo.art/\">wombo.art</a> made based on some text I typed into it. Did I make the art, or a machine, or some mechanical turks toiling away somewhere for pennies? Can I turn them into NFTs? What's the creator control in this (not considering ToS for the time being). From where comes the actual source material, and how much is sampled? I sense a big growth in all this and also many, many legal battles.</p>\n<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"false\" data-columns=\"3\">\n<figure class=\"gallery__item\"><a href=\"https://treacherous.tech/media/posts/15/gallery/Brexit_TradingCard.jpg\" data-size=\"939x1516\"><img loading=\"lazy\" src=\"https://treacherous.tech/media/posts/15/gallery/Brexit_TradingCard-thumbnail.jpg\" alt=\"Brexit\" width=\"720\" height=\"1162\"></a>\n<figcaption>Boris Johnson eating gammon in a field of red poppies</figcaption>\n</figure>\n<figure class=\"gallery__item\"><a href=\"https://treacherous.tech/media/posts/15/gallery/eye_cell_TradingCard.jpg\" data-size=\"936x1508\"><img loading=\"lazy\" src=\"https://treacherous.tech/media/posts/15/gallery/eye_cell_TradingCard-thumbnail.jpg\" alt=\"Too many eyes watching in prison\" width=\"720\" height=\"1160\"></a>\n<figcaption>Eye Cell</figcaption>\n</figure>\n<figure class=\"gallery__item\"><a href=\"https://treacherous.tech/media/posts/15/gallery/source_meeting.jpg\" data-size=\"938x1524\"><img loading=\"lazy\" src=\"https://treacherous.tech/media/posts/15/gallery/source_meeting-thumbnail.jpg\" alt=\"Source Meeting\" width=\"720\" height=\"1170\"></a>\n<figcaption>A meeting in the rain to exchange documents in autumn</figcaption>\n</figure>\n<figure class=\"gallery__item\"><a href=\"https://treacherous.tech/media/posts/15/gallery/The_hunger.jpg\" data-size=\"939x1507\"><img loading=\"lazy\" src=\"https://treacherous.tech/media/posts/15/gallery/The_hunger-thumbnail.jpg\" alt=\"The hunger\" width=\"720\" height=\"1156\"></a>\n<figcaption>Carnivorous rabbits in a humid jungle at night</figcaption>\n</figure>\n<figure class=\"gallery__item\"><a href=\"https://treacherous.tech/media/posts/15/gallery/the_pirates_TradingCard.jpg\" data-size=\"941x1520\"><img loading=\"lazy\" src=\"https://treacherous.tech/media/posts/15/gallery/the_pirates_TradingCard-thumbnail.jpg\" alt=\"The Pirates\" width=\"720\" height=\"1163\"></a>\n<figcaption>Pirates fighting business men at sea</figcaption>\n</figure>\n<figure class=\"gallery__item\"><a href=\"https://treacherous.tech/media/posts/15/gallery/The_source_TradingCard.jpg\" data-size=\"928x1516\"><img loading=\"lazy\" src=\"https://treacherous.tech/media/posts/15/gallery/The_source_TradingCard-thumbnail.jpg\" alt=\"The Source\" width=\"720\" height=\"1176\"></a>\n<figcaption>A source encrypting files for a journalist</figcaption>\n</figure>\n<figure class=\"gallery__item\"><a href=\"https://treacherous.tech/media/posts/15/gallery/umbrella_TradingCard.jpg\" data-size=\"929x1511\"><img loading=\"lazy\" src=\"https://treacherous.tech/media/posts/15/gallery/umbrella_TradingCard-thumbnail.jpg\" alt=\"Umbrella\" width=\"720\" height=\"1171\"></a>\n<figcaption>umbrella under a street lamp</figcaption>\n</figure>\n</div></div>",
             "image": "https://treacherous.tech/media/posts/15/The_source_TradingCard.jpg",
@@ -22,8 +22,8 @@
             "tags": [
                    "meta"
             ],
-            "date_published": "2021-12-06T20:09:07+00:00",
-            "date_modified": "2021-12-06T20:09:07+00:00"
+            "date_published": "2021-12-06T20:16:18+00:00",
+            "date_modified": "2021-12-06T20:16:18+00:00"
         },
         {
             "id": "https://treacherous.tech/test-on-prod.html",
@@ -38,8 +38,8 @@
             "tags": [
                    "meta"
             ],
-            "date_published": "2021-12-06T20:09:07+00:00",
-            "date_modified": "2021-12-06T20:09:07+00:00"
+            "date_published": "2021-12-06T20:16:18+00:00",
+            "date_modified": "2021-12-06T20:16:18+00:00"
         },
         {
             "id": "https://treacherous.tech/apple-csam-scan.html",
@@ -53,8 +53,8 @@
             },
             "tags": [
             ],
-            "date_published": "2021-12-06T20:09:07+00:00",
-            "date_modified": "2021-12-06T20:09:07+00:00"
+            "date_published": "2021-12-06T20:16:18+00:00",
+            "date_modified": "2021-12-06T20:16:18+00:00"
         },
         {
             "id": "https://treacherous.tech/pegasus-notes.html",
@@ -69,8 +69,8 @@
             "tags": [
                    "spyware"
             ],
-            "date_published": "2021-12-06T20:09:07+00:00",
-            "date_modified": "2021-12-06T20:09:07+00:00"
+            "date_published": "2021-12-06T20:16:18+00:00",
+            "date_modified": "2021-12-06T20:16:18+00:00"
         },
         {
             "id": "https://treacherous.tech/tails.html",
@@ -85,8 +85,8 @@
             "tags": [
                    "yolo tech"
             ],
-            "date_published": "2021-12-06T20:09:07+00:00",
-            "date_modified": "2021-12-06T20:09:07+00:00"
+            "date_published": "2021-12-06T20:16:18+00:00",
+            "date_modified": "2021-12-06T20:16:18+00:00"
         },
         {
             "id": "https://treacherous.tech/yolo.html",
@@ -101,8 +101,8 @@
             "tags": [
                    "yolo tech"
             ],
-            "date_published": "2021-12-06T20:09:07+00:00",
-            "date_modified": "2021-12-06T20:09:07+00:00"
+            "date_published": "2021-12-06T20:16:18+00:00",
+            "date_modified": "2021-12-06T20:16:18+00:00"
         },
         {
             "id": "https://treacherous.tech/hosting-a-secure-contact-form.html",
@@ -117,8 +117,8 @@
             "tags": [
                    "yolo tech"
             ],
-            "date_published": "2021-12-06T20:09:07+00:00",
-            "date_modified": "2021-12-06T20:09:07+00:00"
+            "date_published": "2021-12-06T20:16:18+00:00",
+            "date_modified": "2021-12-06T20:16:18+00:00"
         },
         {
             "id": "https://treacherous.tech/mirroring-a-site-on-a-onion-address.html",
@@ -133,8 +133,8 @@
             "tags": [
                    "yolo tech"
             ],
-            "date_published": "2021-12-06T20:09:07+00:00",
-            "date_modified": "2021-12-06T20:09:07+00:00"
+            "date_published": "2021-12-06T20:16:18+00:00",
+            "date_modified": "2021-12-06T20:16:18+00:00"
         },
         {
             "id": "https://treacherous.tech/this-is-how-they-tell-me-the-world-ends.html",
@@ -149,8 +149,8 @@
             "tags": [
                    "books"
             ],
-            "date_published": "2021-12-06T20:09:07+00:00",
-            "date_modified": "2021-12-06T20:09:07+00:00"
+            "date_published": "2021-12-06T20:16:18+00:00",
+            "date_modified": "2021-12-06T20:16:18+00:00"
         },
         {
             "id": "https://treacherous.tech/bypassing-online-censorship.html",
@@ -165,8 +165,8 @@
             "tags": [
                    "circumvention"
             ],
-            "date_published": "2021-12-06T20:09:07+00:00",
-            "date_modified": "2021-12-06T20:09:07+00:00"
+            "date_published": "2021-12-06T20:16:18+00:00",
+            "date_modified": "2021-12-06T20:16:18+00:00"
         }
     ]
 }
