@@ -10,6 +10,52 @@
     <id>https://treacherous.tech</id>
 
     <entry>
+        <title>This site is basically always a test site... now here&#x27;s som AI generated images</title>
+        <author>
+            <name>Yours Truly</name>
+        </author>
+        <link href="https://treacherous.tech/this-site-is-basically-always-a-test-site.html"/>
+        <id>https://treacherous.tech/this-site-is-basically-always-a-test-site.html</id>
+            <category term="meta"/>
+
+        <updated>2021-12-06T20:09:07+00:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://treacherous.tech/media/posts/15/The_source_TradingCard.jpg" alt="" />
+                    I broke the git workflow again. It's pretty easy to do. So I think I fixed it, and I'm testing it out. Here's some AI generated wombo.art made based on some text I typed into it. Did I make&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://treacherous.tech/media/posts/15/The_source_TradingCard.jpg" alt="" />
+                <p>I broke the git workflow again. It's pretty easy to do. So I think I fixed it, and I'm testing it out. Here's some AI generated <a href="https://app.wombo.art/">wombo.art</a> made based on some text I typed into it. Did I make the art, or a machine, or some mechanical turks toiling away somewhere for pennies? Can I turn them into NFTs? What's the creator control in this (not considering ToS for the time being). From where comes the actual source material, and how much is sampled? I sense a big growth in all this and also many, many legal battles.</p>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="3">
+<figure class="gallery__item"><a href="https://treacherous.tech/media/posts/15/gallery/Brexit_TradingCard.jpg" data-size="939x1516"><img loading="lazy" src="https://treacherous.tech/media/posts/15/gallery/Brexit_TradingCard-thumbnail.jpg" alt="Brexit" width="720" height="1162"></a>
+<figcaption>Boris Johnson eating gammon in a field of red poppies</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://treacherous.tech/media/posts/15/gallery/eye_cell_TradingCard.jpg" data-size="936x1508"><img loading="lazy" src="https://treacherous.tech/media/posts/15/gallery/eye_cell_TradingCard-thumbnail.jpg" alt="Too many eyes watching in prison" width="720" height="1160"></a>
+<figcaption>Eye Cell</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://treacherous.tech/media/posts/15/gallery/source_meeting.jpg" data-size="938x1524"><img loading="lazy" src="https://treacherous.tech/media/posts/15/gallery/source_meeting-thumbnail.jpg" alt="Source Meeting" width="720" height="1170"></a>
+<figcaption>A meeting in the rain to exchange documents in autumn</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://treacherous.tech/media/posts/15/gallery/The_hunger.jpg" data-size="939x1507"><img loading="lazy" src="https://treacherous.tech/media/posts/15/gallery/The_hunger-thumbnail.jpg" alt="The hunger" width="720" height="1156"></a>
+<figcaption>Carnivorous rabbits in a humid jungle at night</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://treacherous.tech/media/posts/15/gallery/the_pirates_TradingCard.jpg" data-size="941x1520"><img loading="lazy" src="https://treacherous.tech/media/posts/15/gallery/the_pirates_TradingCard-thumbnail.jpg" alt="The Pirates" width="720" height="1163"></a>
+<figcaption>Pirates fighting business men at sea</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://treacherous.tech/media/posts/15/gallery/The_source_TradingCard.jpg" data-size="928x1516"><img loading="lazy" src="https://treacherous.tech/media/posts/15/gallery/The_source_TradingCard-thumbnail.jpg" alt="The Source" width="720" height="1176"></a>
+<figcaption>A source encrypting files for a journalist</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://treacherous.tech/media/posts/15/gallery/umbrella_TradingCard.jpg" data-size="929x1511"><img loading="lazy" src="https://treacherous.tech/media/posts/15/gallery/umbrella_TradingCard-thumbnail.jpg" alt="Umbrella" width="720" height="1171"></a>
+<figcaption>umbrella under a street lamp</figcaption>
+</figure>
+</div></div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
         <title>Testing on production (again)</title>
         <author>
             <name>Yours Truly</name>
@@ -18,7 +64,7 @@
         <id>https://treacherous.tech/test-on-prod.html</id>
             <category term="meta"/>
 
-        <updated>2021-11-13T15:11:06+00:00</updated>
+        <updated>2021-12-06T20:09:07+00:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://treacherous.tech/media/posts/14/doc-frankenstein.jpg" alt="" />
@@ -44,7 +90,7 @@
         <link href="https://treacherous.tech/apple-csam-scan.html"/>
         <id>https://treacherous.tech/apple-csam-scan.html</id>
 
-        <updated>2021-11-13T15:11:06+00:00</updated>
+        <updated>2021-12-06T20:09:07+00:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://treacherous.tech/media/posts/13/stays-on-your-iphone.jpg" alt="iPhone slogan: What Happens on your iPhone stays on your iPhone." />
@@ -130,7 +176,7 @@
         <id>https://treacherous.tech/pegasus-notes.html</id>
             <category term="spyware"/>
 
-        <updated>2021-11-13T15:11:06+00:00</updated>
+        <updated>2021-12-06T20:09:07+00:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://treacherous.tech/media/posts/12/pegasus.jpg" alt="" />
@@ -186,7 +232,7 @@
         <id>https://treacherous.tech/tails.html</id>
             <category term="yolo tech"/>
 
-        <updated>2021-11-13T15:11:06+00:00</updated>
+        <updated>2021-12-06T20:09:07+00:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://treacherous.tech/media/posts/11/usb.jpg" alt="USB stick closeup" />
@@ -322,7 +368,7 @@
         <id>https://treacherous.tech/yolo.html</id>
             <category term="yolo tech"/>
 
-        <updated>2021-11-13T15:11:06+00:00</updated>
+        <updated>2021-12-06T20:09:07+00:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://treacherous.tech/media/posts/10/privacy-sold-here.jpg" alt="Privacy Sold Here" />
@@ -396,7 +442,7 @@
         <id>https://treacherous.tech/hosting-a-secure-contact-form.html</id>
             <category term="yolo tech"/>
 
-        <updated>2021-11-13T15:11:06+00:00</updated>
+        <updated>2021-12-06T20:09:07+00:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://treacherous.tech/media/posts/9/cover.png" alt="raspberry Pi 4b" />
@@ -528,7 +574,7 @@
         <id>https://treacherous.tech/mirroring-a-site-on-a-onion-address.html</id>
             <category term="yolo tech"/>
 
-        <updated>2021-11-13T15:11:06+00:00</updated>
+        <updated>2021-12-06T20:09:07+00:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://treacherous.tech/media/posts/8/Onion_garden-2.jpg" alt="https://commons.wikimedia.org/wiki/File:Onion_garden.jpg" />
@@ -830,7 +876,7 @@
         <id>https://treacherous.tech/this-is-how-they-tell-me-the-world-ends.html</id>
             <category term="books"/>
 
-        <updated>2021-11-13T15:11:06+00:00</updated>
+        <updated>2021-12-06T20:09:07+00:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://treacherous.tech/media/posts/7/this-is-how.jpg" alt="Coffee and book" />
@@ -898,7 +944,7 @@
         <id>https://treacherous.tech/bypassing-online-censorship.html</id>
             <category term="circumvention"/>
 
-        <updated>2021-11-13T15:11:06+00:00</updated>
+        <updated>2021-12-06T20:09:07+00:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://treacherous.tech/media/posts/6/detour.png" alt="" />
@@ -939,36 +985,6 @@
 
   <p>
     
-  </p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Time to read</title>
-        <author>
-            <name>Yours Truly</name>
-        </author>
-        <link href="https://treacherous.tech/time-to-read.html"/>
-        <id>https://treacherous.tech/time-to-read.html</id>
-            <category term="life "/>
-
-        <updated>2021-11-13T15:11:06+00:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://treacherous.tech/media/posts/5/time-to-read.jpg" alt="" />
-                     I used to have this mental game, back in the before times. On the packed overground train in the morning, when commuters are stuffed tight against one another with no room to breath, I'd imagine the space if&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://treacherous.tech/media/posts/5/time-to-read.jpg" alt="" />
-                
-  <p>
-    I used to have this mental game, back in the before times. On the packed overground train in the morning, when commuters are stuffed tight against one another with no room to breath, I'd imagine the space if it only contained one tenth the population, randomly pick 9 out of 10 to not exist and think what that commute might be like. I don't have to imagine that anymore. Taking the train on average once a month now, seeing 5 or fewer fellow commuters, wearing their masks, sitting apart from one another, still stuck in their minds like we all had been before.
-  </p>
-
-  <p>
-    There's room to sit on the train and read now. But no where to go.
   </p>
             ]]>
         </content>
