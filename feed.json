@@ -10,6 +10,21 @@
     },
     "items": [
         {
+            "id": "https://treacherous.tech/happy-2022-quit-more.html",
+            "url": "https://treacherous.tech/happy-2022-quit-more.html",
+            "title": "Happy 2022: Quit more",
+            "summary": "Happy new year. It's a new year and I somehow feel obligated to make a blog post to mark that even though I kind of have writer's block and can't think of anything to write about. Fortunately, this is&hellip;",
+            "content_html": "<p class=\"dropcap\">Happy new year. It's a new year and I somehow feel obligated to make a blog post to mark that even though I kind of have writer's block and can't think of anything to write about. Fortunately, this is a blog, and doesn't really have to be about much anything.</p>\n<p>It's around this time of year I like to take stock of my online presence and various hard drives and see what to keep, delete, or wipe and repeat. One of the nice things about using a password manager and app-based 2FA is that you can keep a nice running list of all the online accounts you've got. <a href=\"https://keepassxc.org/\" target=\"_blank\" rel=\"noopener noreferrer\">KeePassXC</a> tells me how many hundreds of accounts I have floating around. If you want to both strengthen your use of passwords and start and audit of all the places you have an account, set up a password manager, and as you use each account, reset the password to some random 32+ character monster you'll never remember, and keep a record of where you're going online at the same time. The best way to start with a password manager is to just set one up and go. Instead of trying to add all your accounts in one go (if you have a lot of them) just add them as you visit the websites. In about a month, you'll have the majority (if not all) of your important accounts. So there's a new year's PSA for you.</p>\n<h3>Online accounts</h3>\n<p><strong>Delete: </strong>Amongst many things, Slack. A few years ago I went from 0 to 8 Slacks in just a couple of months, and I currently use 1 of them, and not even that frequently. The one I controlled was easy. As an administrator, I just deleted it. But depending on the version of Slack being used, you may or may not be able to simply opt out. To remove myself from some, I need to contact the administrator. On at least one, I'm sure they've gone AWOL. You shouldn't have to talk to anyone to remove yourself from an online service. Slack was supposed to put an end to emails. It just created a deluge of meaningless chatter. No new Slacks. And need to post in existing ones I want out. </p>\n<p><strong>Keep:</strong> From the collection of digital collateral to roll on with, I'll stick with Publii, the app I'm using to make this blog. It's still glitchy and unfinished, and I can't yet justify using a premium version of it until they make this one work right, but it's maybe the best open source tool for throwing a simple, flat website on the web. Publii, Github and a reasonable domain management service are all that are running this show. The only thing I'm paying for is the domain.</p>\n<p><strong>Wipe and repeat</strong>: I keep some Protonmail addresses, and will even add one to the contact page here soonish. Unless you're also chatting with it using a Protonmail account as well, I don't particularly rate it as greatly enhancing security, and the spam/junk filtering is crap. I do regular wipes of the account though, and some people still want to send an email.</p>\n<h3>Socials</h3>\n<p>I quite Facebook a couple of years back, and have not really missed it. In fact, it immediately made checking in on the web better. Am still in the metaverse via Insta and WhatsApp, but single-use apps are where its at. Quit more social sites, or understand why you're on them. Actually, here I recommend <a href=\"https://twitter.com/anildash/status/1477313627598299137\" target=\"_blank\" rel=\"noopener noreferrer\">Anil Dash's resources</a> on how to wipe your social accounts for new years and new starts. I'm just about to check out a Glitch app on how to \"KonMari\" Twitter followers <a href=\"https://glitch.com/~tokimeki-unfollow\" target=\"_blank\" rel=\"noopener noreferrer\">here</a>, and highly recommend the process. I usually do this manually, but am happy to see something that makes the process more interesting.</p>\n<h3>2022 digital resolutions</h3>\n<ul>\n<li><strong>Quit more.</strong> Close more accounts, and make my web more ephemeral. I tend to be a volatile user, but I create lots of accounts often just to see what the shiny looking thing does. My goal this year is to close more online things than I open. Quitting another one of the big companies is still on my list. I still have some Amazon and Google services running and would be happy to move off.</li>\n<li><strong>Blog more.</strong> I wrote maybe 6 things last year (no, I'm not counting). Blog shorter, care less about form and style and be a bit more creative and messy (if you can believe it). </li>\n<li><strong>Tech less.</strong> I've downsized my devices in the last couple of years, and could still do some more culling. Like everything else, each thing should be justifying its existence in the horde. </li>\n</ul>\n<p> </p>",
+            "image": "https://treacherous.tech/media/posts/16/uhffszjrfec51.webp",
+            "author": {
+                "name": "Yours Truly"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-01-01T23:43:27+00:00",
+            "date_modified": "2022-01-01T23:43:27+00:00"
+        },
+        {
             "id": "https://treacherous.tech/this-site-is-basically-always-a-test-site.html",
             "url": "https://treacherous.tech/this-site-is-basically-always-a-test-site.html",
             "title": "This site is basically always a test site... now here&#x27;s some AI generated images",
@@ -22,8 +37,8 @@
             "tags": [
                    "meta"
             ],
-            "date_published": "2021-12-06T20:16:18+00:00",
-            "date_modified": "2021-12-06T20:16:18+00:00"
+            "date_published": "2022-01-01T23:43:27+00:00",
+            "date_modified": "2022-01-01T23:43:27+00:00"
         },
         {
             "id": "https://treacherous.tech/test-on-prod.html",
@@ -38,8 +53,8 @@
             "tags": [
                    "meta"
             ],
-            "date_published": "2021-12-06T20:16:18+00:00",
-            "date_modified": "2021-12-06T20:16:18+00:00"
+            "date_published": "2022-01-01T23:43:27+00:00",
+            "date_modified": "2022-01-01T23:43:27+00:00"
         },
         {
             "id": "https://treacherous.tech/apple-csam-scan.html",
@@ -53,8 +68,8 @@
             },
             "tags": [
             ],
-            "date_published": "2021-12-06T20:16:18+00:00",
-            "date_modified": "2021-12-06T20:16:18+00:00"
+            "date_published": "2022-01-01T23:43:27+00:00",
+            "date_modified": "2022-01-01T23:43:27+00:00"
         },
         {
             "id": "https://treacherous.tech/pegasus-notes.html",
@@ -69,8 +84,8 @@
             "tags": [
                    "spyware"
             ],
-            "date_published": "2021-12-06T20:16:18+00:00",
-            "date_modified": "2021-12-06T20:16:18+00:00"
+            "date_published": "2022-01-01T23:43:27+00:00",
+            "date_modified": "2022-01-01T23:43:27+00:00"
         },
         {
             "id": "https://treacherous.tech/tails.html",
@@ -85,8 +100,8 @@
             "tags": [
                    "yolo tech"
             ],
-            "date_published": "2021-12-06T20:16:18+00:00",
-            "date_modified": "2021-12-06T20:16:18+00:00"
+            "date_published": "2022-01-01T23:43:27+00:00",
+            "date_modified": "2022-01-01T23:43:27+00:00"
         },
         {
             "id": "https://treacherous.tech/yolo.html",
@@ -101,8 +116,8 @@
             "tags": [
                    "yolo tech"
             ],
-            "date_published": "2021-12-06T20:16:18+00:00",
-            "date_modified": "2021-12-06T20:16:18+00:00"
+            "date_published": "2022-01-01T23:43:27+00:00",
+            "date_modified": "2022-01-01T23:43:27+00:00"
         },
         {
             "id": "https://treacherous.tech/hosting-a-secure-contact-form.html",
@@ -117,8 +132,8 @@
             "tags": [
                    "yolo tech"
             ],
-            "date_published": "2021-12-06T20:16:18+00:00",
-            "date_modified": "2021-12-06T20:16:18+00:00"
+            "date_published": "2022-01-01T23:43:27+00:00",
+            "date_modified": "2022-01-01T23:43:27+00:00"
         },
         {
             "id": "https://treacherous.tech/mirroring-a-site-on-a-onion-address.html",
@@ -133,8 +148,8 @@
             "tags": [
                    "yolo tech"
             ],
-            "date_published": "2021-12-06T20:16:18+00:00",
-            "date_modified": "2021-12-06T20:16:18+00:00"
+            "date_published": "2022-01-01T23:43:27+00:00",
+            "date_modified": "2022-01-01T23:43:27+00:00"
         },
         {
             "id": "https://treacherous.tech/this-is-how-they-tell-me-the-world-ends.html",
@@ -149,24 +164,8 @@
             "tags": [
                    "books"
             ],
-            "date_published": "2021-12-06T20:16:18+00:00",
-            "date_modified": "2021-12-06T20:16:18+00:00"
-        },
-        {
-            "id": "https://treacherous.tech/bypassing-online-censorship.html",
-            "url": "https://treacherous.tech/bypassing-online-censorship.html",
-            "title": "A little resource on bypassing online censorship",
-            "summary": " Started a small resource page for people on how to deal with internet shutdowns that I'm calling The Detour.&nbsp; Shutdowns been in the news over the last week following the military coup in Myanmar, and the shutdown that&hellip;",
-            "content_html": "\n  <p>\n    Started a small resource page for people on how to deal with internet shutdowns that I'm calling <a href=\"https://listed.to/@the_detour\" target=\"_blank\">The Detour</a>.&nbsp;\n  </p>\n\n  <p>\n    Shutdowns been in the news over the last week following the military coup in Myanmar, and the shutdown that happened there, and threats of it happening again in Iran. internet shutdowns are on the rise, and have long been a tool by regimes to stop organising happening internally or news getting out.&nbsp; <a href=\"https://www.hrw.org/world-report/2020/country-chapters/global-5\" target=\"_blank\">internet Shutdowns are on the rise</a>. We've already seen it happen in 2021. [In 2019]. In 2020 there were <a href=\"https://www.hrw.org/world-report/2020/country-chapters/global-5\" target=\"_blank\">83 documented shutdowns</a> in the world. A bit down from the <a href=\"https://www.accessnow.org/cms/assets/uploads/2020/02/KeepItOn-2019-report-1.pdf\" target=\"_blank\">213 shutdowns that happened in in 2019</a>, but still on the upward trajectory. There were 33 in 2018 and 25 the year before that.\n  </p>\n\n  <p>\n    I'll be moving on to include some resources on other kinds of internet censorship and how to work around it. The goal overall is to keep it end-user focused, though may add a post on the bigger, more involved projects. The other goal is to experiment with a pretty easy and sturdy way of publishing on the web.\n  </p>\n\n    <h3 id=\"what-the-detour-is-made-with\">\n      What 'The Detour' is made with...\n    </h3>\n\n  <p>\n    As I've noted in earlier posts on this blog, I'm interested in simple, sturdy and secure ways to publish online. Sites that don't need databases or login credentials. Site's with minimal code bases to maintain. I'm publishing this site using Publii and Github pages. The work happens through an app on my computer and then spits pages at a site hosted on Github. So The Detour is an experiment along these lines.\n  </p>\n\n  <p>\n    I'm a <a href=\"https://standardnotes.org/\" target=\"_blank\">Standard Notes</a> user. It's an extendable, open source text editor that's good for taking quick notes, editing, and storing information. It's open source, and can sync across devices and back-up in the cloud of your choice with strong encryption. I&nbsp;recently noticed that it has a simple blogging function that publishes on&nbsp;<a href=\"https://listed.to/\" target=\"_blank\">Listed.to</a>.&nbsp;\n  </p>\n\n  <p>\n    It's not an incredibly sophisticated publishing tool, but really easy for anyone to start, and the model is incredibly attractive if you wanted to extend it to a small team who could submit, review edit and publish using Standard Notes already existing encrypted sharing functions. It's much better than leaving unfinished drafts on a public website, or having to keep persistent connections to a web server while doing the research, writing and editing.\n  </p>\n\n  <p>\n    \n  </p>",
-            "image": "https://treacherous.tech/media/posts/6/detour.png",
-            "author": {
-                "name": "Yours Truly"
-            },
-            "tags": [
-                   "circumvention"
-            ],
-            "date_published": "2021-12-06T20:16:18+00:00",
-            "date_modified": "2021-12-06T20:16:18+00:00"
+            "date_published": "2022-01-01T23:43:27+00:00",
+            "date_modified": "2022-01-01T23:43:27+00:00"
         }
     ]
 }
