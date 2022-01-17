@@ -17,7 +17,7 @@
         <link href="https://treacherous.tech/happy-2022-quit-more.html"/>
         <id>https://treacherous.tech/happy-2022-quit-more.html</id>
 
-        <updated>2022-01-02T01:01:28+00:00</updated>
+        <updated>2022-01-17T23:02:03+00:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://treacherous.tech/media/posts/16/uhffszjrfec51.webp" alt="" />
@@ -29,6 +29,8 @@
                     <img src="https://treacherous.tech/media/posts/16/uhffszjrfec51.webp" alt="" />
                 <p class="dropcap">Happy new year. It's a new year and I somehow feel obligated to make a blog post to mark that even though I kind of have writer's block and can't think of anything to write about. Fortunately, this is a blog, and doesn't really have to be about much anything.</p>
 <p>It's around this time of year I like to take stock of my online presence and various hard drives and see what to keep, delete, or wipe and repeat. One of the nice things about using a password manager and app-based 2FA is that you can keep a nice running list of all the online accounts you've got. <a href="https://keepassxc.org/" target="_blank" rel="noopener noreferrer">KeePassXC</a> tells me how many hundreds of accounts I have floating around. If you want to both strengthen your use of passwords and start and audit of all the places you have an account, set up a password manager, and as you use each account, reset the password to some random 32+ character monster you'll never remember, and keep a record of where you're going online at the same time. The best way to start with a password manager is to just set one up and go. Instead of trying to add all your accounts in one go (if you have a lot of them) just add them as you visit the websites. In about a month, you'll have the majority (if not all) of your important accounts. So there's a new year's PSA for you.</p>
+<h3>The website</h3>
+<p>I'm temporarily closing some buggy things. Closed the onion mirror of this blog and the onionshare contact form for a bit until I can make these things more stable. Will also be looking for a flat-site generator to replace Publii, which started strong, but the bugs are becoming kind of annoying. It edits kind of wonky. Select text to delete and it deletes the paragraph above. Weird. </p>
 <h3>Online accounts</h3>
 <p><strong>Delete: </strong>Amongst many things, Slack. A few years ago I went from 0 to 8 Slacks in just a couple of months, and I currently use 1 of them, and not even that frequently. The one I controlled was easy. As an administrator, I just deleted it. But depending on the version of Slack being used, you may or may not be able to simply opt out. To remove myself from some, I need to contact the administrator. On at least one, I'm sure they've gone AWOL. You shouldn't have to talk to anyone to remove yourself from an online service. Slack was supposed to put an end to emails. It just created a deluge of meaningless chatter. No new Slacks. And need to post in existing ones I want out. </p>
 <p><strong>Keep:</strong> From the collection of digital collateral to roll on with, I'll stick with Publii, the app I'm using to make this blog. It's still glitchy and unfinished, and I can't yet justify using a premium version of it until they make this one work right, but it's maybe the best open source tool for throwing a simple, flat website on the web. Publii, Github and a reasonable domain management service are all that are running this show. The only thing I'm paying for is the domain.</p>
@@ -54,7 +56,7 @@
         <id>https://treacherous.tech/this-site-is-basically-always-a-test-site.html</id>
             <category term="meta"/>
 
-        <updated>2022-01-02T01:01:28+00:00</updated>
+        <updated>2022-01-17T23:02:03+00:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://treacherous.tech/media/posts/15/The_source_TradingCard.jpg" alt="" />
@@ -100,7 +102,7 @@
         <id>https://treacherous.tech/test-on-prod.html</id>
             <category term="meta"/>
 
-        <updated>2022-01-02T01:01:28+00:00</updated>
+        <updated>2022-01-17T23:02:03+00:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://treacherous.tech/media/posts/14/doc-frankenstein.jpg" alt="" />
@@ -126,7 +128,7 @@
         <link href="https://treacherous.tech/apple-csam-scan.html"/>
         <id>https://treacherous.tech/apple-csam-scan.html</id>
 
-        <updated>2022-01-02T01:01:28+00:00</updated>
+        <updated>2022-01-17T23:02:03+00:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://treacherous.tech/media/posts/13/stays-on-your-iphone.jpg" alt="iPhone slogan: What Happens on your iPhone stays on your iPhone." />
@@ -212,7 +214,7 @@
         <id>https://treacherous.tech/pegasus-notes.html</id>
             <category term="spyware"/>
 
-        <updated>2022-01-02T01:01:28+00:00</updated>
+        <updated>2022-01-17T23:02:03+00:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://treacherous.tech/media/posts/12/pegasus.jpg" alt="" />
@@ -268,7 +270,7 @@
         <id>https://treacherous.tech/tails.html</id>
             <category term="yolo tech"/>
 
-        <updated>2022-01-02T01:01:28+00:00</updated>
+        <updated>2022-01-17T23:02:03+00:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://treacherous.tech/media/posts/11/usb.jpg" alt="USB stick closeup" />
@@ -404,7 +406,7 @@
         <id>https://treacherous.tech/yolo.html</id>
             <category term="yolo tech"/>
 
-        <updated>2022-01-02T01:01:28+00:00</updated>
+        <updated>2022-01-17T23:02:03+00:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://treacherous.tech/media/posts/10/privacy-sold-here.jpg" alt="Privacy Sold Here" />
@@ -478,7 +480,7 @@
         <id>https://treacherous.tech/hosting-a-secure-contact-form.html</id>
             <category term="yolo tech"/>
 
-        <updated>2022-01-02T01:01:28+00:00</updated>
+        <updated>2022-01-17T23:02:03+00:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://treacherous.tech/media/posts/9/cover.png" alt="raspberry Pi 4b" />
@@ -610,7 +612,7 @@
         <id>https://treacherous.tech/mirroring-a-site-on-a-onion-address.html</id>
             <category term="yolo tech"/>
 
-        <updated>2022-01-02T01:01:28+00:00</updated>
+        <updated>2022-01-17T23:02:03+00:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://treacherous.tech/media/posts/8/Onion_garden-2.jpg" alt="https://commons.wikimedia.org/wiki/File:Onion_garden.jpg" />
@@ -912,7 +914,7 @@
         <id>https://treacherous.tech/this-is-how-they-tell-me-the-world-ends.html</id>
             <category term="books"/>
 
-        <updated>2022-01-02T01:01:28+00:00</updated>
+        <updated>2022-01-17T23:02:03+00:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://treacherous.tech/media/posts/7/this-is-how.jpg" alt="Coffee and book" />
