@@ -18,11 +18,11 @@
         <id>https://treacherous.tech/encryption-is-not-a-crime-its-a-deterrence.html</id>
             <category term="encryption"/>
 
-        <updated>2022-01-19T01:18:51+00:00</updated>
+        <updated>2022-01-21T22:57:24+00:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://treacherous.tech/media/posts/17/keys-261412860438709cZV.jpg" alt="" />
-                    In which, for reasons unknown, the British government tries once again to make a villain out of a technological function that makes everyone safer online. Tl;dr: Lots of things break and nothing in the stated goal is achieved. The&hellip;
+                    In which, for reasons unknown, the British government tries once again to make a villain out of a technological function that makes everyone safer online. Tl;dr: Lots of things break and nothing in the stated goal is achieved. UPDATE&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -30,6 +30,9 @@
                     <img src="https://treacherous.tech/media/posts/17/keys-261412860438709cZV.jpg" alt="" />
                 <p class="msg msg--highlight  msg--warning"><strong>In which, for reasons unknown, the British government tries once again to make a villain out of a technological function that makes everyone safer online.</strong></p>
 <p><strong>Tl;dr: Lots of things break and nothing in the stated goal is achieved.</strong></p>
+<hr>
+<p><strong>UPDATE (21/01/2022):</strong> UK data watchdog, The Information Commissioner’s Office, agrees with me <a href="https://www.theguardian.com/technology/2022/jan/21/end-to-end-encryption-protects-children-says-uk-information-watchdog" target="_blank" rel="noopener noreferrer">that properly implemented end-to-end encryption keeps kids safer online</a>.</p>
+<hr>
 <p>The UK Home Office <a href="https://www.wired.co.uk/article/uk-encryption-facebook-home-office-nspcc" target="_blank" rel="noopener noreferrer">is back on its anti-encryption campaign</a>. This time it's with an costly and fairly lewd (more on that shortly) public relations blitz aimed at reframing an important but usually invisible security configuration as something akin to a pervy booth at the back of a nude dancing club instead of, say, the function that keeps your banking details, medical records, important business and personal communications confined to just those you think should see them.</p>
 <p>In this instalment of the Very British Crypto Wars, Priti Patel's team has signed a £534,000 contract with advertising firm M&amp;C Saatchi to reframe backdooring your security away from being a privacy or security concern to make it "about the children" and the notion that encryption is keeping police from tackling child exploitation online. This is also <a href="https://www.bbc.co.uk/news/business-57050689" target="_blank" rel="noopener noreferrer">not the first time to use fly that flag</a>. The Home Office is also working with longtime alley in this battle, the still very misguided NSPCC, which still campaigns that children will be safer only if their communications are some how easer to exploit by adults unknown.</p>
 <p>This is a marketing campaign aimed at turning public opinion on a topic that there's very little knowledge about. Wouldn't be the first time. Aside from a blitzkrieg of propaganda in various tabloids and a “partnership” with The Sun to really ramp things up with Conservatives favourite demographic, and one weird, slightly creepy PR stunt.</p>
@@ -62,7 +65,7 @@
         <link href="https://treacherous.tech/happy-2022-quit-more.html"/>
         <id>https://treacherous.tech/happy-2022-quit-more.html</id>
 
-        <updated>2022-01-19T01:18:51+00:00</updated>
+        <updated>2022-01-21T22:57:24+00:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://treacherous.tech/media/posts/16/uhffszjrfec51.webp" alt="" />
@@ -101,7 +104,7 @@
         <id>https://treacherous.tech/this-site-is-basically-always-a-test-site.html</id>
             <category term="meta"/>
 
-        <updated>2022-01-19T01:18:51+00:00</updated>
+        <updated>2022-01-21T22:57:24+00:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://treacherous.tech/media/posts/15/The_source_TradingCard.jpg" alt="" />
@@ -147,7 +150,7 @@
         <id>https://treacherous.tech/test-on-prod.html</id>
             <category term="meta"/>
 
-        <updated>2022-01-19T01:18:51+00:00</updated>
+        <updated>2022-01-21T22:57:24+00:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://treacherous.tech/media/posts/14/doc-frankenstein.jpg" alt="" />
@@ -173,7 +176,7 @@
         <link href="https://treacherous.tech/apple-csam-scan.html"/>
         <id>https://treacherous.tech/apple-csam-scan.html</id>
 
-        <updated>2022-01-19T01:18:51+00:00</updated>
+        <updated>2022-01-21T22:57:24+00:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://treacherous.tech/media/posts/13/stays-on-your-iphone.jpg" alt="iPhone slogan: What Happens on your iPhone stays on your iPhone." />
@@ -259,7 +262,7 @@
         <id>https://treacherous.tech/pegasus-notes.html</id>
             <category term="spyware"/>
 
-        <updated>2022-01-19T01:18:51+00:00</updated>
+        <updated>2022-01-21T22:57:24+00:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://treacherous.tech/media/posts/12/pegasus.jpg" alt="" />
@@ -315,7 +318,7 @@
         <id>https://treacherous.tech/tails.html</id>
             <category term="yolo tech"/>
 
-        <updated>2022-01-19T01:18:51+00:00</updated>
+        <updated>2022-01-21T22:57:24+00:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://treacherous.tech/media/posts/11/usb.jpg" alt="USB stick closeup" />
@@ -451,7 +454,7 @@
         <id>https://treacherous.tech/yolo.html</id>
             <category term="yolo tech"/>
 
-        <updated>2022-01-19T01:18:51+00:00</updated>
+        <updated>2022-01-21T22:57:24+00:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://treacherous.tech/media/posts/10/privacy-sold-here.jpg" alt="Privacy Sold Here" />
@@ -525,7 +528,7 @@
         <id>https://treacherous.tech/hosting-a-secure-contact-form.html</id>
             <category term="yolo tech"/>
 
-        <updated>2022-01-19T01:18:51+00:00</updated>
+        <updated>2022-01-21T22:57:24+00:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://treacherous.tech/media/posts/9/cover.png" alt="raspberry Pi 4b" />
@@ -657,7 +660,7 @@
         <id>https://treacherous.tech/mirroring-a-site-on-a-onion-address.html</id>
             <category term="yolo tech"/>
 
-        <updated>2022-01-19T01:18:51+00:00</updated>
+        <updated>2022-01-21T22:57:24+00:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://treacherous.tech/media/posts/8/Onion_garden-2.jpg" alt="https://commons.wikimedia.org/wiki/File:Onion_garden.jpg" />
