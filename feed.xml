@@ -10,6 +10,41 @@
     <id>https://treacherous.tech</id>
 
     <entry>
+        <title>I can&#x27;t keep up</title>
+        <author>
+            <name>Yours Truly</name>
+        </author>
+        <link href="https://treacherous.tech/i-cant-keep-up.html"/>
+        <id>https://treacherous.tech/i-cant-keep-up.html</id>
+            <category term="web"/>
+            <category term="life "/>
+            <category term="books"/>
+
+        <updated>2022-07-31T22:22:49+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://treacherous.tech/media/posts/21/fbi-bot.jpeg" alt="CBC&#x27;s mailmobile in 1977" />
+                    I'm the worst blogger. Too much happens between the time I think I may want to write about something and when I actually get around to doing it, and my attention span is also a wreck. Micro-post formats like&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://treacherous.tech/media/posts/21/fbi-bot.jpeg" alt="CBC&#x27;s mailmobile in 1977" />
+                <p>I'm the worst blogger. Too much happens between the time I think I may want to write about something and when I actually get around to doing it, and my attention span is also a wreck. Micro-post formats like <a href="https://twitter.com/andrewfordlyons" target="_blank" rel="noopener noreferrer">Twitter</a> and <a href="https://mastodon.social/web/@aiefel" target="_blank" rel="noopener noreferrer">Mastodon</a> are more my thing. I have more enthusiasm to relaunch the site on a new platform than I do to actually write anything on it. It's more of just a presence. An address. A place to let the world know I'm still tenuously interested in contact. Now, here are some things...</p>
+<h3>Book</h3>
+<p>in book news, I've just finished '<a href="https://www.penguin.co.uk/books/309409/the-new-breed-by-darling-kate/9780241352991" target="_blank" rel="noopener noreferrer">The New Breed</a>', by Kate Darling. In it, Kate looks at how we talk about robots and to a lesser extent but very related, machine learning and artificial intelligence, as robotic machines become... smarter. The idea is that humans think about it wrong. We anthropomorphise the machines and look at them as some kind of emerging other human, either as a companion, competitor, villain or tragic hero. In fact they're tools that move around. And humans have a history of these, namely, animals and our relationship with them. If we wanted to make better analogies, we should look at the history of humans partnering with animals with both positive and less desirable outcomes.</p>
+<p>Thoroughly enjoyed this book and recommend it. Most of my nonfiction tech reading looks like the source material for an episode of Black Mirror. Even this site's domain is inspired by the more darker side of technology's potential. I'm more often a Debbie Downer: How will it go wrong? How will it be weaponised? What stupid applications will capitalist industry make of something that could be revolutionary in better hands? You may even get to thinking that for someone who self-applies the job title "technologist" this guy doesn't really like it that much. And that would be wrong. In fact, I like a lot of the things that society is most afraid of. I love the big data, the algorithms, the AI, and machine learning models. I'm even okay reading a blockchain white paper, even if it's to once again see how it's a rubbish solution for a problem that may not even exist. And I enjoy a good robot. I even like those <a href="https://www.bostondynamics.com/products/spot" target="_blank" rel="noopener noreferrer">BostonDynamics robot dogs</a> that freak people out. I draw the line at <a href="https://www.theverge.com/2022/7/28/23282023/dead-spiders-robot-grippers-necrobotics-research-rice-university">necrobotic spiders</a>, though.</p>
+<p>The issue with autonomous machines are the same as with any technology. It's the humans. Scare stories about robotic doom land about weekly. Recently there was the news about <a href="https://www.theguardian.com/sport/2022/jul/24/chess-robot-grabs-and-breaks-finger-of-seven-year-old-opponent-moscow" target="_blank" rel="noopener noreferrer">the chess-playing robot that broke the finger of its seven-year-old human opponent</a>. "Moscow incident occurred because child ‘violated’ safety rules by taking turn too quickly, says official" the article's subheading read. This is of course, ridiculous, but it's not far unlike the story that appears in 'The New Breed' about the <a href="https://www.theguardian.com/world/2015/jul/02/robot-kills-worker-at-volkswagen-plant-in-germany" target="_blank" rel="noopener noreferrer">worker killed by a robot arm</a> when he went into the space the robot arm operated, and isn't unlike the stories of Amazon's robot  workers (who are meant to mix with human work environments) that <a href="https://www.bbc.co.uk/news/technology-54355803" target="_blank" rel="noopener noreferrer">occasionally injure one of the humans working alongside them</a>. What's interesting in these stories is that at some point, someone will say the worker, or child chess player, broke a rule (and so suffered the consequences). In the zeal to deflect liability, you end up with corporate hacks who sounds robotic themselves. In fact, it's a failure of design and appropriate use case. The point is, we've been around autonomous non-human workers, companions, for our entire history: animals, and arguably already more sentient and intelligent than even the most sophisticated AI running today. </p>
+<p>It's important to think about now. We should define the tools around us before they're defined for us. It's not difficult to imagine how wrong that can go without thinking of The Terminator or the Matrix or boo-scary scenarios that imagine robot brains operating roughly like human brains do: meaning they want to fuck everything up asap. We currently have policymakers that don't even understand the basics of internet security <a href="https://www.theregister.com/2022/07/22/british_encryption_scanning/" target="_blank" rel="noopener noreferrer">and yet make annual attempts to break it</a>. The world is moving fast, and things are breaking. I can't keep up.</p>
+<h3>Web Browser plugin</h3>
+<p>We all hate those GDPR-mandated "consent" pop-ups that plague the web, even if many of us can appreciate the idea that we should get to opt-in/out of pervasive tracking. A number of web platforms have gone the passive-aggressive route that complies with the letter of the law, while making the decisions and controls as opaque or complicated as possible, unless you just want to quickly select "yes" and ignore what you've agreed to. Most people do that. Anyone surfing the web has not time for that madness, and if you're doing actual work, these consent forms are adding on hours. The open source project, <a href="https://github.com/cavi-au/Consent-O-Matic" target="_blank" rel="noopener noreferrer">Consent-O-Matic</a> aims to address that.</p>
+<p>Works on Chrome, Firefox and Safari browsers. You can install it, set your preferences in the plugin settings, and then it fills out those forms in seconds when you visit the websites. It doesn't work on every one, but most larger sites use common 3rd party GDPR-consent form providers or a framework the plugin is designed to recognise. And you get the joy of watching it quickly fill out everything in a small window and disappear while you get on with reading your article. This is a reasonable hack until websites just start designing their cookies to not be intrusive and just respect privacy by default (and then not need GDPR opt-in forms).</p>
+<h3>Shows</h3>
+<p>Caught Channel 4's '<a href="https://www.channel4.com/programmes/the-undeclared-war" target="_blank" rel="noopener noreferrer">The Undeclared War</a>' and found it to be a mixed bag, attempting to do too much in not enough episodes. Essentially set in GCHQ it follows a series of cyber attacks between Russia and UK with a sort of "grounded-in-reality" approach. I don't think a work placement person would see this much action, really. Also, in trying to ground itself in reality it dates itself too quickly, taking place after the show's fictitious prime minister ousts Boris Johnson in a leadership contest. All the attacks are plausible, but not nearly at this rate. And adding some family drama and a go-nowhere unresolved romance just muddled it further. There is still a good cyber war film or show to be made, and this one isn't quite it.</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
         <title>Onionshare secure contact form is back online</title>
         <author>
             <name>Yours Truly</name>
@@ -17,7 +52,7 @@
         <link href="https://treacherous.tech/onionshare-back.html"/>
         <id>https://treacherous.tech/onionshare-back.html</id>
 
-        <updated>2022-06-14T22:01:36+01:00</updated>
+        <updated>2022-07-31T22:22:49+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://treacherous.tech/media/posts/20/women-telephone-operators-at-work-12-jpg.jpeg" alt="telephone operator from the olden days" />
@@ -43,7 +78,7 @@
         <link href="https://treacherous.tech/some-more-notes-on-the-spotify-kerfuffle.html"/>
         <id>https://treacherous.tech/some-more-notes-on-the-spotify-kerfuffle.html</id>
 
-        <updated>2022-06-14T22:01:36+01:00</updated>
+        <updated>2022-07-31T22:22:49+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://treacherous.tech/media/posts/19/spotify-logo-zoom-s.jpg" alt="Cassette tapes that ran Apple programming back around 1978" />
@@ -91,7 +126,7 @@
         <link href="https://treacherous.tech/spotify-kerfuffle.html"/>
         <id>https://treacherous.tech/spotify-kerfuffle.html</id>
 
-        <updated>2022-06-14T22:01:36+01:00</updated>
+        <updated>2022-07-31T22:22:49+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://treacherous.tech/media/posts/18/Time-coded_vinyl_record.jpg" alt="" />
@@ -127,7 +162,7 @@
         <id>https://treacherous.tech/encryption-is-not-a-crime-its-a-deterrence.html</id>
             <category term="encryption"/>
 
-        <updated>2022-06-14T22:01:36+01:00</updated>
+        <updated>2022-07-31T22:22:49+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://treacherous.tech/media/posts/17/keys-261412860438709cZV.jpg" alt="" />
@@ -174,7 +209,7 @@
         <link href="https://treacherous.tech/happy-2022-quit-more.html"/>
         <id>https://treacherous.tech/happy-2022-quit-more.html</id>
 
-        <updated>2022-06-14T22:01:36+01:00</updated>
+        <updated>2022-07-31T22:22:49+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://treacherous.tech/media/posts/16/uhffszjrfec51.webp" alt="" />
@@ -213,7 +248,7 @@
         <id>https://treacherous.tech/this-site-is-basically-always-a-test-site.html</id>
             <category term="meta"/>
 
-        <updated>2022-06-14T22:01:36+01:00</updated>
+        <updated>2022-07-31T22:22:49+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://treacherous.tech/media/posts/15/The_source_TradingCard.jpg" alt="" />
@@ -259,7 +294,7 @@
         <id>https://treacherous.tech/test-on-prod.html</id>
             <category term="meta"/>
 
-        <updated>2022-06-14T22:01:36+01:00</updated>
+        <updated>2022-07-31T22:22:49+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://treacherous.tech/media/posts/14/doc-frankenstein.jpg" alt="" />
@@ -285,7 +320,7 @@
         <link href="https://treacherous.tech/apple-csam-scan.html"/>
         <id>https://treacherous.tech/apple-csam-scan.html</id>
 
-        <updated>2022-06-14T22:01:36+01:00</updated>
+        <updated>2022-07-31T22:22:49+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://treacherous.tech/media/posts/13/stays-on-your-iphone.jpg" alt="iPhone slogan: What Happens on your iPhone stays on your iPhone." />
@@ -371,7 +406,7 @@
         <id>https://treacherous.tech/pegasus-notes.html</id>
             <category term="spyware"/>
 
-        <updated>2022-06-14T22:01:36+01:00</updated>
+        <updated>2022-07-31T22:22:49+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://treacherous.tech/media/posts/12/pegasus.jpg" alt="" />
@@ -414,142 +449,6 @@
 
   <p>
     Knowledge of how the NSO Group's software has been used by regimes to target critics is not new, but the current information about it is more sweeping than ever before. There will be a lot of misinformation and disinformation in the coming days and weeks as countries deny spying, NSO Group denies everything, and hyperbole sometimes takes over instead of fact. Read or watch carefully.
-  </p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>The machine in the middle</title>
-        <author>
-            <name>Yours Truly</name>
-        </author>
-        <link href="https://treacherous.tech/tails.html"/>
-        <id>https://treacherous.tech/tails.html</id>
-            <category term="yolo tech"/>
-
-        <updated>2022-06-14T22:01:36+01:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://treacherous.tech/media/posts/11/usb.jpg" alt="USB stick closeup" />
-                     Create a weigh station to open strange files from the internet. Here's another instalment in our irregular YOLO tech series. If you've been following the news, then you'll be up on the latest about Israeli spyware vendor NSO&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://treacherous.tech/media/posts/11/usb.jpg" alt="USB stick closeup" />
-                
-    <h3 id="create-a-weigh-station-to-open-strange-files-from-the-internet">
-      Create a weigh station to open strange files from the internet.
-    </h3>
-
-  <p>
-    Here's another instalment in our irregular <a href="https://treacherous.tech/yolo-tech/">YOLO tech</a> series. If you've been following the news, then you'll be up on the latest about Israeli spyware vendor NSO Group, <a href="https://www.occrp.org/en/the-pegasus-project/" target="_blank">which licenses its Pegasus intrusion software</a> to various corrupt regimes and dictators to target human rights activists, political opponents, civil society leaders <a href="https://cdn.occrp.org/projects/project-p/?_gl=1*3exyzb*_ga*MTYzNzgzNjE4NC4xNjIwNjUzODA0*_ga_NHCZV5EYYY*MTYyNjgxNDU3Mi45LjEuMTYyNjgxNDYwNC4yOA..#/professions/journalist" target="_blank">and journalists</a>.&nbsp; This kind of thing is why <a href="https://treacherous.tech/yolo.html">YOLO devices</a> -- those gadgets you want to connect with the unwashed and the unknown -- should exist. They can be the expendable team. The tech that can take the hit without bringing everything else down.&nbsp; Here's a work station you can use to open files you get from strangers on the internet and when your done with your work, easily wipe it before using it ever again.
-  </p>
-
-  <p>
-    In an <a href="https://treacherous.tech/hosting-a-secure-contact-form.html">earlier post</a>, we looked at how a journalist can create a secured, anonymous way for sources to send files and messages using Onionshare on a Raspberry Pi. Receiving files, though, is just the first thing. What happen they start landing? In may ways, if you've done this, you haven't solved a problem so much as you've invited more of them into your life. Sorry 'bout that. What you'll now want is a secure way to check your Onionshare device, initially examine the files on it, and figure out what to do with them. So, our next piece of <a href="https://treacherous.tech/yolo.html">YOLO tech</a> is the weigh station machine.&nbsp;
-  </p>
-
-  <p>
-    People will send you a lot of nonsense. Someone might send you something useful. Or they might just drop some malware disguised as an interesting looking PDF file. Eiither way, you really don't want to download whatever lands in your Onionshare folder straight onto your nice reporting machine without first checking it out. All strange files are suspect. Those coming from strangers on the internet are even more suspect. So, let's create a an airlock to check these files out, open them up, read them and see what they're really made of. In this way, these files don't stay on your Onionshare Pi, and they don't reach your reporting machine. This is reportedly what happens when people use <a href="https://securedrop.org/" target="_blank">SecureDrop</a> properly: the files are moved to a <a href="https://docs.securedrop.org/en/stable/journalist.html#moving-documents-to-the-secure-viewing-station" target="_blank">mid-way laptop for opening and inspecting</a>. We're going to replicate this step on the cheap.
-  </p>
-
-  <p>
-    For our own home brew limbo machine, we're going to use <a href="https://tails.boum.org/" target="_blank">Tails OS</a>. This is a secured, Linux operating system that's portable and can run on many types of computers from a USB stick. By default it's also an amnesiac, meaning, when you turn it off, anything that was done is lost, and next time you turn it on, it starts fresh. Whatever machine that's running it will also have no record of any activity. It can useful to carry a Tails USB around, because then a lot of different computers can be your computer, and when you're done, there's no trace you were on it. All its internet traffic is channeled through the Tor network as well, so your web visits stay private and you can stay more anonymous.
-  </p>
-
-  <p>
-    But none of that is related to our use case this time. We just want to have an operating system that will take a bullet for us. The reason we're using it here is fairly straight-forward: It's cheap, secure, and if something goes wrong, it's easy to erase, reboot and start again, and the computer you're using it on will almost surely be fine as well. For more about Tails, <a href="https://tails.boum.org/doc/index.en.html" target="_blank">the documentation is here</a>.&nbsp;
-  </p>
-
-    <h3 id="ingredients-for-our-recipe">
-      Ingredients for our recipe
-    </h3>
-
-  <ul>
-    <li><strong>1 USB stick </strong>for running the Tails OS (minimum recommendation is 8gb, but for doing things with reasonably sized files, I say go large. I'm running mine on a 64gb stick)</li><li><strong>A desktop or laptop machin</strong><strong>e</strong> with a 64-bit x86-64 compatible processor. I'm running mine on an old, fairly damaged Lenovo Thinkpad E560 that work was getting ready to recycle. The point is, you don't need anything very special for this. Try looking around pawn shops or second-hand sores, you can find something for £150 or likely less that will fit the bill. It's possible someone you know has a machine in a closet they think is toast, but will work for this. We aren't using our reporting laptop because we want to separate our systems and it's likely you'll want to run both Tails and do your reporting at the same time.</li><li><strong>A second USB</strong> for storing your settings, passwords, moving files, etc.</li>
-  </ul>
-
-  <p>
-    <b>Software used:</b> <a href="https://tails.boum.org/">Tails OS</a> (note, the site has broken SSL on many pages. Welcome to open source software. It does work well in the Tor Browser and nothing else), <a href="https://filezilla-project.org/" target="_blank">Filezilla</a>, <a href="https://keepassxc.org/" target="_blank">KeePassXC</a>, and <a href="https://veracrypt.fr/en/Home.html" target="_blank">Veracrypt</a>.
-  </p>
-<hr class="separator separator--dots" />
-
-    <h3 id="the-recipe">
-      The recipe
-    </h3>
-
-  <p>
-    <b>Let's make USB stick with Tails OS on it.</b> Install Tails on your USB stick. <a href="https://tails.boum.org/doc/index.en.html" target="_blank">Go to this page</a>, scroll down to "Download, installation, and upgrade" and choose the machine you have for the download file and set up instructions. Follow those. It's pretty clear and I won't be going through them here. I did mine on a Mac. You may have something else.
-  </p>
-
-  <p>
-    <strong>Try it out on your Tails USB.</strong>&nbsp;Drop it in your weigh station machine and see if everything is working. I'm assuming it's a PC of some sort, so <a href="https://tails.boum.org/doc/first_steps/start/pc/index.en.html" target="_blank">find yours here</a> to see how to make it load Tails. I went into the BIOS settings and altered the boot order so it always tries to load from the USB port first.
-  </p>
-
-  <p>
-    <strong>Let's make our Tails OS persistent. </strong>Why? Because this is is a YOLO device, not a burner machine. We're going to get a few uses out of it, and likely just keep it running as it's our laptop for checking our Onionshare Pi. Persistence means that Tails will keep a little encrypted section that will maintain your settings and any other data or apps you install. Tails can walk you through setting up a persistent volume pretty easily, <a href="https://tails.boum.org/doc/first_steps/persistence/configure/index.en.html" target="_blank">but here's the the how-to if you need it</a>. Be sure to <a href="https://tails.boum.org/doc/first_steps/persistence/backup/index.en.html" target="_blank">back it up</a>!
-  </p>
-
-  <p>
-    <strong>Let's add an FTP client.</strong> For whatever damned reason, Tails doesn't come with an FTP tool. Don't get me started. But we want one of these because it's easier to check the Onionshare Pi via SFTP than it will be to unmount and mount the Raspberry Pi's USB stick all the time, restarting Onionshare and so forth. So, we're going to add FileZilla to our persistent Tails volume. To do that:
-  </p>
-
-  <ul>
-    <li><a href="https://tails.boum.org/doc/first_steps/welcome_screen/administration_password/index.en.html" target="_blank">Set up an administrator password</a> when starting Tails.</li><li>After Tails launches, go into the "Applications" menu in the nav bar and go to:<br>System Tools &gt;&nbsp;Synaptic Package Manager.</li><li>Use your admin password.</li><li>Search for Filezilla</li><li>Tick the box for the latest version, and in the pop-up, select "mark for installation."</li><li>Click the "apply" button, then click "apply" in the pop up window, because you mean it.&nbsp;</li><li>Let things download and then when asked, click "Install every time" or Tails won't remember to keep Filezilla if it shuts down and restarts. Then click "close" on the "changes applied" box, because for some reason that exists.</li>
-  </ul>
-
-  <p>
-    <b>Configure the FTP client to reach your Onionshare Raspberry Pi.</b> So, now Filezilla exists on your Tails OS. Find it in "Applications" under "Internet" nestled between your Electrum Bitcoin wallet and Onions Circuits. Open that up. If you recall from our <a href="https://treacherous.tech/hosting-a-secure-contact-form.html">Onionshare post</a>, you had set up a way to SSH into your Onionshare device from your laptop to set it up. Those credentials will work in your SFTP client.&nbsp; You should have these saved in a KeePassXC password manager if you followed things to the letter. If not, hopefully you've got it in a SAFELY stored offline text file. Because now you need it.
-  </p>
-
-  <p>
-    The Host is your Pi's IP address. Then the username is your ssh user, and the password is your ssh password. And the port will be <code>22</code>, unless you did extra credit work and futzed with that. Now navigate to your <code>/media/USB</code> directory in the Raspberry Pi (if you called it that). You should see anything that's been dropped there, including the happy little hello.txt file we made. Try downloading that into Tails and opening it to make sure things are working.
-  </p>
-
-    <h3 id="test-it-out">
-      Test it out
-    </h3>
-
-  <p>
-    Let's take our new set up for a test drive. You now have an Onionshare device to get files, and a Tails OS laptop to look at them. Send yourself a PDF. <a href="https://www.article19.org/wp-content/uploads/2021/07/Myanmar-Internet-Briefing-Paper-UPDATED.pdf" target="_blank">Here's one, now</a>.&nbsp; Save&nbsp;<code>Myanmar-Internet-Briefing-Paper-UPDATED.pdf</code> somewhere on your computer (not the Tails one, obvs). Open up the Tor Browser and visit your Onionshare form. Send the file along with a friendly text message. Now that you've done that, go to Filezilla in Tails and check your USB directory. You should see a new directory in there that you can download to your Tails machine and open. I saved it in Documents, which can be found under "places" in the nav bar.
-  </p>
-
-  <p>
-    And that's it, we have two pieces of our YOLO tech setup, now. We haven't yet looked at the operational security of using these yet, and we have one more device to cover: The YOLO phone.
-  </p>
-
-    <h3 id="final-bits-and-pieces">
-      Final bits and pieces
-    </h3>
-
-  <p>
-    Some homework before starting the next post...
-  </p>
-
-  <ol>
-    <li>Tails comes installed with KeePassXC. Create a database to store your FTP and SSH credentials for the Onionshare Pi. From now on, you will only access the Pi from the Tails machine. <a href="https://keepassxc.org/docs/KeePassXC_UserGuide.html" target="_blank">Learn the finer points of password management with KeePassXC here</a>.</li><li>Tails also has Veracrypt installed. This is a tool for created encrypted file storage volumes. When you decide you want to work with a file you've inspected on Tails, you're going to want to transport it (or a redacted, meta-scrubbed copy of it or a flattened export or a screenshot of it) on a USB stick to your work machine. You're work machine will never network to the Tails machine. Also, you want to secure the USB stick. <a href="https://www.veracrypt.fr/en/Home.html" target="_blank">Learn how to make an encrypted volume with Veracrypt on your USB stick here</a>. You'll also need to install Veracrypt on the device the USB is moving files to, but it has versions for Mac Windows and Linux.</li>
-  </ol>
-
-  <p>
-    <b>Next post: </b>Working with files.
-  </p>
-<hr class="separator separator--dots" />
-
-    <h3 id="notes">
-      Notes
-    </h3>
-
-  <p>
-    There are a few operating systems that run on USBs, and some that are highly secure themselves. I thought about just setting up <a href="https://www.qubes-os.org/" target="_blank">Qubes</a> and forgetting about both Tails and the Raspberry Pi. In Qubes you can create isolated environments for each. But that would require a fairly impressive machine, and these posts are focused on low-cost options. Qubes is great, but it's also not single-purpose. It's good. Great even. It's not YOLO.
-  </p>
-
-  <p>
-    It's worth noting that Tails also has Onionshare pre-installed. The issue with this is that Tails software versions are often not up to date, and it's only the latest version of Onionshare that really suits our needs. Also, you don't want collection and analysis to happen on the same device. Finally, we want our secure contact webform to stay on all the time, while we might want to turn off our laptop and put it away. Your work computer is a lousy web server.
-  </p>
-
-  <p>
-    Conceivably there are a few options you could use to connect to you Pi from Tails. You could wire it if you want, but the Pi already has it's ethernet port plugged into the router. You could create networks with USB ports or use USB ports to hand-move things, but SFTP is both secure enough, and keeps the wires and complications down.
   </p>
             ]]>
         </content>
