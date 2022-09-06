@@ -10,6 +10,21 @@
     },
     "items": [
         {
+            "id": "https://treacherous.tech/onionshare-back.html",
+            "url": "https://treacherous.tech/onionshare-back.html",
+            "title": "Onionshare secure contact form is back online",
+            "summary": "The Onionshare site went offline again for a little while while I was offline and on holiday for a few weeks. Gremlins, you know. But it's back on now: That's just one of the hazards of self hosting on&hellip;",
+            "content_html": "<p>The Onionshare site went offline again for a little while while I was offline and on holiday for a few weeks. Gremlins, you know. But it's back on now: That's just one of the hazards of self hosting on my own little DIY clouds. <a href=\"https://onionshare.org/\" target=\"_blank\" rel=\"noopener noreferrer\">Onionshare</a> is a secure contact form developed by digital security technologist Micah Lee. I blogged a while back about <a href=\"https://treacherous.tech/hosting-a-secure-contact-form.html\">how to set up a persistent version with a Raspberry Pi</a>.</p>\n<p>My point for having it is to essentially offer a reasonably secure online form for users to contact me or send stuff. I've gone this route as most other self-hosted forms are a mess and commercial third-party tools aren't that privacy respecting. For this one to work you need to use the <a href=\"https://www.torproject.org/download/\" target=\"_blank\" rel=\"noopener noreferrer\">Tor Browser</a>.</p>\n<p><strong>Throw things at:</strong></p>\n<p class=\"msg--warning\"><code><a href=\"http://entyms3fdn4fyl6lizog6hoztvaqkvv2njmcovslkm55xhahs7nnmiqd.onion/\">http://entyms3fdn4fyl6lizog6hoztvaqkvv2njmcovslkm55xhahs7nnmiqd.onion/</a></code></p>\n<p>If you're an independent journalist it's also a tool you can use for your sources without too much hassle, but some operational security is advisable as you're essentially asking strangers to send you files that may do anything. This is why I tend to prefer it to be on it's own little device, accessed by a throw-away machine in the middle for file inspection.</p>",
+            "image": "https://treacherous.tech/media/posts/20/women-telephone-operators-at-work-12-jpg.jpeg",
+            "author": {
+                "name": "Yours Truly"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-09-06T20:42:18+01:00",
+            "date_modified": "2022-09-06T20:42:18+01:00"
+        },
+        {
             "id": "https://treacherous.tech/i-cant-keep-up.html",
             "url": "https://treacherous.tech/i-cant-keep-up.html",
             "title": "I can&#x27;t keep up",
@@ -24,23 +39,8 @@
                    "life ",
                    "books"
             ],
-            "date_published": "2022-07-31T22:22:49+01:00",
-            "date_modified": "2022-07-31T22:22:49+01:00"
-        },
-        {
-            "id": "https://treacherous.tech/onionshare-back.html",
-            "url": "https://treacherous.tech/onionshare-back.html",
-            "title": "Onionshare secure contact form is back online",
-            "summary": "The Onionshare site went offline for a little while due to some local internet issues where the box is, but it's back on now: That's just one of the hazards of self hosting on my own little DIY clouds.",
-            "content_html": "<p>The Onionshare site went offline for a little while due to some local internet issues where the box is, but it's back on now: That's just one of the hazards of self hosting on my own little DIY clouds. <a href=\"https://onionshare.org/\" target=\"_blank\" rel=\"noopener noreferrer\">Onionshare</a> is a secure contact form developed by digital security technologist Micah Lee. I blogged a while back about <a href=\"https://treacherous.tech/hosting-a-secure-contact-form.html\">how to set up a persistent version with a Raspberry Pi</a>.</p>\n<p>My point for having it is to essentially offer a reasonably secure online form for users to contact me or send stuff. I've gone this route as most other self-hosted forms are a mess and commercial third-party tools aren't that privacy respecting. For this one to work you need to use the <a href=\"https://www.torproject.org/download/\" target=\"_blank\" rel=\"noopener noreferrer\">Tor Browser</a>.</p>\n<p><strong>Throw things at:</strong></p>\n<p class=\"msg--warning\"><code><a href=\"http://entyms3fdn4fyl6lizog6hoztvaqkvv2njmcovslkm55xhahs7nnmiqd.onion/\">http://entyms3fdn4fyl6lizog6hoztvaqkvv2njmcovslkm55xhahs7nnmiqd.onion/</a></code></p>\n<p>If you're an independent journalist it's also a tool you can use for your sources without too much hassle, but some operational security is advisable as you're essentially asking strangers to send you files that may do anything. This is why I tend to prefer it to be on it's own little device, accessed by a throw-away machine in the middle for file inspection.</p>",
-            "image": "https://treacherous.tech/media/posts/20/women-telephone-operators-at-work-12-jpg.jpeg",
-            "author": {
-                "name": "Yours Truly"
-            },
-            "tags": [
-            ],
-            "date_published": "2022-07-31T22:22:49+01:00",
-            "date_modified": "2022-07-31T22:22:49+01:00"
+            "date_published": "2022-09-06T20:42:18+01:00",
+            "date_modified": "2022-09-06T20:42:18+01:00"
         },
         {
             "id": "https://treacherous.tech/some-more-notes-on-the-spotify-kerfuffle.html",
@@ -54,8 +54,8 @@
             },
             "tags": [
             ],
-            "date_published": "2022-07-31T22:22:49+01:00",
-            "date_modified": "2022-07-31T22:22:49+01:00"
+            "date_published": "2022-09-06T20:42:18+01:00",
+            "date_modified": "2022-09-06T20:42:18+01:00"
         },
         {
             "id": "https://treacherous.tech/spotify-kerfuffle.html",
@@ -69,8 +69,8 @@
             },
             "tags": [
             ],
-            "date_published": "2022-07-31T22:22:49+01:00",
-            "date_modified": "2022-07-31T22:22:49+01:00"
+            "date_published": "2022-09-06T20:42:18+01:00",
+            "date_modified": "2022-09-06T20:42:18+01:00"
         },
         {
             "id": "https://treacherous.tech/encryption-is-not-a-crime-its-a-deterrence.html",
@@ -85,8 +85,8 @@
             "tags": [
                    "encryption"
             ],
-            "date_published": "2022-07-31T22:22:49+01:00",
-            "date_modified": "2022-07-31T22:22:49+01:00"
+            "date_published": "2022-09-06T20:42:18+01:00",
+            "date_modified": "2022-09-06T20:42:18+01:00"
         },
         {
             "id": "https://treacherous.tech/happy-2022-quit-more.html",
@@ -100,8 +100,8 @@
             },
             "tags": [
             ],
-            "date_published": "2022-07-31T22:22:49+01:00",
-            "date_modified": "2022-07-31T22:22:49+01:00"
+            "date_published": "2022-09-06T20:42:18+01:00",
+            "date_modified": "2022-09-06T20:42:18+01:00"
         },
         {
             "id": "https://treacherous.tech/this-site-is-basically-always-a-test-site.html",
@@ -116,8 +116,8 @@
             "tags": [
                    "meta"
             ],
-            "date_published": "2022-07-31T22:22:49+01:00",
-            "date_modified": "2022-07-31T22:22:49+01:00"
+            "date_published": "2022-09-06T20:42:18+01:00",
+            "date_modified": "2022-09-06T20:42:18+01:00"
         },
         {
             "id": "https://treacherous.tech/test-on-prod.html",
@@ -132,8 +132,8 @@
             "tags": [
                    "meta"
             ],
-            "date_published": "2022-07-31T22:22:49+01:00",
-            "date_modified": "2022-07-31T22:22:49+01:00"
+            "date_published": "2022-09-06T20:42:18+01:00",
+            "date_modified": "2022-09-06T20:42:18+01:00"
         },
         {
             "id": "https://treacherous.tech/apple-csam-scan.html",
@@ -147,8 +147,8 @@
             },
             "tags": [
             ],
-            "date_published": "2022-07-31T22:22:49+01:00",
-            "date_modified": "2022-07-31T22:22:49+01:00"
+            "date_published": "2022-09-06T20:42:18+01:00",
+            "date_modified": "2022-09-06T20:42:18+01:00"
         },
         {
             "id": "https://treacherous.tech/pegasus-notes.html",
@@ -163,8 +163,8 @@
             "tags": [
                    "spyware"
             ],
-            "date_published": "2022-07-31T22:22:49+01:00",
-            "date_modified": "2022-07-31T22:22:49+01:00"
+            "date_published": "2022-09-06T20:42:18+01:00",
+            "date_modified": "2022-09-06T20:42:18+01:00"
         }
     ]
 }

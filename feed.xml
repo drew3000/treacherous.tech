@@ -10,6 +10,32 @@
     <id>https://treacherous.tech</id>
 
     <entry>
+        <title>Onionshare secure contact form is back online</title>
+        <author>
+            <name>Yours Truly</name>
+        </author>
+        <link href="https://treacherous.tech/onionshare-back.html"/>
+        <id>https://treacherous.tech/onionshare-back.html</id>
+
+        <updated>2022-09-06T20:42:18+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://treacherous.tech/media/posts/20/women-telephone-operators-at-work-12-jpg.jpeg" alt="telephone operator from the olden days" />
+                    The Onionshare site went offline again for a little while while I was offline and on holiday for a few weeks. Gremlins, you know. But it's back on now: That's just one of the hazards of self hosting on&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://treacherous.tech/media/posts/20/women-telephone-operators-at-work-12-jpg.jpeg" alt="telephone operator from the olden days" />
+                <p>The Onionshare site went offline again for a little while while I was offline and on holiday for a few weeks. Gremlins, you know. But it's back on now: That's just one of the hazards of self hosting on my own little DIY clouds. <a href="https://onionshare.org/" target="_blank" rel="noopener noreferrer">Onionshare</a> is a secure contact form developed by digital security technologist Micah Lee. I blogged a while back about <a href="https://treacherous.tech/hosting-a-secure-contact-form.html">how to set up a persistent version with a Raspberry Pi</a>.</p>
+<p>My point for having it is to essentially offer a reasonably secure online form for users to contact me or send stuff. I've gone this route as most other self-hosted forms are a mess and commercial third-party tools aren't that privacy respecting. For this one to work you need to use the <a href="https://www.torproject.org/download/" target="_blank" rel="noopener noreferrer">Tor Browser</a>.</p>
+<p><strong>Throw things at:</strong></p>
+<p class="msg--warning"><code><a href="http://entyms3fdn4fyl6lizog6hoztvaqkvv2njmcovslkm55xhahs7nnmiqd.onion/">http://entyms3fdn4fyl6lizog6hoztvaqkvv2njmcovslkm55xhahs7nnmiqd.onion/</a></code></p>
+<p>If you're an independent journalist it's also a tool you can use for your sources without too much hassle, but some operational security is advisable as you're essentially asking strangers to send you files that may do anything. This is why I tend to prefer it to be on it's own little device, accessed by a throw-away machine in the middle for file inspection.</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
         <title>I can&#x27;t keep up</title>
         <author>
             <name>Yours Truly</name>
@@ -20,7 +46,7 @@
             <category term="life "/>
             <category term="books"/>
 
-        <updated>2022-07-31T22:22:49+01:00</updated>
+        <updated>2022-09-06T20:42:18+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://treacherous.tech/media/posts/21/fbi-bot.jpeg" alt="CBC&#x27;s mailmobile in 1977" />
@@ -45,32 +71,6 @@
         </content>
     </entry>
     <entry>
-        <title>Onionshare secure contact form is back online</title>
-        <author>
-            <name>Yours Truly</name>
-        </author>
-        <link href="https://treacherous.tech/onionshare-back.html"/>
-        <id>https://treacherous.tech/onionshare-back.html</id>
-
-        <updated>2022-07-31T22:22:49+01:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://treacherous.tech/media/posts/20/women-telephone-operators-at-work-12-jpg.jpeg" alt="telephone operator from the olden days" />
-                    The Onionshare site went offline for a little while due to some local internet issues where the box is, but it's back on now: That's just one of the hazards of self hosting on my own little DIY clouds.
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://treacherous.tech/media/posts/20/women-telephone-operators-at-work-12-jpg.jpeg" alt="telephone operator from the olden days" />
-                <p>The Onionshare site went offline for a little while due to some local internet issues where the box is, but it's back on now: That's just one of the hazards of self hosting on my own little DIY clouds. <a href="https://onionshare.org/" target="_blank" rel="noopener noreferrer">Onionshare</a> is a secure contact form developed by digital security technologist Micah Lee. I blogged a while back about <a href="https://treacherous.tech/hosting-a-secure-contact-form.html">how to set up a persistent version with a Raspberry Pi</a>.</p>
-<p>My point for having it is to essentially offer a reasonably secure online form for users to contact me or send stuff. I've gone this route as most other self-hosted forms are a mess and commercial third-party tools aren't that privacy respecting. For this one to work you need to use the <a href="https://www.torproject.org/download/" target="_blank" rel="noopener noreferrer">Tor Browser</a>.</p>
-<p><strong>Throw things at:</strong></p>
-<p class="msg--warning"><code><a href="http://entyms3fdn4fyl6lizog6hoztvaqkvv2njmcovslkm55xhahs7nnmiqd.onion/">http://entyms3fdn4fyl6lizog6hoztvaqkvv2njmcovslkm55xhahs7nnmiqd.onion/</a></code></p>
-<p>If you're an independent journalist it's also a tool you can use for your sources without too much hassle, but some operational security is advisable as you're essentially asking strangers to send you files that may do anything. This is why I tend to prefer it to be on it's own little device, accessed by a throw-away machine in the middle for file inspection.</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
         <title>Some more notes on the Spotify kerfuffle</title>
         <author>
             <name>Yours Truly</name>
@@ -78,7 +78,7 @@
         <link href="https://treacherous.tech/some-more-notes-on-the-spotify-kerfuffle.html"/>
         <id>https://treacherous.tech/some-more-notes-on-the-spotify-kerfuffle.html</id>
 
-        <updated>2022-07-31T22:22:49+01:00</updated>
+        <updated>2022-09-06T20:42:18+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://treacherous.tech/media/posts/19/spotify-logo-zoom-s.jpg" alt="Cassette tapes that ran Apple programming back around 1978" />
@@ -126,7 +126,7 @@
         <link href="https://treacherous.tech/spotify-kerfuffle.html"/>
         <id>https://treacherous.tech/spotify-kerfuffle.html</id>
 
-        <updated>2022-07-31T22:22:49+01:00</updated>
+        <updated>2022-09-06T20:42:18+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://treacherous.tech/media/posts/18/Time-coded_vinyl_record.jpg" alt="" />
@@ -162,7 +162,7 @@
         <id>https://treacherous.tech/encryption-is-not-a-crime-its-a-deterrence.html</id>
             <category term="encryption"/>
 
-        <updated>2022-07-31T22:22:49+01:00</updated>
+        <updated>2022-09-06T20:42:18+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://treacherous.tech/media/posts/17/keys-261412860438709cZV.jpg" alt="" />
@@ -209,7 +209,7 @@
         <link href="https://treacherous.tech/happy-2022-quit-more.html"/>
         <id>https://treacherous.tech/happy-2022-quit-more.html</id>
 
-        <updated>2022-07-31T22:22:49+01:00</updated>
+        <updated>2022-09-06T20:42:18+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://treacherous.tech/media/posts/16/uhffszjrfec51.webp" alt="" />
@@ -248,7 +248,7 @@
         <id>https://treacherous.tech/this-site-is-basically-always-a-test-site.html</id>
             <category term="meta"/>
 
-        <updated>2022-07-31T22:22:49+01:00</updated>
+        <updated>2022-09-06T20:42:18+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://treacherous.tech/media/posts/15/The_source_TradingCard.jpg" alt="" />
@@ -294,7 +294,7 @@
         <id>https://treacherous.tech/test-on-prod.html</id>
             <category term="meta"/>
 
-        <updated>2022-07-31T22:22:49+01:00</updated>
+        <updated>2022-09-06T20:42:18+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://treacherous.tech/media/posts/14/doc-frankenstein.jpg" alt="" />
@@ -320,7 +320,7 @@
         <link href="https://treacherous.tech/apple-csam-scan.html"/>
         <id>https://treacherous.tech/apple-csam-scan.html</id>
 
-        <updated>2022-07-31T22:22:49+01:00</updated>
+        <updated>2022-09-06T20:42:18+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://treacherous.tech/media/posts/13/stays-on-your-iphone.jpg" alt="iPhone slogan: What Happens on your iPhone stays on your iPhone." />
@@ -406,7 +406,7 @@
         <id>https://treacherous.tech/pegasus-notes.html</id>
             <category term="spyware"/>
 
-        <updated>2022-07-31T22:22:49+01:00</updated>
+        <updated>2022-09-06T20:42:18+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://treacherous.tech/media/posts/12/pegasus.jpg" alt="" />
