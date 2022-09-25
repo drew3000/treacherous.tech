@@ -10,6 +10,49 @@
     <id>https://treacherous.tech</id>
 
     <entry>
+        <title>Help keep the internet open for users in Iran (and for anyone where it&#x27;s censored)</title>
+        <author>
+            <name>Yours Truly</name>
+        </author>
+        <link href="https://treacherous.tech/help-keep-the-internet-open-for-iranian-users-and-for-anyone-where-its-censored.html"/>
+        <id>https://treacherous.tech/help-keep-the-internet-open-for-iranian-users-and-for-anyone-where-its-censored.html</id>
+            <category term="how to"/>
+            <category term="encryption"/>
+            <category term="activist"/>
+
+        <updated>2022-09-26T00:07:03+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://treacherous.tech/media/posts/22/snowing-background-1547722510q67.jpg" alt="Snow falling from the sky" />
+                    There are brave people in the streets around Iran following the death of Mahsa (Jina) Amini, an Iranian Kurdish woman, while being held by the "morality police" over a supposed offence of not wearing a hijab in the correct&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://treacherous.tech/media/posts/22/snowing-background-1547722510q67.jpg" alt="Snow falling from the sky" />
+                <p class="dropcap">There are brave people in the streets around Iran following the death of <a href="https://en.wikipedia.org/wiki/Death_of_Mahsa_Amini" target="_blank" rel="noopener noreferrer">Mahsa (Jina) Amini</a>, an Iranian Kurdish woman, while being held by the "morality police" over a supposed offence of not wearing a hijab in the correct way. Typical to the regime's violent response to the protests, it is also ramping up its already aggressive online censorship. I'm dropping a couple of things here that someone with a computer or internet server can do to help people in the country maintain access to secure digital communication tools and both access or publish information online.</p>
+<h3>Help maintain access to the Tor Network</h3>
+<p class="msg msg--info msg--highlight "><strong>Difficulty level:</strong> Easy.</p>
+<p>If you use either the Chrome or Firefox Browser, you can quickly set up and run <a href="Snowflake helps make the Tor Network faster and more useable" target="_blank" rel="noopener noreferrer">Snowflake</a>. This helps create Tor relays for users of The Tor Browser, creating faster more useable access. The Tor Network helps defeat censorship by bouncing traffic through servers in a way that evades blocking and also helps improve a user's ability to protect their privacy and stay anonymous, and more secure online. There are a number of ways to set up Tor relays, but Snowflake is pretty easy.<a href="https://snowflake.torproject.org/" target="_blank" rel="noopener noreferrer"></a></p>
+<ul>
+<li>You can get it for <a href="https://addons.mozilla.org/en-US/firefox/addon/torproject-snowflake/" target="_blank" rel="noopener noreferrer">Firexfox here</a>.</li>
+<li>You can get it for <a href="https://chrome.google.com/webstore/detail/snowflake/mafpmfcccpbjnhfhjnllmmalhifmlcie" target="_blank" rel="noopener noreferrer">Chrome here</a>.</li>
+<li>Or, you can just leave this page open in a tab on your web browser, turn on the widget at the bottom of this post, and just let it run.</li>
+</ul>
+<p>Snowflake is super easy, and low-bandwidth. You're computer is supporting relay nodes, not exit traffic, and there is no connection to you or the users on the Tor Network or what they do. You do get a nifty statistic to see how many users you're browser plugin has helped in the last 24 hours. So far today (as of this writing), mine has helped 18 people reach some destination over Tor.</p>
+<p><em>If you feel like geeking out, have some system administration skills, and want to do something more involved, you can run a server with it's <a href="https://community.torproject.org/relay/setup/snowflake/standalone/" target="_blank" rel="noopener noreferrer">own stand-alone Snowflake instance</a>, or <a href="https://blog.torproject.org/new-guide-running-tor-relay/" target="_blank" rel="noopener noreferrer">run a Tor relay server</a>.</em></p>
+<h3>Run a Signal proxy</h3>
+<p class="msg msg--info"><strong>Difficulty level:</strong> Medium.</p>
+<p>The Iranian government is blocking connections to Signal servers. Signal is a secure, end-to-end communications app used by journalists, activists, political figures, and maybe your mom. It has a number of privacy supporting features aside from the encryption, such as disappearing messages. You should use it. You should help people where it's blocked use it, too. Signal has create an open source proxy server set up, that helps create bridges that bypass the blockade. </p>
+<p>for this one, you should be comfortable in the command line, and be able to run an always-on internet server, though it can be a pretty small one. <a href="https://signal.org/blog/run-a-proxy/" target="_blank" rel="noopener noreferrer">Here's more on how to run one</a>.</p>
+<hr>
+<h3>Run Snowflake in your browser</h3>
+<p>Turn this on, and leave this tab open in your browser, and it will help users on the Tor Browser get more relay bridges to access the web and bypass censorship.</p>
+<p><div class="post__iframe"><iframe loading="lazy" width="320" height="240" src="https://snowflake.torproject.org/embed.html" frameborder="0" scrolling="no"></iframe></div></p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
         <title>Onionshare secure contact form is back online</title>
         <author>
             <name>Yours Truly</name>
@@ -17,7 +60,7 @@
         <link href="https://treacherous.tech/onionshare-back.html"/>
         <id>https://treacherous.tech/onionshare-back.html</id>
 
-        <updated>2022-09-06T20:42:18+01:00</updated>
+        <updated>2022-09-26T00:07:03+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://treacherous.tech/media/posts/20/women-telephone-operators-at-work-12-jpg.jpeg" alt="telephone operator from the olden days" />
@@ -46,7 +89,7 @@
             <category term="life "/>
             <category term="books"/>
 
-        <updated>2022-09-06T20:42:18+01:00</updated>
+        <updated>2022-09-26T00:07:03+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://treacherous.tech/media/posts/21/fbi-bot.jpeg" alt="CBC&#x27;s mailmobile in 1977" />
@@ -78,7 +121,7 @@
         <link href="https://treacherous.tech/some-more-notes-on-the-spotify-kerfuffle.html"/>
         <id>https://treacherous.tech/some-more-notes-on-the-spotify-kerfuffle.html</id>
 
-        <updated>2022-09-06T20:42:18+01:00</updated>
+        <updated>2022-09-26T00:07:03+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://treacherous.tech/media/posts/19/spotify-logo-zoom-s.jpg" alt="Cassette tapes that ran Apple programming back around 1978" />
@@ -126,7 +169,7 @@
         <link href="https://treacherous.tech/spotify-kerfuffle.html"/>
         <id>https://treacherous.tech/spotify-kerfuffle.html</id>
 
-        <updated>2022-09-06T20:42:18+01:00</updated>
+        <updated>2022-09-26T00:07:03+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://treacherous.tech/media/posts/18/Time-coded_vinyl_record.jpg" alt="" />
@@ -162,7 +205,7 @@
         <id>https://treacherous.tech/encryption-is-not-a-crime-its-a-deterrence.html</id>
             <category term="encryption"/>
 
-        <updated>2022-09-06T20:42:18+01:00</updated>
+        <updated>2022-09-26T00:07:03+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://treacherous.tech/media/posts/17/keys-261412860438709cZV.jpg" alt="" />
@@ -209,7 +252,7 @@
         <link href="https://treacherous.tech/happy-2022-quit-more.html"/>
         <id>https://treacherous.tech/happy-2022-quit-more.html</id>
 
-        <updated>2022-09-06T20:42:18+01:00</updated>
+        <updated>2022-09-26T00:07:03+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://treacherous.tech/media/posts/16/uhffszjrfec51.webp" alt="" />
@@ -248,7 +291,7 @@
         <id>https://treacherous.tech/this-site-is-basically-always-a-test-site.html</id>
             <category term="meta"/>
 
-        <updated>2022-09-06T20:42:18+01:00</updated>
+        <updated>2022-09-26T00:07:03+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://treacherous.tech/media/posts/15/The_source_TradingCard.jpg" alt="" />
@@ -294,7 +337,7 @@
         <id>https://treacherous.tech/test-on-prod.html</id>
             <category term="meta"/>
 
-        <updated>2022-09-06T20:42:18+01:00</updated>
+        <updated>2022-09-26T00:07:03+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://treacherous.tech/media/posts/14/doc-frankenstein.jpg" alt="" />
@@ -320,7 +363,7 @@
         <link href="https://treacherous.tech/apple-csam-scan.html"/>
         <id>https://treacherous.tech/apple-csam-scan.html</id>
 
-        <updated>2022-09-06T20:42:18+01:00</updated>
+        <updated>2022-09-26T00:07:03+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://treacherous.tech/media/posts/13/stays-on-your-iphone.jpg" alt="iPhone slogan: What Happens on your iPhone stays on your iPhone." />
@@ -393,62 +436,6 @@
 
   <p>
     Part of the reason Apple is doing what it's doing is that there are segments of public and private sectors, and just the public in general, asking for something to be done. Like it or not, something will be done. Eventually something is always done. My argument would be that investment is better placed in existing, under-funded, under-resourced policing and the use of advanced, warranted and targeted surveillance of these networks of abusers, possibly with the use of taxes these companies should be paying... as a start.
-  </p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Pegasus notes</title>
-        <author>
-            <name>Yours Truly</name>
-        </author>
-        <link href="https://treacherous.tech/pegasus-notes.html"/>
-        <id>https://treacherous.tech/pegasus-notes.html</id>
-            <category term="spyware"/>
-
-        <updated>2022-09-06T20:42:18+01:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://treacherous.tech/media/posts/12/pegasus.jpg" alt="" />
-                     Pegasus mobile phone hacking software has been the week's big news again, following a leak of a list of 50,000 mobile phone numbers, alleged to be active or potential targets of some of the 50 nation state clients&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://treacherous.tech/media/posts/12/pegasus.jpg" alt="" />
-                
-  <p>
-    Pegasus mobile phone hacking software has been the week's big news again, following a leak of a list of 50,000 mobile phone numbers, alleged to be active or potential targets of some of the 50 nation state clients of its maker, the Israel based NSO Group. Investigated by the&nbsp;Organized Crime and Corruption Reporting Project (OCCRP), some of the mobiles from the list have indeed been found to be infected with Pegasus spyware, and the consortium of organisations investigating the data, including Washington Post, Amnesty International The Guardian, PBS, Haaretz, etc. have been publishing articles all week since the news dropped. Making the list are a number of journalists, human rights activists, civil society leaders, political figures and even a few heads of state.
-  </p>
-
-  <p>
-    The following are just some links and notes that maybe others find interesting and which I can put somewhere that's not my messy Twitter feed. More will likely be added here in the coming days and weeks. Watch this space.
-  </p>
-<hr class="separator separator--dots" />
-
-    <h3 id="some-links">
-      Some links
-    </h3>
-
-  <ul>
-    <li><a href="https://www.occrp.org/en/the-pegasus-project/" target="_blank">OCCRP's 'The Pegasus Project' investigation and archive</a>.</li><li><a href="https://www.theguardian.com/news/series/pegasus-project" target="_blank">The Guardian's collection of Pegasus Project news</a>.</li><li><a href="https://github.com/mvt-project/mvt" target="_blank">The Mobile Verification Toolkit</a>. This was developed by the Amnesty International Security Lab as a forensics tool to look for signs of Pegasus software, and is not intended for those without some technical background.</li><li><a href="https://blog.cryptographyengineering.com/2021/07/20/a-case-against-security-nihilism/" target="_blank">A case against security nihilism</a>, by&nbsp;Matthew Green.&nbsp; Maybe one of the more important links in the list. It's easy to look at all this and think there is no hope. There is hope. <em>They</em> (whoever or whatever "they" is for you) are not all powerful. You are not powerless.&nbsp;</li><li><a href="https://cdn.occrp.org/projects/project-p/#/" target="_blank">Explore the data as OCCRP releases it</a>.</li><li><a href="https://www.amnesty.org/en/latest/research/2021/07/forensic-methodology-report-how-to-catch-nso-groups-pegasus/" target="_blank">Forensic Methodology Report: How to catch NSO Group’s Pegasus</a>, by Amnesty International's Security Lab<br></li>
-  </ul>
-<hr class="separator separator--dots" />
-
-    <h3 id="some-notes-amp-asides">
-      Some notes &amp; asides
-    </h3>
-
-  <p>
-    That NSO Group is an Israeli company is an important fact in the story. Just like it was important that The Internet Research Agency was a Russian troll farm, or Hacking Team was Italian, based in EU. NSO Group is a direct outgrowth of the IDF. The NSO Group's technical support for tyrannical regimes around the globe to target their opponents, critics and observers is directly tied to Israel's continued occupation of Palestine. When people say the occupation is a laboratory, things like Pegasus are the exports. Tested in Gaza and West Bank, deployed by anti-democratic paranoid regimes against their critics.
-  </p>
-
-  <p>
-    NSO Group <a href="https://www.forbes.com/sites/thomasbrewster/2016/08/25/everything-we-know-about-nso-group-the-professional-spies-who-hacked-iphones-with-a-single-text/?sh=656e910b3997" target="_blank">has a symbiotic relationship with Israel's Unit 8200</a>, a signals intelligence wing of the IDF. Talent and tools <a href="https://www.haaretz.com/israel-news/tech-news/idf-vs-nso-8200-battle-israel-cyber-talent-getting-dark-1.9929433">flow both ways</a> in this relationship. <a href="https://twitter.com/iblametom/status/1417872410246885388">The company claims</a> that its spyware is only used for "legitimate criminal and anti-terrorism investigations." The company also claims it has no control how its software is used and no access to its client's data, so one thing or the other or both are false.&nbsp;&nbsp;It sells to governments known for obsessive levels of human rights violations. If you sell guns to on-the-record sociopaths and serial killers, you can't claim ignorance in how they'll be used. <br>
-  </p>
-
-  <p>
-    Knowledge of how the NSO Group's software has been used by regimes to target critics is not new, but the current information about it is more sweeping than ever before. There will be a lot of misinformation and disinformation in the coming days and weeks as countries deny spying, NSO Group denies everything, and hyperbole sometimes takes over instead of fact. Read or watch carefully.
   </p>
             ]]>
         </content>
