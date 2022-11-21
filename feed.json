@@ -10,6 +10,24 @@
     },
     "items": [
         {
+            "id": "https://treacherous.tech/dead-bird.html",
+            "url": "https://treacherous.tech/dead-bird.html",
+            "title": "Some notes about life on a Mastodon",
+            "summary": "With Elon destroying Twitter, a lot of people are looking to up their online social life elsewhere and it seems Mastodon's decentralised 'fediverse' is where they are parachuting. Most are still keeping their Twitter accounts alive until the bitter&hellip;",
+            "content_html": "<p>With Elon destroying Twitter, a lot of people are looking to up their online social life elsewhere and it seems Mastodon's decentralised 'fediverse' is where they are parachuting. Most are still keeping their Twitter accounts alive until the bitter end, but as the horde moves, there are some people who are finding the experience of life on a largely volunteer run network based on free open source software maintained by a German nonprofit kind of different. I've got a longer blog post coming, but thought I'd dash in some (rough) notes that are hanging around my screen for now. (Also so I can close some tabs).</p>\n<ul>\n<li><a href=\"https://themarkup.org/the-breakdown/2022/11/21/we-joined-mastodon-heres-what-we-learned-about-privacy-and-security\" target=\"_blank\" rel=\"noopener noreferrer\">The Markup</a> has a very good break down of what life is like on a Mastodon server, read it. It covers many issues you'll want to consider before joining.</li>\n<li><a href=\"https://www.eff.org/deeplinks/2022/11/mastodon-private-and-secure-lets-take-look\" target=\"_blank\" rel=\"noopener noreferrer\">The Electronic Frontier Foundation has given a very close look</a> at the security issues around Mastodon as a platform and as a decentralised \"fediverse.\" Read that, too.</li>\n<li>If you're considering hosting a Mastodon community yourself, my only suggestion is to think about it really carefully. And then think again. Go for a walk, have a lay down. Then, aside from the technical piece of running a social network effectively and securely, read this <a href=\"https://denise.dreamwidth.org/91757.html\" target=\"_blank\" rel=\"noopener noreferrer\">guide to potential liability pitfalls for people running a Mastodon instance</a>.</li>\n<li>Here's a good <a href=\"https://twitter.com/mmasnick/status/1594575441276248064\" target=\"_blank\" rel=\"noopener noreferrer\">Twitter thread</a> on the difficulties of moderation. Imo, people are jumping over to Mastodon with the expectation of being treated like customers. There is no commercial component to it. You are not a customer. People are not doing this for work.</li>\n</ul>\n<p>There is not one Mastodon, but many. It's a federation and anyone can host one but not all are created equal. The whole \"just choose any server\" UX needs work. There are nutter Mastodons out there. Dodgy ones, too. There are also a number of fairly friendly ones. Twitter is/was a centralised commercial service currently under control of an erratic, billionaire man baby. Mastodon platforms are run by all sorts. I don't think any of them are billionaires. They may have other issues.</p>\n<p>Trolls, bots, harassment and abuse are in the fediverse as well. Mastodon doesn't solve the moderation problem, it shifts it and creates strange new quandaries. Instead of the central dictator, you have fiefdoms, some with their petty tyrants, others with inconsistent or corrupt policing, and many seemingly with no sheriff in town at all. Still others have structures with reasonable user expectations and volunteers who do look like they are trying to get it right.</p>\n<p>That's not to make light of serious matters. Abuse, threats, attacks, creepy guys sending unsolicited dick pics, attempts at blackmail, and other horrors I won't even list here are serious, and need to be treated seriously. And I'd argue a lot of commerical platforms also don't take them as seriously as they should, but arguably a small scrappy band of volunteer mods on an open source platform are far less resourced to do it. I encourage reporting these people, outing them and using public humiliation, and any relatively safe avenues of vigilanteism that ruins them, but the reality is that they prey on fear and embarrassment. It's a community problem that needs community support. That's not a conclusive answer to the problem, but I don't think I have one. I don't think any one person has one.</p>\n<p>Mastodon isn't private. There is no end-to-end encryption, but there really isn't on a lot of other services you use, too. I would be careful of what I posted there. You can DM someone but this stands for Direct Message, not Private Message. Any one with administrator access can view all your content. I don't like that the DM button includes an icon of a padlock, as people often associate that with encrypted messaging. There isn't any. If you want to keep the content of your conversation private, you need to use something with end-to-end encryption. Signal. Wire. Matrix. Element. Briar. Even WhatsApp. Take that conversation somewhere else. I would say the same thing about Twitter DMs. A lot of people don't realise what service administers have access to. </p>\n<p>I'm not new to the fediverse, but have been absorbed by watching it suddenly grow. Hope it works, expect many fiery crashes along the way. It's not commercial. There is no manager to talk to. You're not going to a restaurant, but to a pot luck. Keep track of your casserole dish.</p>\n<p>A lot of people come over to a Mastodon platform, and what they see first is what's missing. There's no algorithm studying you to figure out what you might want to see. Some things they were used to Twitter doing for them don't exist. Remember, Twitter is/was a multi-billion dollar business that (Even with all the layoffs and quitting) still has thousands of employees.  Mastodon is run by people doing so largely in their spare time for free, because they believe in it, on servers they pay for out of their own pockets.</p>\n<p>I want Mastodon, or something like it, to win. I want free open source software to win. I want decentralised, community run systems to win. But to win, it has to be accessible, usable, secure, and inviting to everyone. There are a number of problems with it, which I hope to get to in another post. But it does at least seek to offer an alternative model. For those who don't like Big Tech, surveillance capitalist business models, and all of that stuff, go live in the other world for a while. Set fire to your ideas of finding some kind of internet utopia in the process. The world is trade-offs, and nothing is permanent. Maybe you like it and maybe you don't. The worst that probably happens is you delete another account.</p>",
+            "image": "https://treacherous.tech/media/posts/23/smithsonian-mastodon_wide-e3c513d73649e702c15179dddc3a07a5473a0d1c-s1600-c85.webp",
+            "author": {
+                "name": "Yours Truly"
+            },
+            "tags": [
+                   "twitter",
+                   "social networks",
+                   "mastodon"
+            ],
+            "date_published": "2022-11-21T22:39:42+00:00",
+            "date_modified": "2022-11-21T22:39:42+00:00"
+        },
+        {
             "id": "https://treacherous.tech/help-keep-the-internet-open-for-iranian-users-and-for-anyone-where-its-censored.html",
             "url": "https://treacherous.tech/help-keep-the-internet-open-for-iranian-users-and-for-anyone-where-its-censored.html",
             "title": "Help keep the internet open for users in Iran (and for anyone where it&#x27;s censored)",
@@ -24,8 +42,8 @@
                    "encryption",
                    "activist"
             ],
-            "date_published": "2022-11-12T19:20:17+00:00",
-            "date_modified": "2022-11-12T19:20:17+00:00"
+            "date_published": "2022-11-21T22:39:42+00:00",
+            "date_modified": "2022-11-21T22:39:42+00:00"
         },
         {
             "id": "https://treacherous.tech/onionshare-back.html",
@@ -39,8 +57,8 @@
             },
             "tags": [
             ],
-            "date_published": "2022-11-12T19:20:17+00:00",
-            "date_modified": "2022-11-12T19:20:17+00:00"
+            "date_published": "2022-11-21T22:39:42+00:00",
+            "date_modified": "2022-11-21T22:39:42+00:00"
         },
         {
             "id": "https://treacherous.tech/i-cant-keep-up.html",
@@ -57,8 +75,8 @@
                    "life ",
                    "books"
             ],
-            "date_published": "2022-11-12T19:20:17+00:00",
-            "date_modified": "2022-11-12T19:20:17+00:00"
+            "date_published": "2022-11-21T22:39:42+00:00",
+            "date_modified": "2022-11-21T22:39:42+00:00"
         },
         {
             "id": "https://treacherous.tech/some-more-notes-on-the-spotify-kerfuffle.html",
@@ -72,8 +90,8 @@
             },
             "tags": [
             ],
-            "date_published": "2022-11-12T19:20:17+00:00",
-            "date_modified": "2022-11-12T19:20:17+00:00"
+            "date_published": "2022-11-21T22:39:42+00:00",
+            "date_modified": "2022-11-21T22:39:42+00:00"
         },
         {
             "id": "https://treacherous.tech/spotify-kerfuffle.html",
@@ -87,8 +105,8 @@
             },
             "tags": [
             ],
-            "date_published": "2022-11-12T19:20:17+00:00",
-            "date_modified": "2022-11-12T19:20:17+00:00"
+            "date_published": "2022-11-21T22:39:42+00:00",
+            "date_modified": "2022-11-21T22:39:42+00:00"
         },
         {
             "id": "https://treacherous.tech/encryption-is-not-a-crime-its-a-deterrence.html",
@@ -103,8 +121,8 @@
             "tags": [
                    "encryption"
             ],
-            "date_published": "2022-11-12T19:20:17+00:00",
-            "date_modified": "2022-11-12T19:20:17+00:00"
+            "date_published": "2022-11-21T22:39:42+00:00",
+            "date_modified": "2022-11-21T22:39:42+00:00"
         },
         {
             "id": "https://treacherous.tech/happy-2022-quit-more.html",
@@ -118,8 +136,8 @@
             },
             "tags": [
             ],
-            "date_published": "2022-11-12T19:20:17+00:00",
-            "date_modified": "2022-11-12T19:20:17+00:00"
+            "date_published": "2022-11-21T22:39:42+00:00",
+            "date_modified": "2022-11-21T22:39:42+00:00"
         },
         {
             "id": "https://treacherous.tech/this-site-is-basically-always-a-test-site.html",
@@ -134,8 +152,8 @@
             "tags": [
                    "meta"
             ],
-            "date_published": "2022-11-12T19:20:17+00:00",
-            "date_modified": "2022-11-12T19:20:17+00:00"
+            "date_published": "2022-11-21T22:39:42+00:00",
+            "date_modified": "2022-11-21T22:39:42+00:00"
         },
         {
             "id": "https://treacherous.tech/test-on-prod.html",
@@ -150,23 +168,8 @@
             "tags": [
                    "meta"
             ],
-            "date_published": "2022-11-12T19:20:17+00:00",
-            "date_modified": "2022-11-12T19:20:17+00:00"
-        },
-        {
-            "id": "https://treacherous.tech/apple-csam-scan.html",
-            "url": "https://treacherous.tech/apple-csam-scan.html",
-            "title": "Notes on Apple&#x27;s CSAM scanning announcement",
-            "summary": " (Or: \"Screeching voices from the minority\")&nbsp; Last week (on Thursday, 5 August) Apple announced planned changes to its operating systems and iCloud services that have (re)ignited debates on the limits of security, privacy and safety. In a nutshell:&hellip;",
-            "content_html": "\n    <h2 id=\"or-screeching-voices-from-the-minoritynbsp\">\n      (Or: \"Screeching voices from the minority\")&nbsp;\n    </h2>\n\n  <p>\n    Last week (on Thursday, 5 August) Apple announced planned changes to its operating systems and iCloud services that have (re)ignited debates on the limits of security, privacy and safety. In a nutshell: Apple announced it plans to update all Apple devices with the capability to automatically scan images as they are backed up in iCloud against a database of known child sexual abuse material (CSAM) that is managed by&nbsp;the National Center for Missing &amp; Exploited Children (NCMEC). Apple is also rolling out changes to accounts registered to children, in which iMessage images sent or received will also be scanned (client side, meaning on the device itself, not the server) for sexual material, and Apple would ping the kid's folks when it hits a positive.\n  </p>\n\n  <p>\n    <strong>Before moving on, here's my pithy take</strong><strong>:</strong> this amounts to a backdoor. It bypasses encryption and both device and account security. It introduces a significant shift in Apple's priorities and previously stated business interests away from a brand based on user-centric privacy and security. Instead, we have what could be seen from a marketing point of view as \"family friendly,\" while also finding ways to end arguments it's been having with various interest groups and U.S. federal agencies. It's dangerous at the user level, will do little to actually thwart the problems it aims to solve and globally, it introduces a dangerous precedence.\n  </p>\n\n  <p>\n    As a technologist working with media, human rights and anti-corruption groups globally and as a parent with a keen interest in child safety locally, I've got a good amount of skin in this game. I wouldn't want this level of invasion on devices run by either my kid, my work contacts, or myself. That said, The issue of CSAM is absolutely and indisputably a high priority, and while I have seen many well-reasoned and insightful points made from both sides of this debate, I've also come across more than a few really horrible takes. More on that later. First, here's a smattering of the different arguments put forward by people with deeper thinking on the matter than yours truly...\n  </p>\n\n    <h3 id=\"some-links\">\n      Some links\n    </h3>\n\n  <ul>\n    <li><strong>Apple -&nbsp;<a href=\"https://www.apple.com/child-safety/\" target=\"_blank\">Expanded Protections for Children</a><br></strong>It makes sense to start here as it's to what everything that will follow is responding. In this, we're not getting into the parts on \"Communication safety in Messages\" or \"Expanding guidance in Siri and Search\" which are all, in the end, some reporting tools and safety messaging aimed at minors. The part to&nbsp; look at is on CSAM detection. Skip the marketing text and get down to the \"More Information\" section. Check out the PDF called \"CSAM Detection — Technical Summary\" and the three technical summaries to get Apple's implementation of all this.<br><br></li><li><strong>NCMEC - <a href=\"https://www.missingkids.org/blog/2019/post-update/end-to-end-encryption\" target=\"_blank\">End-to-End Encryption: Ignoring Abuse Won't Stop It</a><br></strong>The National Center for Missing &amp; Exploited Children maintains the CSAM database Apple would use. I did not find (in my only couple-minutes search) an official statement on the current issues around its collaboration with Apple, but the above was written in 2019, is still prominently featured from the organisation's homepage, and reflects its general stance on all these issues. As the other main player in this story, its views should be seen and understood. I don't think anyone on either side of the debate has any issue with its central cause, thinks its trivial or not important, or has any interest in defending or protecting abusers.&nbsp; In fact, many people who are knowledgeably criticising Apple's implementation of this database actively work in safety and protection of numerous at-risk groups.<br><br></li><li><strong>Ben Lovejoy in 9to5mac -&nbsp;<a href=\"https://9to5mac.com/2021/08/05/scanning-for-child-abuse-images/\" target=\"_blank\">Opinion: Four problems with Apple’s reported approach to scanning for child abuse images</a><br></strong>I don't know who Ben is really, or follow this site much but here's a post that lays out a clear overview of many of the main concerns with client-side scanning and this sort of backdoor, or side-door, to your supposedly private and encrypted content on your Apple device. I think of many things I've read, this one is very accessible and gives someone with a casual interest a quick glance of the concerns.<br><br></li><li><strong>Various experts - <a href=\"https://appleprivacyletter.com/\" target=\"_blank\">An Open Letter Against Apple's Privacy-Invasive Content Scanning Technology</a><br></strong>Signed by leading experts in fields of security, safety, privacy, cryptography, researchers and legal experts, this one summarises the concerns raised by organisations such as  Electronic Frontier Foundation,&nbsp; Center for Democracy and Technology,&nbsp; Open Privacy Research Society and others.<br><br></li><li><strong>EFF -&nbsp;<a href=\"https://www.eff.org/deeplinks/2021/08/apples-plan-think-different-about-encryption-opens-backdoor-your-private-life\" target=\"_blank\">Apple's Plan to \"Think Different\" About Encryption Opens a Backdoor to Your Private Life</a><br></strong>Though linked to in the above letter, the&nbsp;Electronic Frontier Foundation's arguments against client-side and (this kind of) iCloud content scanning deserves it's own mention. What is good about this one is its international focus, and the wide ranging implications of this being built into technology for people living under more totalitarian/authoritarian regimes. If you can use hashed datasets to scan for one kind of content, you could use them for many kinds. And if you don't want to do that, maybe rule out operating in large markets around the world. Once opened, the door only swings more widely. To be honest, this is the area in which my day job sits, so the one that gets more of my attention. American's can shout about their constitutional rights and suchlike, fine. I'm interested in users who are depending on the technology they can access being engineered as though they should have those rights, too. If that helps those of us in \"the West\", it's a nice bonus.<br><br></li><li><strong>Alec Muffet - <a href=\"https://alecmuffett.com/article/14860\" target=\"_blank\">So @pwnallthethings decided to try calling out @wcathcart and @WhatsApp as “scanning content” like Apple; here’s why that’s incorrect &amp; misleading</a><br></strong>There's a load of <a href=\"https://en.wikipedia.org/wiki/Whataboutism\" target=\"_blank\">whatabouttery</a>&nbsp;already flying around on this topic, and I'm not going to link to or get into all (or even most) of it, but here's a thoughtful example and a reasoned response, both from people who are respected experts on these issues.&nbsp; And you can find a good exchange on Twitter between the two of them, if that's your thing. People have made similar whataboutism cases about Google, Kaspersky, etc. Many of these actually aren't good comparisons for one reason or another, but even if they were, the \"other companies are doing it\" argument is a pretty bad one. Something about that annoying thing your parents may have asked you regarding all your friends jumping off tall, dangerous things applies here.</li>\n  </ul>\n\n    <h3 id=\"for-what-its-worthnbsp\">\n      For what it's worth&nbsp;\n    </h3>\n\n  <p>\n    My take is that Apple is backing off its promises in the thornier area of privacy and user security, and going more towards family, safety and things that give people warm and squishy feelings. It's own supposedly tightly controlled app store <a href=\"https://www.washingtonpost.com/technology/2021/06/06/apple-app-store-scams-fraud/\" target=\"_blank\">is filthy with scamware</a>.&nbsp;Also, there remains <a href=\"https://www.theguardian.com/news/2021/jul/18/what-is-pegasus-spyware-and-how-does-it-hack-phones\" target=\"_blank\">still unknown exploits in iOS, leveraged by the NSO Group's Pegasus spyware</a>.&nbsp;And if you're a security researcher digging in the wrong way, <a href=\"https://www.theverge.com/2020/1/3/21047275/apple-corellium-dmca-lawsuit-copyright-research-jailbreak-security-copyright\" target=\"_blank\">Apple may just see you in court</a>. In this particular case, in an internal Apple mailing message&nbsp;from&nbsp;NCMEC's executive director of strategic partnerships, critics of allowing constant content monitoring were dismissed as \"<a href=\"https://twitter.com/evacide/status/1423748333001080833/photo/1\" target=\"_blank\">screeching voices of the minority</a>.\" No one who can speak for Apple has objected to this description.\n  </p>\n\n  <p>\n    <strong>Perpetrators will bypass this:</strong> This turn toward the \"nothing to hide; nothing to fear\" crowd is chilling. The CSAM database is a list of cryptographic hashes -- \"fingerprints\" of the original horrendous content. If an image triggers a positive hit, the authorities can be contacted, or someone can be tasked to review content to confirm it's legitimate. And here's where we start going into the complex rabbit warren. If the fingerprints are too precise, the sick bastards who peddle them can easily work around it. They can change the image format, shave off a pixel or two in the width or height, alter the colour or any number of things. In order to work, hashes need to be what's called \"fuzzy,\" or approximate, so something close enough can trigger it.&nbsp;\n  </p>\n\n  <p>\n    <strong>Legitimate, private content will be viewed by more people, thus more users have lost their privacy, and more content is is at risk of misuse:</strong> The more this fingerprinting is made approximate, the more false alarms go off, so the more people and processes will be needed to review them. So these legal, private images are being seen by more people, and the number of people that have to be trusted to not be bad actors or sloppy at their work or a target for an attack grows.\n  </p>\n\n  <p>\n    <strong>New methods of attack: </strong>There's also the problem of an easy attack vector. Anyone can send anyone a WhatsApp message and WhatsApp and iMessage (maybe others) media automatically backs up to iCloud. Anyone can send anyone else an image they never asked for that triggers a positive match. This may seem insane, or at least like an \"edge case\" proposition. I want you to consider people who are not people you know who deal with threats from regimes or corrupt entities you will likely never have to deal with. If I wanted to discredit a political dissident or rival candidate, it's an option. Shut down an anti-corruption case? Dirty up the reputation of a journalist? You betcha.\n  </p>\n\n  <p>\n    <strong>New use cases:</strong> I'm not being original on this one, but once this exists as infrastructure, it has to have new use cases. It's almost a law of physics. If I were a government that had a large iPhone user base, so large that losing that market would be painful, I might have my own database of media file hashes I'd want scanned. Maybe it's memes making fun of leaders, or documents that I don't want the public sharing or seeing. Maybe if you don't run my database in my country, and follow my laws with technology you obviously have that makes it trivial to do so, it gets harder to sell iPhones, or for your in-country offices to not get raided.\n  </p>\n\n    <h3 id=\"meanwhile\">\n      Meanwhile...\n    </h3>\n\n  <p>\n    So, it would be great if Apple worked with the broader security community on these things. It would also be groovy if some who fancied themselves as \"purists\" would lay off the \"Perfection of Panopticon\" act and considered the world as it is.\n  </p>\n\n  <p>\n    Finally, the really unhelpful counter-argument is to do nothing.&nbsp; The \"Why don't parents just pay better attention to their children\" thing&nbsp; doesn't fly, and guess what? We live in a society. Why don't people do all kinds of things that they should? We wouldn't 3rd and 4th wave pandemic lockdowns, insane climate disasters, or regimes violating treaties on the use of chemical weapons.\n  </p>\n\n  <p>\n    Part of the reason Apple is doing what it's doing is that there are segments of public and private sectors, and just the public in general, asking for something to be done. Like it or not, something will be done. Eventually something is always done. My argument would be that investment is better placed in existing, under-funded, under-resourced policing and the use of advanced, warranted and targeted surveillance of these networks of abusers, possibly with the use of taxes these companies should be paying... as a start.\n  </p>",
-            "image": "https://treacherous.tech/media/posts/13/stays-on-your-iphone.jpg",
-            "author": {
-                "name": "Yours Truly"
-            },
-            "tags": [
-            ],
-            "date_published": "2022-11-12T19:20:17+00:00",
-            "date_modified": "2022-11-12T19:20:17+00:00"
+            "date_published": "2022-11-21T22:39:42+00:00",
+            "date_modified": "2022-11-21T22:39:42+00:00"
         }
     ]
 }
