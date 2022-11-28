@@ -20,7 +20,7 @@
             <category term="social networks"/>
             <category term="mastodon"/>
 
-        <updated>2022-11-28T21:39:28+00:00</updated>
+        <updated>2022-11-28T21:50:46+00:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://treacherous.tech/media/posts/24/mastodon-skeleton.jpg" alt="Illustration of a mastodon skeleton from an archive somewhere." />
@@ -71,9 +71,8 @@
 <li>And much, much more (really, read the above link.)</li>
 </ul>
 <figure class="post__image post__image--wide"><img loading="lazy"  src="https://treacherous.tech/media/posts/24/switter-love.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://treacherous.tech/media/posts/24/responsive/switter-love-xs.png 300w ,https://treacherous.tech/media/posts/24/responsive/switter-love-sm.png 480w ,https://treacherous.tech/media/posts/24/responsive/switter-love-md.png 768w ,https://treacherous.tech/media/posts/24/responsive/switter-love-lg.png 1024w ,https://treacherous.tech/media/posts/24/responsive/switter-love-xl.png 1360w ,https://treacherous.tech/media/posts/24/responsive/switter-love-2xl.png 1600w"  alt="Switter logo" width="728" height="168"></figure>
-<p>Jurisdiction and legislation are important factor in all of this, and there's no better example of this than Switter, which was a Mastodon we could now call a central cautionary tale from the Fediverse's own secret history. Few may even know it existed. It was an excellently moderated and maintained social media space for sex workers that used Mastodon as its platform. On it, you could find all kinds of stories about life as experienced by sex workers. They were funny, sad, and sometimes horrific. It was honest.</p>
-<p>But <a href="https://www.theverge.com/2018/4/19/17256370/switter-cloudflare-sex-workers-banned" target="_blank" rel="noopener noreferrer">it was constantly under attack</a>. U.S. legislation aimed against sex workers under the guise of "stopping sex trafficking" meant Switter couldn't use Cloudflare, which is U.S. based. Other new laws came in or were on the way in the U.S., UK, Australia and elsewhere that essentially rendered Switter illegal in many jurisdictions and its administrators and users could be held criminally liable for speech that should really not be criminalised in any liberal democracy. It finally had to close in March, 2022. <a href="https://switter.at/" target="_blank" rel="noopener noreferrer">Here's a memorial site in its memory</a>. </p>
-<p>There are a lot of escort websites on the web for anyone who wants to hire a sex worker. They're owned by companies, charge commissions and navigate different legal structures. What's hard to keep legal is the friendly, social platform that let sex workers present themselves however they wanted. RIP Switter. It had good moderation practices and Terms of Service,  but that wasn't enough.</p>
+<p>Jurisdiction and legislation are important factors in all this, and there's no better example of this than Switter, which was a Mastodon we could now call a central cautionary tale from the Fediverse's own secret history. Few may even know it existed. It was an excellently moderated and maintained social media space for sex workers that used Mastodon as its platform. On it, you could find all kinds of stories about life as experienced by sex workers. They were funny, sad, and sometimes horrific. It was honest.</p>
+<p>But <a href="https://www.theverge.com/2018/4/19/17256370/switter-cloudflare-sex-workers-banned" target="_blank" rel="noopener noreferrer">it was constantly under attack</a>. U.S. legislation aimed against sex workers under the guise of "stopping sex trafficking" meant Switter couldn't use Cloudflare, for example. Other new laws came in or were on the way in the U.S., UK, Australia and elsewhere that essentially rendered Switter illegal in many jurisdictions and its administrators and users could be held liable for speech that should really not be criminalised in any liberal democracy. It finally had to close in March, 2022. <a href="https://switter.at/" target="_blank" rel="noopener noreferrer">Here's a memorial site</a>. RIP, Switter. It had good moderation practices, and put its community's safety first. But that wasn't enough.</p>
 <p>As of this writing, are about 2.6 million monthly active users across 8k online Mastodon servers, <a href="https://joinmastodon.org/about" target="_blank" rel="noopener noreferrer">according to Mastodon gGmbH</a>. Let's assess some of their policy pages ("About" pages). For our purposes, we'll use a small list. Check out the polices and practices for:</p>
 <ul>
 <li><a href="https://mastodon.social/about" target="_blank" rel="nofollow noopener noreferrer"><strong>Mastodon.Social</strong></a><strong>:</strong> General purpose. Run by a friendly looking European nonprofit that also happens to develop Mastodon. It probably wants to showcase a sort of best practices way of doing things. That said, it has a limited "about" page. No information on the active user count. Mostly reasonable, if brief, content policies.  Very explicit "<span class="rules-list__text">No content illegal in Germany."  At least we know what jurisdiction we're talking about, many Mastodons' "About" pages don't mention it. A large listing of both limited and suspended Mastodons, and each has a line underneath explaining why.</span></li>
@@ -202,7 +201,7 @@
             <category term="social networks"/>
             <category term="mastodon"/>
 
-        <updated>2022-11-28T21:39:28+00:00</updated>
+        <updated>2022-11-28T21:50:46+00:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://treacherous.tech/media/posts/23/smithsonian-mastodon_wide-e3c513d73649e702c15179dddc3a07a5473a0d1c-s1600-c85.webp" alt="Skeleton of a Mastodon in a museum with a guy standing next to it for scale." />
@@ -240,7 +239,7 @@
             <category term="encryption"/>
             <category term="activist"/>
 
-        <updated>2022-11-28T21:39:28+00:00</updated>
+        <updated>2022-11-28T21:50:46+00:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://treacherous.tech/media/posts/22/snowing-background-1547722510q67.jpg" alt="Snow falling from the sky" />
@@ -280,7 +279,7 @@
         <link href="https://treacherous.tech/onionshare-back.html"/>
         <id>https://treacherous.tech/onionshare-back.html</id>
 
-        <updated>2022-11-28T21:39:28+00:00</updated>
+        <updated>2022-11-28T21:50:46+00:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://treacherous.tech/media/posts/20/women-telephone-operators-at-work-12-jpg.jpeg" alt="telephone operator from the olden days" />
@@ -309,7 +308,7 @@
             <category term="life "/>
             <category term="books"/>
 
-        <updated>2022-11-28T21:39:28+00:00</updated>
+        <updated>2022-11-28T21:50:46+00:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://treacherous.tech/media/posts/21/fbi-bot.jpeg" alt="CBC&#x27;s mailmobile in 1977" />
@@ -341,7 +340,7 @@
         <link href="https://treacherous.tech/some-more-notes-on-the-spotify-kerfuffle.html"/>
         <id>https://treacherous.tech/some-more-notes-on-the-spotify-kerfuffle.html</id>
 
-        <updated>2022-11-28T21:39:28+00:00</updated>
+        <updated>2022-11-28T21:50:46+00:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://treacherous.tech/media/posts/19/spotify-logo-zoom-s.jpg" alt="Cassette tapes that ran Apple programming back around 1978" />
@@ -389,7 +388,7 @@
         <link href="https://treacherous.tech/spotify-kerfuffle.html"/>
         <id>https://treacherous.tech/spotify-kerfuffle.html</id>
 
-        <updated>2022-11-28T21:39:28+00:00</updated>
+        <updated>2022-11-28T21:50:46+00:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://treacherous.tech/media/posts/18/Time-coded_vinyl_record.jpg" alt="" />
@@ -425,7 +424,7 @@
         <id>https://treacherous.tech/encryption-is-not-a-crime-its-a-deterrence.html</id>
             <category term="encryption"/>
 
-        <updated>2022-11-28T21:39:28+00:00</updated>
+        <updated>2022-11-28T21:50:46+00:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://treacherous.tech/media/posts/17/keys-261412860438709cZV.jpg" alt="" />
@@ -472,7 +471,7 @@
         <link href="https://treacherous.tech/happy-2022-quit-more.html"/>
         <id>https://treacherous.tech/happy-2022-quit-more.html</id>
 
-        <updated>2022-11-28T21:39:28+00:00</updated>
+        <updated>2022-11-28T21:50:46+00:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://treacherous.tech/media/posts/16/uhffszjrfec51.webp" alt="" />
@@ -511,7 +510,7 @@
         <id>https://treacherous.tech/this-site-is-basically-always-a-test-site.html</id>
             <category term="meta"/>
 
-        <updated>2022-11-28T21:39:28+00:00</updated>
+        <updated>2022-11-28T21:50:46+00:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://treacherous.tech/media/posts/15/The_source_TradingCard.jpg" alt="" />
