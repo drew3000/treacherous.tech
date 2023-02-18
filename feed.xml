@@ -10,6 +10,45 @@
     <id>https://treacherous.tech</id>
 
     <entry>
+        <title>All 2FA is good 2FA</title>
+        <author>
+            <name>Yours Truly</name>
+        </author>
+        <link href="https://treacherous.tech/all-2fa-is-good-2fa.html"/>
+        <id>https://treacherous.tech/all-2fa-is-good-2fa.html</id>
+            <category term="twitter"/>
+            <category term="2fa"/>
+
+        <updated>2023-02-18T22:48:31+00:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://treacherous.tech/media/posts/26/birds-on-wires.jpg" alt="These are birds on some telephone wires. Get it?" />
+                    Note: The current incarnation of this blog may not be around for much longer. I'm starting to get that itch to jump platforms. I want an ActivityPub native or at least friendly platform. So far, I'm not terribly happy&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://treacherous.tech/media/posts/26/birds-on-wires.jpg" alt="These are birds on some telephone wires. Get it?" />
+                <p><em><strong>Note:</strong> The current incarnation of this blog may not be around for much longer. I'm starting to get that itch to jump platforms. I want an ActivityPub native or at least friendly platform. So far, I'm not terribly happy with the options out there, but it's coming. And when it does, like each time I jump, the content goes with it. I'm not an archiver. I seldom write anything I especially want to remember. Most of us don't. That's not a bad thing.</em></p>
+<figure class="post__image" ><img loading="lazy" src="https://treacherous.tech/media/posts/26/twitter-sms-2fa-away.jpeg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://treacherous.tech/media/posts/26/responsive/twitter-sms-2fa-away-xs.jpeg 300w ,https://treacherous.tech/media/posts/26/responsive/twitter-sms-2fa-away-sm.jpeg 480w ,https://treacherous.tech/media/posts/26/responsive/twitter-sms-2fa-away-md.jpeg 768w ,https://treacherous.tech/media/posts/26/responsive/twitter-sms-2fa-away-lg.jpeg 1024w ,https://treacherous.tech/media/posts/26/responsive/twitter-sms-2fa-away-xl.jpeg 1360w ,https://treacherous.tech/media/posts/26/responsive/twitter-sms-2fa-away-2xl.jpeg 1600w"  alt="Twitter is banning users who don't pay for Twitter Blue from using SMS text two-factor authentication." width="1224" height="1280">
+<figcaption >Twitter's boss Elon will start banning users who don't subscribe to Twitter Blue from using SMS-based two factor authentication.</figcaption>
+</figure>
+<p>Twitter under Elon Musk's admin prowesses has been the slowest platform crash of all time. It's painful how slow it is. Today, <a href="https://blog.twitter.com/en_us/topics/product/2023/an-update-on-two-factor-authentication-using-sms-on-twitter" target="_blank" rel="noopener noreferrer">Elon has announced that Twitter</a> is going to turn off SMS-based two-factor authentication (2FA) for everyone but Twitter Blue users. 2FA is that second line of defence on your online account. When you log in on a new device or in a new location, or just maybe every 30 days or so, you need to type in a set of numbers after logging in with your username and password. Some people use SMS text messages to receive these. Others use an app like <a href="https://authy.com/" target="_blank" rel="noopener noreferrer">Authy</a> or <a href="https://googleauthenticator.net/" target="_blank" rel="noopener noreferrer">Google Authenticator</a>. Some people use a <a href="https://en.wikipedia.org/wiki/YubiKey" target="_blank" rel="noopener noreferrer">physical security key</a>.</p>
+<p>There's always a debate raging among Information Security types about which form of 2FA is better, and I'm not even going to get into that because it's pointless. You should use 2FA on every online account you have. That's it. That's the advice. Platforms should provide every diverse type of 2FA available that they can. Any 2FA is better than no 2FA. it's the most effective way of stopping your account from being taken over by someone somewhere else. Anyone getting your password will not be able to login without it.</p>
+<ul>
+<li><strong>SMS:</strong> Sends you a text message with often a 6-digit code. Works on any phone, including a dumb phone. May not work if you're not where you have a connection to a mobile network. In some rare cases someone may hijack your SMS (the feds, and advanced hacker targeting you specifically) and grab your code. They'll also need to know your username and password for it to work.</li>
+<li><strong>Authenticator Apps:</strong> These operate locally on a smartphone and generate 2FA codes. Slightly more secure for not needing networks, and even if you're out of range or have no mobile network access or data, it will still work. If you lose your mobile or it breaks or runs out of battery, then now 2FA for you. If someone steals your unlocked mobile, they can then get into accounts using your 2FA.</li>
+<li><strong>Physical security keys:</strong> these are little plastic things, often looking like a cheap USB stick. You have to insert them into your device, like you would unlock your house with a key. Often these are considered the most secure. Don't lose it or break it.</li>
+<li><strong>Paper backup codes:</strong> This may sound pretty basic, but you can get backup 2FA codes from a lot of online platforms and just save them somewhere. Maybe print them. They only work once, but if you lose your phone or don't have a mobile signal, they can work in a pinch. Just don't keep them on your desk or pinned on the wall behind you during television interviews or conference calls on Teams.</li>
+</ul>
+<p>Most people would suggest you have a couple of backup methods in case one of them fails. Some people don't have access to some of these methods. Maybe you're in a country where a service won't send SMS messages. Maybe your country's government won't let you download an authenticator app and it's banned. Maybe it's illegal where you are to order or buy a physical security key, or the companies just don't operate or ship to where you are or accept payments from there. The world is complicated.</p>
+<p>You could also assess your own security needs and decide which options to use or not use. Maybe you'd rather receive SMS messages on some other mobile, and don't trust people around you. Maybe you'd rather never receive an SMS code, because you're fairly certain the regime where you live has told your mobile service provider to intercept your messages. Maybe you're some hot shot investigative journalist or human rights activist. Or some criminal mastermind. Most of us just don't want to be victims of credit card fraud or something pedestrian like that. A few people lead more interesting lives and their threat model is different from yours. I spend some of my time with those people (no, not the criminals, the other ones). So when Elon shuts off security options for them, it's more than a little annoying.</p>
+<p>My people sometimes need SMS 2FA codes and they can't get Yubikeys or download the authenticator app, and they can't buy Twitter Blue. And they shouldn't have to. By doing this, Elon is asserting that Twitter is not really a global platform, that some users are not equal to others, and that people who want to use it will need to consider being less secure.</p>
+<p>Twitter users have had some problems with 2FA since Elon took over. <a href="https://mezha.media/en/2022/12/13/twitter-has-broken-two-factor-authentication-for-ukrainian-numbers/" target="_blank" rel="noopener noreferrer">In December</a>, Twitter had for a short time stopped sending Ukrainian users two-factor authentication codes over SMS. Elon bizarrely blamed it on his war with bots. It made no sense. Anyway, Twitter is no a little bit less secure than it was before. And it will continue to go that way. I won't tell people to stop using it, but be careful on there. It doesn't have your back.</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
         <title>Compartmentalisation is good for you </title>
         <author>
             <name>Yours Truly</name>
@@ -17,7 +56,7 @@
         <link href="https://treacherous.tech/compartmentalization-is-good-for-you.html"/>
         <id>https://treacherous.tech/compartmentalization-is-good-for-you.html</id>
 
-        <updated>2023-01-16T01:14:25+00:00</updated>
+        <updated>2023-02-18T22:48:31+00:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://treacherous.tech/media/posts/25/eggs.png" alt="Here is a picture of a basket of eggs as a sort of visual play on the concept discussed in this blog post." />
@@ -87,7 +126,7 @@
             <category term="social networks"/>
             <category term="mastodon"/>
 
-        <updated>2023-01-16T01:14:25+00:00</updated>
+        <updated>2023-02-18T22:48:31+00:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://treacherous.tech/media/posts/24/mastodon-skeleton.jpg" alt="Illustration of a mastodon skeleton from an archive somewhere." />
@@ -268,7 +307,7 @@
             <category term="social networks"/>
             <category term="mastodon"/>
 
-        <updated>2023-01-16T01:14:25+00:00</updated>
+        <updated>2023-02-18T22:48:31+00:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://treacherous.tech/media/posts/23/smithsonian-mastodon_wide-e3c513d73649e702c15179dddc3a07a5473a0d1c-s1600-c85.webp" alt="Skeleton of a Mastodon in a museum with a guy standing next to it for scale." />
@@ -306,7 +345,7 @@
             <category term="encryption"/>
             <category term="activist"/>
 
-        <updated>2023-01-16T01:14:25+00:00</updated>
+        <updated>2023-02-18T22:48:31+00:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://treacherous.tech/media/posts/22/snowing-background-1547722510q67.jpg" alt="Snow falling from the sky" />
@@ -346,7 +385,7 @@
         <link href="https://treacherous.tech/onionshare-back.html"/>
         <id>https://treacherous.tech/onionshare-back.html</id>
 
-        <updated>2023-01-16T01:14:25+00:00</updated>
+        <updated>2023-02-18T22:48:31+00:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://treacherous.tech/media/posts/20/women-telephone-operators-at-work-12-jpg.jpeg" alt="telephone operator from the olden days" />
@@ -375,7 +414,7 @@
             <category term="life "/>
             <category term="books"/>
 
-        <updated>2023-01-16T01:14:25+00:00</updated>
+        <updated>2023-02-18T22:48:31+00:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://treacherous.tech/media/posts/21/fbi-bot.jpeg" alt="CBC&#x27;s mailmobile in 1977" />
@@ -407,7 +446,7 @@
         <link href="https://treacherous.tech/some-more-notes-on-the-spotify-kerfuffle.html"/>
         <id>https://treacherous.tech/some-more-notes-on-the-spotify-kerfuffle.html</id>
 
-        <updated>2023-01-16T01:14:25+00:00</updated>
+        <updated>2023-02-18T22:48:31+00:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://treacherous.tech/media/posts/19/spotify-logo-zoom-s.jpg" alt="Cassette tapes that ran Apple programming back around 1978" />
@@ -455,7 +494,7 @@
         <link href="https://treacherous.tech/spotify-kerfuffle.html"/>
         <id>https://treacherous.tech/spotify-kerfuffle.html</id>
 
-        <updated>2023-01-16T01:14:25+00:00</updated>
+        <updated>2023-02-18T22:48:31+00:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://treacherous.tech/media/posts/18/Time-coded_vinyl_record.jpg" alt="" />
@@ -491,7 +530,7 @@
         <id>https://treacherous.tech/encryption-is-not-a-crime-its-a-deterrence.html</id>
             <category term="encryption"/>
 
-        <updated>2023-01-16T01:14:25+00:00</updated>
+        <updated>2023-02-18T22:48:31+00:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://treacherous.tech/media/posts/17/keys-261412860438709cZV.jpg" alt="" />
@@ -527,44 +566,6 @@
 <li><a href="https://alecmuffett.com/article/15742" target="_blank" rel="noopener noreferrer">Why we need #EndToEndEncryption and why it’s essential for our safety, our children’s safety, and for everyone’s future #noplacetohide</a>. Many good reasons by security engineer Alec Muffett </li>
 <li><a href="https://www.openrightsgroup.org/campaign/save-encryption/" target="_blank" rel="noopener noreferrer">Save Encryption</a>. Updates on the situation by Open Rights Group.</li>
 </ul>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Happy 2022: Quit more</title>
-        <author>
-            <name>Yours Truly</name>
-        </author>
-        <link href="https://treacherous.tech/happy-2022-quit-more.html"/>
-        <id>https://treacherous.tech/happy-2022-quit-more.html</id>
-
-        <updated>2023-01-16T01:14:25+00:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://treacherous.tech/media/posts/16/uhffszjrfec51.webp" alt="" />
-                    Happy new year. It's a new year and I somehow feel obligated to make a blog post to mark that even though I kind of have writer's block and can't think of anything to write about. Fortunately, this is&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://treacherous.tech/media/posts/16/uhffszjrfec51.webp" alt="" />
-                <p class="dropcap">Happy new year. It's a new year and I somehow feel obligated to make a blog post to mark that even though I kind of have writer's block and can't think of anything to write about. Fortunately, this is a blog, and doesn't really have to be about much anything.</p>
-<p>It's around this time of year I like to take stock of my online presence and various hard drives and see what to keep, delete, or wipe and repeat. One of the nice things about using a password manager and app-based 2FA is that you can keep a nice running list of all the online accounts you've got. <a href="https://keepassxc.org/" target="_blank" rel="noopener noreferrer">KeePassXC</a> tells me how many hundreds of accounts I have floating around. If you want to both strengthen your use of passwords and start and audit of all the places you have an account, set up a password manager, and as you use each account, reset the password to some random 32+ character monster you'll never remember, and keep a record of where you're going online at the same time. The best way to start with a password manager is to just set one up and go. Instead of trying to add all your accounts in one go (if you have a lot of them) just add them as you visit the websites. In about a month, you'll have the majority (if not all) of your important accounts. So there's a new year's PSA for you.</p>
-<h3>The website</h3>
-<p>I'm temporarily closing some buggy things. Closed the onion mirror of this blog and the onionshare contact form for a bit until I can make these things more stable. Will also be looking for a flat-site generator to replace Publii, which started strong, but the bugs are becoming kind of annoying. It edits kind of wonky. Select text to delete and it deletes the paragraph above. Weird. </p>
-<h3>Online accounts</h3>
-<p><strong>Delete: </strong>Amongst many things, Slack. A few years ago I went from 0 to 8 Slacks in just a couple of months, and I currently use 1 of them, and not even that frequently. The one I controlled was easy. As an administrator, I just deleted it. But depending on the version of Slack being used, you may or may not be able to simply opt out. To remove myself from some, I need to contact the administrator. On at least one, I'm sure they've gone AWOL. You shouldn't have to talk to anyone to remove yourself from an online service. Slack was supposed to put an end to emails. It just created a deluge of meaningless chatter. No new Slacks. And need to post in existing ones I want out. </p>
-<p><strong>Keep:</strong> From the collection of digital collateral to roll on with, I'll stick with Publii, the app I'm using to make this blog. It's still glitchy and unfinished, and I can't yet justify using a premium version of it until they make this one work right, but it's maybe the best open source tool for throwing a simple, flat website on the web. Publii, Github and a reasonable domain management service are all that are running this show. The only thing I'm paying for is the domain.</p>
-<p><strong>Wipe and repeat</strong>: I keep some Protonmail addresses, and will even add one to the contact page here soonish. Unless you're also chatting with it using a Protonmail account as well, I don't particularly rate it as greatly enhancing security, and the spam/junk filtering is crap. I do regular wipes of the account though, and some people still want to send an email.</p>
-<h3>Socials</h3>
-<p>I quite Facebook a couple of years back, and have not really missed it. In fact, it immediately made checking in on the web better. Am still in the metaverse via Insta and WhatsApp, but single-use apps are where its at. Quit more social sites, or understand why you're on them. Actually, here I recommend <a href="https://twitter.com/anildash/status/1477313627598299137" target="_blank" rel="noopener noreferrer">Anil Dash's resources</a> on how to wipe your social accounts for new years and new starts. I'm just about to check out a Glitch app on how to "KonMari" Twitter followers <a href="https://glitch.com/~tokimeki-unfollow" target="_blank" rel="noopener noreferrer">here</a>, and highly recommend the process. I usually do this manually, but am happy to see something that makes the process more interesting.</p>
-<h3>2022 digital resolutions</h3>
-<ul>
-<li><strong>Quit more.</strong> Close more accounts, and make my web more ephemeral. I tend to be a volatile user, but I create lots of accounts often just to see what the shiny looking thing does. My goal this year is to close more online things than I open. Quitting another one of the big companies is still on my list. I still have some Amazon and Google services running and would be happy to move off.</li>
-<li><strong>Blog more.</strong> I wrote maybe 6 things last year (no, I'm not counting). Blog shorter, care less about form and style and be a bit more creative and messy (if you can believe it). </li>
-<li><strong>Tech less.</strong> I've downsized my devices in the last couple of years, and could still do some more culling. Like everything else, each thing should be justifying its existence in the horde. </li>
-</ul>
-<p> </p>
             ]]>
         </content>
     </entry>
